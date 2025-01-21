@@ -1,2 +1,2 @@
-# f24
-CS639 Fall 2024 course project respository
+# s25
+CS639 Spring 2025 course project respository
