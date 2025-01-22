@@ -69,7 +69,7 @@ The general rule is no submissions >3 days late. **That is the hard deadline for
 
 Common exceptions, and who to ask:
 - Illness: you can **ask the instructor** to override the late penalty, but they cannot give more than 3 days.  To qualify, you share a link to your repo; your commit history should show you made a substantial start on the project at least 3 days prior to the deadline
-- McBurney accomodations: **email your instructor** a proposed policy for the semester (we can discuss again if your situation changes during the semester)
+- McBurney accomodations: your instructor will email you to setup a meeting; please make sure to **meet with your instructor in-person** to formalize a plan for this semester
 
 If you're working with a project partner who has the late penalty waived, that means it is waived for you as well, even if you don't have special circumstances yourself.
 
