@@ -30,7 +30,8 @@ Students may work alone or optionally work in groups of two.
 
 ## Compute Setup
 
-We'll be using Google cloud (GCP) for our work this semester.  We'll be
+We are expecting to receive Google cloud (GCP) for our work this semester. This section will be updated with  more details soon.
+<!--We'll be using Google cloud (GCP) for our work this semester.  We'll be
 sharing $100 of credit per student.  Some notes about how to manage this credit:
 
 * Some people have multiple GCP accounts, for example, one with @gmail.com and one with @wisc.edu. You must redeem the credits with your @wisc.edu, but it's fine to then use them under any account
@@ -51,7 +52,7 @@ For commands like `scp` and others you will use this semester, the the
 cloud console's in-browser SSH client won't work.  You'll need to
 setup SSH keys with `ssh-keygen` and configure it on
 https://console.cloud.google.com/compute/metadata to get from your
-personal computer.
+personal computer.-->
 
 ## Submission
 
