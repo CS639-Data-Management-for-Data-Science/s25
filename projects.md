@@ -24,7 +24,7 @@ Students may work alone or optionally work in groups of two.
 * a "chats" directory should contain screenshots or PDFs of any chats, in their entirety.  Name them as chat1.png, chat2.png, etc.  PDF and JPG formats are also permitted.
 
 **Other Online Resources**
-* you **may not** use any online resource intended to provide solutions specific to CS 544
+* you **may not** use any online resource intended to provide solutions specific to CS 639
 * you **may** use other online resources, with proper citation
 * add a comment in your code before anything you copied from such sources
 
