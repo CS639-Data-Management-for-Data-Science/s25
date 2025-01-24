@@ -6,7 +6,7 @@ We'll use Google's Cloud (GCP) for our virtual machines.  They've
 generously given each 639 student $100 in credits, which should last
 the whole semester if you remember to __suspend__ (don't delete it!) your VM when not using it.
 
-You can obtain the credits here: https://canvas.wisc.edu/courses/425476/pages/google-credits.
+You can obtain the credits here: [here](https://canvas.wisc.edu/courses/448585/pages/google-credits).
 
 Setup a virtual machine that you'll use for the first few projects
 (we'll eventually delete it and create a more powerful one for some of
