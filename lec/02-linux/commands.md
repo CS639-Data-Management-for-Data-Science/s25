@@ -1,1 +1,1 @@
-ssh <USERNAME>@<IP>
+ssh \<USERNAME\>@\<IP\>
