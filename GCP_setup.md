@@ -28,7 +28,7 @@ or 400), so these directions will be brief:
   - Your SSH key should now be visible at https://console.cloud.google.com/compute/metadata?tab=sshkeys.
 
 When you're done, check that you have the correct Operating System and
-CPU with `cat /etc/os-release` and `lscpu`.  Save the outputs to hand in too:
+CPU with `cat /etc/os-release` and `lscpu`.  Check the saved outputs by using the appropriate linux command to display the contents of the files:
 
 ``` 
 cat /etc/os-release > os.txt
