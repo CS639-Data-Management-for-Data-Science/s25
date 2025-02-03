@@ -38,7 +38,7 @@ mysql -p cs639
 help
 show tables;
 
-git pull (inside your f24 directory)
+git pull (inside your s25 directory)
 # Note: navigate to today's lecture directory within your f24 directory
 jupyter notebook
 ```
