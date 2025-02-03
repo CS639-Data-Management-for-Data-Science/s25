@@ -39,7 +39,7 @@ help
 show tables;
 
 git pull (inside your s25 directory)
-# Note: navigate to today's lecture directory within your f24 directory
+# Note: navigate to today's lecture directory within your s25 directory
 jupyter notebook
 ```
 
