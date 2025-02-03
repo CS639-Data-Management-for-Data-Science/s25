@@ -44,6 +44,9 @@ jupyter notebook
 ```
 
 #### Establish ssh tunnel (from your laptop to your VM):
+
+**IMPORTANT NOTE:** You need to open a new terminal / powershell tab on your laptop to establish this ssh tunnel.
+
 ```
 ssh USER@<IP> -L localhost:8888:localhost:8888
 ```
