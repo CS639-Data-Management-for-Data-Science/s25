@@ -2,7 +2,7 @@
 
 ## Clarifications / fixes
 
-- None yet
+- Github Classroom join link updated. Students who already created teams, please use the following link: https://classroom.github.com/a/qtUnXczB
 
 ## Parter policy for this assignment
 
@@ -375,5 +375,4 @@ Window functions allow you to perform calculations across a set of rows related 
 
 ## Submission
 
-**Github Classroom Invitation Link: https://classroom.github.com/a/3qoad9fE**
-
+**Github Classroom Invitation Link: https://classroom.github.com/a/qtUnXczB**
