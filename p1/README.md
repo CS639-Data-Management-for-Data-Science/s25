@@ -4,7 +4,7 @@
 
 -[2/4 2:40pm] Github Classroom join link updated. Students who already created teams, please use the following link: https://classroom.github.com/a/qtUnXczB
 
-## Parter policy for this assignment
+## Partner policy for this assignment
 
 We do accept partner work on this project. If you are in a team (max two people) to finish this assignment, only one of the team members should submit their assignment. **The submitted repo should have a README file that write ALL the team members' names right at the top of the file**.
 
