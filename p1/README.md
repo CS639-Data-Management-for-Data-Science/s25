@@ -2,7 +2,7 @@
 
 ## Clarifications / fixes
 
-- Github Classroom join link updated. Students who already created teams, please use the following link: https://classroom.github.com/a/qtUnXczB
+-[2/4 2:40pm] Github Classroom join link updated. Students who already created teams, please use the following link: https://classroom.github.com/a/qtUnXczB
 
 ## Parter policy for this assignment
 
