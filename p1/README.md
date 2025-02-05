@@ -51,7 +51,7 @@ You can use this session for your experimentation of the database.
 
 ## Setting up `jupyter` on your VM
 
-In a new terminal / powershell window, open another ssh session to your VM. Create a new directory (*in your home directory*) to keep track of your p1 files (of course don't forget to `cd` into it). Feel free to accept [github classroom invite](https://github.com/CS639-Data-Management-for-Data-Science/s25_dev/tree/main/p1#submission), clone your repository and directory used that directory instead.
+In a new terminal / powershell window, open another ssh session to your VM. Create a new directory (*in your home directory*) to keep track of your p1 files (of course don't forget to `cd` into it). Feel free to accept [github classroom invite](https://classroom.github.com/a/qtUnXczB), clone your repository and directory used that directory instead.
 
 If you haven't already installed these packages on your VM, make sure to complete the below installations:
 ```bash
