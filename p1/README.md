@@ -364,7 +364,7 @@ Window functions allow you to perform calculations across a set of rows related 
 **Hints:** 
 * This is a challenging question.
 * Break it down into individual steps:
-  1. Determine how to extract just the month information from `InvoiceDate` by exploring `DATE_FORMAT`.
+  1. Determine how to extract just the year-month combo information from `InvoiceDate` by exploring `DATE_FORMAT`.(Example: 2021-01 is different than 2022-01 even though both are the Month of Jan)
   2. Then, calculate total sales per month and order the results by month.
   3. Finally, calculate moving average using `PRECEDING` and `CURRENT`.
 
