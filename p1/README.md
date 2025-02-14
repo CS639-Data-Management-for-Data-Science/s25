@@ -3,6 +3,8 @@
 ## Clarifications / fixes
 
 -[2/4 2:40pm] Github Classroom join link updated. Students who already created teams, please use the following link: https://classroom.github.com/a/qtUnXczB
+- [2/14 12:30pm] Please complete this Github Classroom form (same link from Canvas announcement): https://forms.gle/dSxGuMnGRTd4791L6
+- [2/14 12:30pm] Added github repo file hierarchy for project submission
 
 ## Parter policy for this assignment
 
@@ -374,5 +376,16 @@ Window functions allow you to perform calculations across a set of rows related 
 
 
 ## Submission
-
 **Github Classroom Invitation Link: https://classroom.github.com/a/qtUnXczB**
+
+- The structure of the required files for your submissions is as follows:
+```
+project-1--<your_team_name>
+|--- README.md (list names of team members at the top)
+|--- p1.ipynb
+|--- q1.pkl
+|--- q2.pkl
+|--- ...
+|--- q35.pkl
+```
+These are the files that is absolutely needed for grading, however if you have additional files such as *.csv, you won't get marks off. 
