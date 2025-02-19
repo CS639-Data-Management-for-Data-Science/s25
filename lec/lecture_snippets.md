@@ -2,6 +2,33 @@
 
 I will use this file to mention installation requirements for lecture demos and also any code snippets that I will be copy/pasting during the lecture demo.
 
+## Wed, Feb 19 (MongoDB):
+
+#### Installations on your VM:
+
+```
+pip3 install jupyter pandas nbformat nbconvert
+pip3 install pymongo 
+pip3 install geopandas matplotlib
+```
+
+#### Docker clean up
+
+```
+docker system prune
+docker rm `docker ps -aq`
+docker rmi -f `docker images -aq` (force removes stale images)
+```
+```
+docker pull mongo
+docker run --name <container-name> -d -p 127.0.0.1:27017:27017 mongo
+```
+```
+docker exec -it <CONTAINER NAME> bash
+```
+
+--------------------------------
+
 ## Mon, Feb 3 (MySQL):
 
 #### Installations on your VM:
