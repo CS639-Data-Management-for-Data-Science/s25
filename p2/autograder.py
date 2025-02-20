@@ -1642,7 +1642,7 @@ expected_results = {
 }
 
 SOLUTIONS_DIR = 'answers'
-NOTEBOOK_NAME = 'p2ipynb'
+NOTEBOOK_NAME = 'p2.ipynb'
 
 # Question categories
 exact_match_questions = [3, 10, 11, 17, 20, 23, 24, 25, 26, 27, 28, 29, 30, 31]  # Exact matches (data and order)
