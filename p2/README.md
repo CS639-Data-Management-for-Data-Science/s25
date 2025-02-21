@@ -1,4 +1,4 @@
-# P2 (6% of grade): MongoDB
+# P2 (8% of grade): MongoDB
 
 Github Classroom Link: [https://classroom.github.com/a/wDvKEbCR) (group assignment)
 
