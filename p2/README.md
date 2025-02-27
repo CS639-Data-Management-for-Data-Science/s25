@@ -2,6 +2,9 @@
 
 Github Classroom Link: [https://classroom.github.com/a/wDvKEbCR) (group assignment)
 
+## Clarifications/fixes
+[2/26 8:48pm] Students should download the two geojson files mentioned in Section 4.
+
 ## :telescope: Overview
 
 In this project, you'll perform basic and advanced analysis of the `sample_mflix` database using MongoDB Query Language (MQL).
