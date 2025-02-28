@@ -19,12 +19,13 @@ Students may work alone or optionally work in groups of two.
 * **no code copying**; for example, no emailing code (or similar), no photos of code, no looking at code and typing it line by line
 * copying code then changing it is still copying and thus not allowed
 
-**ChatGPT, Large Language Models, Interactive Tools**
-* use of the tools is permitted, with proper citation
+**ChatGPT, Large Language Models, AI Interactive Tools**
+* use of the tools is permitted for debugging purposes, with proper citation
 * a "chats" directory should contain screenshots or PDFs of any chats, in their entirety.  Name them as chat1.png, chat2.png, etc.  PDF and JPG formats are also permitted.
+* you **may not** use any AI platforms to directly to solve parts or entirety of the assignments --- that will be considered as plagiarism
 
 **Other Online Resources**
-* you **may not** use any online resource intended to provide solutions specific to CS 639 --- this is applicable to usage of AI (large language model) platforms directly to solve parts or entirety of the assignments
+* you **may not** use any online resource intended to provide solutions specific to CS 639
 * you **may** use other online resources, with proper citation
 * add a comment in your code before anything you copied from such sources
 
