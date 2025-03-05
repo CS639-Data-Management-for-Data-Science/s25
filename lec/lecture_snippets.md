@@ -22,7 +22,7 @@ curl -fsSL https://elastic.co/start-local | sh
 
 **This command will give you a password and an API key as shown below. Store both.**
 
-![output_of_installing_elasticsearch_with_docker](assets/output_local_install.png)
+![output_of_installing_elasticsearch_with_docker](output_local_install.png)
 
 - To restart your container, cd into `elastic-search-local`: 
 ```bash
