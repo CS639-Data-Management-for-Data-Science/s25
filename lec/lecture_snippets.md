@@ -2,6 +2,55 @@
 
 I will use this file to mention installation requirements for lecture demos and also any code snippets that I will be copy/pasting during the lecture demo.
 
+## Wed, Mar 5 (ElasticSearch):
+
+## Upgrade your VM to e2-medium 
+- Stop and remove all running `docker` containers.
+- Remove all extra/unnecessary data files. You can always redownload when you want to review those topics.
+- We'll continue to have disk size as 25GB.
+- Here's a helpful [tutorial](https://cloud.google.com/compute/docs/instances/changing-machine-type-of-stopped-instance) to upgrade your existing VM.
+- **IMPORTANT**: It is very important that you go through this step first before you go through the installation for ElasticSearch. Otherwise, the installation might fail!
+
+## Setting up ElasticSearch using Docker
+
+**Note** Developing in VS Code is way easier! (The extension: Remote-SSH is a life saver). Please consider switching to VS code instead of 10 floating terminals.
+
+- In your VM, install Elastisearch and Kibana (with docker):
+```bash
+curl -fsSL https://elastic.co/start-local | sh
+```
+
+**This command will give you a password and an API key as shown below. Store both.**
+
+![output_of_installing_elasticsearch_with_docker](assets/output_local_install.png)
+
+- To restart your container, cd into `elastic-search-local`: 
+```bash
+docker stop es-local-dev
+cd elastic-start-local
+docker compose up -d
+```
+
+Sometimes you have to remove the elastic-start-local dir and start from scratch (container state becomes unhealthy when you re-start your VM sometimes)
+
+- [Optional] Sanity check your elasticsearch connection. In your VM:
+```bash
+cd elastic-start-local
+source .env
+curl $ES_LOCAL_URL -H "Authorization: ApiKey ${ES_LOCAL_API_KEY}"
+```
+
+---
+
+## Setting up `jupyter` and `python elasticsearch-client`
+
+- Install `elasticsearch` so we can interact with elasticsearch via Python.
+
+```bash
+pip3 install elasticsearch
+```
+
+
 ## Wed, Feb 19 (MongoDB):
 
 #### Installations on your VM:
