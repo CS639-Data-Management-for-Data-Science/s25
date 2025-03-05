@@ -9,7 +9,7 @@ from pathlib import Path
 
 
 expected_results = {
-    'q1': {'_id': ObjectId('573a1390f29313caabcd4135'),
+    'q1': [{'_id': ObjectId('573a1390f29313caabcd4135'),
                 'plot': 'Three men hammer on an anvil and pass a bottle of beer around.',
                 'genres': ['Short'],
                 'runtime': 1,
@@ -27,7 +27,7 @@ expected_results = {
                 'imdb': {'rating': 6.2, 'votes': 1189, 'id': 5},
                 'type': 'movie',
                 'tomatoes': {'viewer': {'rating': 3, 'numReviews': 184, 'meter': 32},
-                'lastUpdated': datetime.datetime(2015, 6, 28, 18, 34, 9)}},
+                'lastUpdated': datetime.datetime(2015, 6, 28, 18, 34, 9)}}],
     'q2': [{'_id': ObjectId('573a139df29313caabcf8dd4'),
             'fullplot': "An older man listens to Bill's story about being a callow writer who likes to follow strangers around London, observing them. One day, a glib and self-confident man whom Bill has been following confronts him. He's Cobb, a burglar who takes Bill under his wing and shows him how to break and enter. They burgle a woman's flat; Bill gets intrigued with her (photographs are everywhere in her flat). He follows her and chats her up at a bar owned by her ex-boyfriend, a nasty piece of work who killed someone in her living room with a hammer. Soon Bill is volunteering to do her a favor, which involves a break-in. What does the older man know that Bill doesn't?",
             'imdb': {'rating': 7.6, 'votes': 59767, 'id': 154506},
@@ -359,7 +359,7 @@ expected_results = {
             'name': 'Cersei Lannister',
             'email': 'lena_headey@gameofthron.es',
             'password': '$2b$12$FExjgr7CLhNCa.oUsB9seub8mqcHzkJCFZ8heMc8CeIKOZfeTKP8m'}],
-    'q4': {'_id': ObjectId('573a1396f29313caabce4a9a'),
+    'q4': [{'_id': ObjectId('573a1396f29313caabce4a9a'),
             'fullplot': 'When the aging head of a famous crime family decides to transfer his position to one of his subalterns, a series of unfortunate events start happening to the family, and a war begins between all the well-known families leading to insolence, deportation, murder and revenge, and ends with the favorable successor being finally chosen.',
             'imdb': {'rating': 9.2, 'votes': 1038358, 'id': 68646},
             'year': 1972,
@@ -392,7 +392,7 @@ expected_results = {
             'countries': ['USA'],
             'cast': ['Marlon Brando', 'Al Pacino', 'James Caan', 'Richard S. Castellano'],
             'directors': ['Francis Ford Coppola'],
-            'runtime': 175},
+            'runtime': 175}],
     'q5': 23539,
     'q6': 13103,
     'q7': 7024,
