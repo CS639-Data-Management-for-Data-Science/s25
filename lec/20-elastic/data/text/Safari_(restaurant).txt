@@ -1,0 +1,20 @@
+{{Short description|Somali restaurant in New York City}}'''Safari''' is a restaurant specializing in [[Somali cuisine]] located in the [[Harlem|Harlem neighborhood]] of [[New York City|New York, New York]]. As of 2020, it is believed to be the only Somali restaurant in New York City.<ref name="NYmag" /><ref name="NYT" /><ref name="amny" />
+
+The restaurant opened in May 2015 and is located in an area called [[Le Petit Senegal]], home to the highest concentration of West African immigrants in [[Manhattan]].<ref name="NYT"/> Owner Maymuuna Birjeeb was born in [[Kismayo]], Somalia, and grew up in Sweden. Before opening Safari, she worked in banking.<ref name="NYT"/> Decorations on the walls are relatively bare, noted by wooden wall carvings of the [[Osmanya alphabet]].<ref name="NYmag" /><ref name="NYT"/> The restaurant's spices comes from Somalia.<ref name="amny" />
+
+The restaurant has received positive reviews from critics. ''[[The New York Times]]'' described Safari as a "gentle introduction for diners unaccustomed to Somali cuisine."<ref name="NYT">{{cite news |last1=Mishan |first1=Ligaya |title=Safari Brings Somali Cuisine to Harlem |url=https://web.archive.org/web/20160115143702/https://www.nytimes.com/2015/10/07/dining/hungry-city-safari-somali-restaurant-harlem.html |access-date=3 October 2023 |work=New York Times |date=2015-10-01}}</ref> ''[[New York (magazine)|New York magazine]]'' praised "goat and the pasta, which tastes like carbonara without the bacon, are so good that it’s hard to resist wolfing them down."<ref name="NYmag">{{cite news |last1=Niarchos |first1=Nicholas |title=Safari, New York’s Somali Restaurant |url=https://www.newyorker.com/magazine/2017/09/04/safari-new-yorks-somali-restaurant |access-date=3 October 2023 |work=[[New York magazine]] |date=2017-08-25}}</ref> [[AM New York Metro]] described the restaurant as providing "diners with a rare Eastern-African culinary experience that is as authentic as one can find in the tri-state area."<ref name="amny">{{cite news |last1=Pantorno |first1=Joe |title=Safari Restaurant in Harlem offers incredible Somali cuisine |url=https://www.amny.com/news/watch-amny-tv-safari-restaurant-in-harlem-offers-incredible-somali-cuisine/ |access-date=3 October 2023 |work=[[AM New York Metro]] |date=2020-07-06}}</ref>
+
+==References==
+{{reflist}}
+
+{{Coord|40|48|14|N|73|57|13|W|type:landmark_region:US-NY|display=title}}
+
+{{Restaurants in Manhattan}}
+[[Category:2015 establishments in New York City]]
+[[Category:Restaurants established in 2015]]
+[[Category:Restaurants in New York City]]
+[[Category:Somali cuisine]]
+[[Category:African culture in New York (state)]]
+[[Category:Somali-American history]]
+
+{{NYC-restaurant-stub}}

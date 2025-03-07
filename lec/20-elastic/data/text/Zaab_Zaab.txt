@@ -1,0 +1,56 @@
+{{Short description|Restaurant chain in New York City, U.S.}}
+
+
+{{Infobox restaurant
+| embed               = 
+| name                = Zaab Zaab
+| title               = <!-- If embedding use this for secondary small font title -->
+| logo                = 
+| logo_width          = 
+| logo_alt            = 
+| image               = 
+| image_width         = 
+| image_alt           = 
+| image_caption       = 
+| mapframe            = <!-- Set to yes to show a mapframe map -->
+| pushpin_map         = <!-- Requires {{para|coordinates}} -->
+| map_alt             = 
+| map_caption         = 
+| map_size            = 
+| established         = {{Start date|2022|05}}<ref>{{cite web |last=Shin |first=Caroline |date=2022-08-23 |url=https://ny.eater.com/2022/8/23/23318015/isan-thai-zaab-zaab-expands-williamsburg-flushing-tangram-chelsea-james-beard-food-hall |title=Acclaimed Zaab Zaab to Expand to Williamsburg, Chelsea, and Flushing |website=Eater NY |access-date=2024-06-19}}</ref>
+| closed              = <!-- {{End date|YYYY|MM|DD}} -->
+| current-owner       = 
+| previous-owner      = 
+| manager             = 
+| head-chef           = 
+| chef                = 
+| pastry-chef         = 
+| food-type           = 
+| dress-code          = 
+| rating              = 
+| street-address      = 76-04 Woodside Avenue
+| city                = Elmhurst
+| county              = 
+| state               = New York
+| postcode            = 11373
+| country             = United States
+| coordinates         = {{Coord|40.743302|-73.888652|format=dms|type:landmark_region:US-NY|display=inline,title}}
+| seating-capacity    = 
+| reservations        = 
+| other-locations     = Williamsburg, Brooklyn<br />Pier 57, Manhattan<br />Flushing, Queens
+| other-information   = <!-- or |other-label= -->
+| website             = {{URL|zaabzaabnyc.com}}
+}}
+'''Zaab Zaab''' is a small chain of restaurants in [[New York City]].<ref>{{Cite news |last=Wells |first=Pete |date=2022-06-28 |title=Restaurant Review: Zaab Zaab Marks a High Point for Isan Thai Food in New York |url=https://www.nytimes.com/2022/06/28/dining/zaab-zaab-review-isan-thai-food-nyc.html |access-date=2024-06-18 |work=The New York Times |language=en-US |issn=0362-4331 |archive-date=2024-04-29 |archive-url=https://web.archive.org/web/20240429144123/https://www.nytimes.com/2022/06/28/dining/zaab-zaab-review-isan-thai-food-nyc.html |url-status=live }}</ref><ref>{{Cite web |last=Sietsema |first=Robert |date=2022-05-03 |title=Queens Thai Newcomer Zaab Zaab Is a Welcome Addition to NYC's Growing Isan Food Scene |url=https://ny.eater.com/2022/5/3/23053241/zaab-zaab-thai-isan-restaurant-review-queens-elmhurst |access-date=2024-06-18 |website=Eater NY |language=en |archive-date=2024-06-11 |archive-url=https://web.archive.org/web/20240611043337/https://ny.eater.com/2022/5/3/23053241/zaab-zaab-thai-isan-restaurant-review-queens-elmhurst |url-status=live }}</ref><ref>{{Cite web |date=2023-01-11 |title=Zaab Zaab Review - Williamsburg - New York |url=https://www.theinfatuation.com/new-york/reviews/zaab-zaab-williamsburg |access-date=2024-06-18 |website=The Infatuation |language=en |archive-date=2023-06-09 |archive-url=https://web.archive.org/web/20230609155541/https://www.theinfatuation.com/new-york/reviews/zaab-zaab-williamsburg |url-status=live }}</ref><ref>{{Cite web |title=Zaab Zaab – New York - a MICHELIN Guide Restaurant |url=https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zaab-zaab |access-date=2024-06-18 |website=MICHELIN Guide |language=en-US |archive-date=2022-10-15 |archive-url=https://web.archive.org/web/20221015072129/https://guide.michelin.com/us/en/new-york-state/new-york/restaurant/zaab-zaab |url-status=live }}</ref><ref>{{Cite web |last=Fortney |first=Luke |date=2024-04-11 |title=New York's Top Thai Restaurant Opens a Burger Joint |url=https://ny.eater.com/2024/4/11/24126190/zaab-zaab-opens-zaab-burger-essex-market |access-date=2024-06-18 |website=Eater NY |language=en |archive-date=2024-04-15 |archive-url=https://web.archive.org/web/20240415233217/https://ny.eater.com/2024/4/11/24126190/zaab-zaab-opens-zaab-burger-essex-market |url-status=live }}</ref>
+
+==References==
+{{Reflist}}
+
+
+[[Category:2022 establishments in New York City]]
+[[Category:Restaurant chains in the United States]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurants established in 2022]]
+
+
+{{NYC-restaurant-stub}}

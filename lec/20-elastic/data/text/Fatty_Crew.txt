@@ -1,0 +1,60 @@
+{{Infobox restaurant
+| name              = Fatty Crew
+| logo              =
+| logo_width        = File:Fatty Crew Logo.jpg
+| logo_alt          =
+| image             =
+| image_width       =
+| image_alt         =
+| image_caption     =
+| pushpin_map       =
+| map_width         =
+| map_alt           =
+| map_caption       =
+| slogan            =
+| established       = 2005
+| closed            =
+| current-owner     = Rick Camac, [[Zak Pelaccio|Zakary Pelaccio]]
+| chef              = Zakary Pelaccio, Leah Cohen
+| head-chef         =
+| food-type         = Malaysian, Southeast Asian, Fusion
+| dress-code        =
+| rating            =
+| street-address    =
+| city              = New York City
+| county            =
+| state             = New York
+| postcode          =
+| country           = United States
+| coordinates       =
+| seating-capacity  =
+| reservations      =
+| other-locations   =
+| other-information =
+| website           = [http://www.fattycrew.com www.fattycrew.com]
+}}
+'''Fatty Crew''', or  '''Fatty Crew Hospitality Group''', is a restaurant group based in [[New York City]]. Member restaurants include '''Fatty Crab''', '''Fatty 'Cue''', and '''Pig and Khao'''. It is founded by Rick Camac and [[Zak Pelaccio|Zakary Pelaccio]].
+
+== History ==
+Pelaccio's first restaurant, the Chickenbone Cafe, was relatively short-lived, opening and closing in 2003.<ref name = "Fatty 'Cue Review">{{cite web|title=A Roadhouse With a World View|url=https://www.nytimes.com/2011/11/30/dining/reviews/fatty-cue-nyc-restaurant-review.html|accessdate=11 July 2013|author=Eric Asimov|work=New York Times}}</ref> Following that, he performed a short stint in 5 Ninth, but eventually left and founded Fatty Crew with Rick Camac. Their flagship restaurant, Fatty Crab, opened in 2005. As of 2017 every project managed or owned by Fatty Crew has closed.
+
+With a restaurant that has been "full nearly since the minute it opened," <ref name = "Fatty Crab Review">{{cite web|title=Sopping Up Malaysian Sauces Downtown|url=http://events.nytimes.com/2005/10/26/dining/reviews/26unde.html|work=New York Times|author=Peter Meehan|accessdate=11 July 2013}}</ref> Pelaccio and Camac set out to expand their group into different cuisine styles, opening two Fatty 'Cue restaurants in West Village and Brooklyn.
+
+Recently, Fatty Crew partnered with Top Chef contestant Leah Cohen to open up Pig and Khao, and Fatty Crab opened a new location in Hong Kong. Fatty Crew also explored several other side projects, including a partnership with [[Kardashian]] member Scott Disick in Ryu, a restaurant in the meatpacking district.<ref>{{cite web|title = That Kardashian–Fatty Crew Restaurant Gets a Name|url=http://www.grubstreet.com/2012/04/scott-disick-restaurant-new-york-ryu.html|accessdate=17 July 2013|author=Alan Sytsma|publisher=New York Magazine}}</ref>
+
+All of the Fatty Crew restaurants have since closed as of 2017 and the management deal with Leah Cohen is over after a heated legal dispute.
+
+== Critical reception ==
+Fatty Crew's restaurants received immediate critical acclaim following their launches. with Fatty Crab, Fatty 'Cue, and Pig and Khao all receiving two stars from the New York Times.<ref name = "Fatty 'Cue Review" /><ref name = "Fatty Crab Review" /><ref>{{cite web|url=https://www.nytimes.com/2013/03/13/dining/reviews/restaurant-review-jeepney-in-the-east-village-pig-and-khao-on-the-lower-east-side.html|work=New York Times|accessdate=11 July 2013|author=Pete Wells|title=Two Roads to the Philippines}}</ref>
+
+Zagat listed Fatty 'Cue as one of the top 6 barbecue restaurants in New York City.<ref>{{cite web|url=http://blog.zagat.com/2013/06/new-york-citys-6-best-barbecue.html|publisher=Zagat|accessdate=17 July 2013|title=New York City's 6 Best Barbecue Restaurants}}</ref> Likewise, Village Voice named Fatty 'Cue as one of the 10 best barbecue restaurants in NYC.<ref>{{cite web|url=http://blogs.villagevoice.com/forkintheroad/2013/07/our_10_best_bar_1.php?page=2|publisher=Village Voice|accessdate=17 July 2013|author=Zachary Feldman|title=Our Ten Best Barbecue Restaurants in NYC}}</ref> New York Magazine also awarded Fatty 'Cue for serving the Best Sandwich in New York.<ref>{{cite web|url=http://www.grubstreet.com/2010/05/the_101_best_sandwiches_in_new.html#photo=101x49428|publisher=New York Magazine|accessdate=17 July 2013|title=The 101 Best Sandwiches in New York}}</ref>
+
+== References ==
+{{reflist}}
+
+==External links==
+* {{Official|http://www.fattycrew.com}}
+
+[[Category:Companies based in New York City]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurants established in 2005]]

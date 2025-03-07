@@ -1,0 +1,49 @@
+{{Short description|Coffee company}}
+{{Infobox company
+| name = Coffeed
+| logo = 
+| logo_caption = 
+| logo_upright = <!-- default: 1 -->
+| logo_alt = 
+| type = 
+| industry = 
+| predecessor = <!-- or: predecessors = -->
+| founded = <!-- if known: {{Start date and age|YYYY|MM|DD}} in [[city]], country -->
+| founder = <!-- or: founders = -->
+| defunct = 2019
+| fate = 
+| successor = <!-- or:  successors = -->
+| hq_location_city = 
+| hq_location_country = United States
+| area_served = <!-- or: areas_served = -->
+| key_people = 
+| products = Coffee
+| owner = <!-- or: owners = -->
+| num_employees = 
+| num_employees_year = <!-- Year of num_employees data (if known) -->
+| parent = 
+| website = <!-- {{URL|example.com}} -->
+}}
+'''Coffeed''' was a "philanthropic artisanal coffee company" with its headquarters in [[Queens|Queens, New York City]], [[United States|USA]].<ref name="Crain's">{{cite news |last=Fung |first=Amanda |date=January 6, 2016 |url=http://www.crainsnewyork.com/article/20160106/NONPROFITS/160109960/a-local-coffee-company-grounds-itself-in-philanthropy |title=A Local Coffee Company Grounds Itself In Philanthropy |work=Crain's New York Business}}</ref> The company opened its flagship location in [[Long Island City]] in September 2012.<ref name="LIC Post">{{cite news |last=Murray |first=Christian |date=January 26, 2016 |url=http://licpost.com/2016/01/26/coffeed-to-open-new-lic-facility/ |title=Coffeed To Open New LIC Facility, As New York Expansion Continues |url-status=dead |archive-url=https://web.archive.org/web/20160228230646/http://licpost.com/2016/01/26/coffeed-to-open-new-lic-facility/ |archive-date=2016-02-28 |work=LIC Post}}</ref>  As of June 2019, the flagship location on [[Northern Boulevard]] closed and the LIC Landing became the new flagship location.<ref>{{Cite web|url=https://www.yelp.com/biz/coffeed-lic-flagship-long-island-city|title=COFFEED - LIC Flagship - CLOSED - Sunnyside - Long Island City, NY|website=Yelp|language=en|access-date=2019-06-29}}</ref><ref>{{Cite web|url=https://www.coffeednyc.com/location/lic-landing-flagship/|title=LIC Landing – Flagship – COFFEED NYC|website=www.coffeednyc.com|access-date=2019-06-29}}</ref> By February 2016, Coffeed had a dozen locations in the [[New York City|New York]] area and one in [[Seoul|Seoul, South Korea]].<ref name="Crain's" />  Included among them are LIC Landing, an outdoor café in Hunter's Point South Park, and New Leaf, a restaurant in [[Manhattan|Manhattan's]] [[Fort Tryon Park]].<ref name="LIC Post" />  
+
+Coffeed closed all locations and ceased operating in December 2019. 
+
+== Business model, charitable partners ==
+
+Each Coffeed location donated a portion of its revenue (usually 3-10%) to a charitable partner based in the same neighborhood as the store.<ref name="LIC Post" /> Former partners included [[New York Foundling|The New York Foundling]], [[New York Restoration Project]] (NYRP), City Growers, and Community Mainstreaming Associates.<ref name="LIC Post" /> As of 2016, Coffeed had donated nearly $250,000 to charity.<ref name="LIC Post" />
+
+==References==
+{{Reflist}}
+
+{{-}}
+
+{{Restaurants in Queens, New York}}
+
+[[Category:Coffeehouses and cafés in the United States]]
+[[Category:Restaurants in New York City]]
+[[Category:Companies based in Queens, New York]]
+[[Category:American companies established in 2012]]
+[[Category:Food and drink companies established in 2012]]
+
+
+{{US-company-stub}}

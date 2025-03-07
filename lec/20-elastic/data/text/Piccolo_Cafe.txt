@@ -1,0 +1,31 @@
+{{Short description|American fast casual restaurant chain}}
+{{Infobox company
+| name             = Piccolo Cafe
+| foundation       = 2009
+| location_city    = [[New York City]], [[New York (state)|New York]]
+| location_country = [[United States]] 
+| locations        = 4
+| homepage         = {{URL|http://piccolocafe.us/}}
+| logo             = Piccolo Cafe Logo.jpeg 
+| type             = Private
+| founder          = [[Michele C. Massari]]<br>Alberto Ghezzi
+| area_served      = North America
+| industry         = Restaurants
+| genre            = [[Fast casual]]
+| products         = {{flat list|[[Salad]]s{{*}}[[Panini (sandwich)|Panini]]{{*}}[[Pasta]]{{*}}[[Gelato]]{{*}}[[Soup]]s}}
+}}
+'''Piccolo Cafe''' is a chain of fast casual restaurants that serves [[salad]]s, [[Panini (sandwich)|Panini]], [[Pasta]], [[Gelato]] and [[Espresso]].<ref>{{cite news|url= https://www.villagevoice.com/2016/03/14/feeling-groggy-after-losing-an-hour-of-sleep-get-your-coffee-fix-at-piccolo-cafe/|title= Feeling Groggy After Losing an Hour of Sleep? Get Your Coffee Fix at Piccolo Café|date= March 14, 2016|newspaper= [[The Village Voice]]}}</ref><ref>{{cite news|url= http://corrieredibologna.corriere.it/bologna/notizie/economia/2015/6-ottobre-2015/massari_newyork-2302013190844.shtml|title= Il bolognese che ha stregato New York Il suo "Piccolo Caffè" è un successo|date= October 6, 2015|newspaper=  [[Corriere della Sera]]}}</ref> It was founded in 2009 in New York City and now has 4 locations throughout New York City. It serves typical food from the Italian city of [[Bologna]] located in the area of [[Emilia Romagna]].<ref>{{cite news|url= https://www.stuff.co.nz/life-style/food-wine/102374467/review-piccolo-delivers-true-italian-notes|title= Restaurant review: Piccolo delivers true Italian notes|date= March 22, 2018|newspaper= [[Stuff.co.nz]]}}</ref>
+
+==History==
+Founded in 2009 by Michele Casadei Massari,<ref>{{cite web|url= http://www.sassuolo2000.it/2016/12/29/presidente-bonaccini-incontra-michele-casadei-massari-fondatore-chef-executive-del-piccolo-cafe-new-york/|title= Il presidente Bonaccini incontra Michele Casadei Massari, fondatore e Chef Executive del Piccolo Cafè di New York|date= December 29, 2016|accessdate= March 26, 2018|website= sassuolo2000.it}}</ref> the restaurant was opened to public in 2010.<ref>{{cite news|url= http://www.bolognatoday.it/social/segnalazioni/bologna-the-indulgent-piccolo-cafe-new-york-2613228.html|title= Bologna the Indulgent arriva al Piccolo Cafe a New York|date= October 26, 2015|newspaper= Bologna Today}}</ref> It mainly aimed at imported Italian foods such as Italian [[Espresso]] and [[Prosciutto]].<ref>{{cite web|url= http://www.lavocedinewyork.com/arts/arte-e-design/2016/12/22/al-piccolo-cafe-si-cucinano-talenti/|title= Al Piccolo Cafe si cucinano talenti|accessdate= March 24, 2018|website= La Voce di New York|date= 22 December 2016}}</ref> The restaurant started its operation in three more locations in New York, making them four in total.<ref>{{cite news|url= http://www.snjtoday.com/story/35941334/piccolo-cafe-opens-offering-nyc-vibe-in-vineland|title= Piccolo Cafe Opens, Offering NYC Vibe in Vineland|date= April 25, 2017|accessdate= March 24, 2018|newspaper= [[WACP|SNJ Today]]}}</ref>
+In 2014, Piccolo Cafe started a catering services for private and public sector.<ref>{{cite news|url= https://www.dnainfo.com/new-york/20130116/upper-west-side/piccolo-cafe-serve-up-new-line-of-cocktails-dishes|title= Piccolo Cafe to Serve Up New Line of Cocktails and Dishes|date= January 16, 2013|newspaper= [[DNAinfo]]|access-date= March 26, 2018|archive-url= https://web.archive.org/web/20171229112203/https://www.dnainfo.com/new-york/20130116/upper-west-side/piccolo-cafe-serve-up-new-line-of-cocktails-dishes|archive-date= December 29, 2017|url-status= dead}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+[[Category:Companies based in New York City]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurant chains in the United States]]
+[[Category:Italian restaurants in New York City]]
+[[Category:2009 establishments in New York City]]
+[[Category:Restaurants established in 2009]]

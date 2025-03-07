@@ -1,0 +1,56 @@
+{{Short description|Puerto Rican restaurant in New York City, U.S.}}
+{{Orphan|date=June 2024}}
+
+{{Infobox restaurant
+| embed               = 
+| name                = La Piraña Lechonera
+| title               = <!-- If embedding use this for secondary small font title -->
+| logo                = 
+| logo_width          = 
+| logo_alt            = 
+| image               = 
+| image_width         = 
+| image_alt           = 
+| image_caption       = 
+| mapframe            = <!-- Set to yes to show a mapframe map -->
+| pushpin_map         = <!-- Requires {{para|coordinates}} -->
+| map_alt             = 
+| map_caption         = 
+| map_size            = 
+| established         = <!-- {{Start date|YYYY|MM|DD}} -->
+| closed              = <!-- {{End date|YYYY|MM|DD}} -->
+| current-owner       = 
+| previous-owner      = 
+| manager             = 
+| head-chef           = 
+| chef                = 
+| pastry-chef         = 
+| food-type           = Puerto Rican
+| dress-code          = 
+| rating              = 
+| street-address      = 
+| city                = Bronx
+| county              = 
+| state               = New York
+| postcode            = <!-- or |zip= -->
+| country             = United States
+| coordinates         = {{Coord|40.815729|-73.906281|format=dms|type:landmark_region:US-NY|display=inline,title}}
+| seating-capacity    = 
+| reservations        = 
+| other-locations     = 
+| other-information   = <!-- or |other-label= -->
+| website             = <!-- {{URL|example.com}} -->
+}}
+'''La Piraña Lechonera''' is a food trailer at East 152nd Street and Wales Avenue in the [[South Bronx]], New York.<ref>{{Cite news |last=Wells |first=Pete |date=2022-06-21 |title=At La Piraña Lechonera, a Machete, a Shower of Pork and Other Magic |url=https://www.nytimes.com/2022/06/21/dining/la-pirana-lechonera-review-pete-wells.html |access-date=2024-06-18 |work=The New York Times |language=en-US |issn=0362-4331}}</ref> The restaurant serves [[Puerto Rican cuisine]].<ref>{{Cite web |last=Makalintal |first=Bettina |date=2019-05-09 |title=The South Bronx’s Most Legendary Lechón Comes From a Man Known As 'The Piranha' |url=https://www.vice.com/en/article/xwnyp3/the-south-bronxs-most-legendary-lechon-comes-from-a-man-known-as-the-piranha |access-date=2024-06-18 |website=Vice |language=en |archive-date=2024-03-06 |archive-url=https://web.archive.org/web/20240306085239/https://www.vice.com/en/article/xwnyp3/the-south-bronxs-most-legendary-lechon-comes-from-a-man-known-as-the-piranha |url-status=live }}</ref><ref>{{Cite web |last=Hernandez |first=Nicholas |date=2024-04-01 |title=The Best Places to Eat in the South Bronx |url=https://ny.eater.com/maps/best-restaurants-bars-coffee-south-bronx |access-date=2024-06-18 |website=Eater NY |language=en |archive-date=2024-05-03 |archive-url=https://web.archive.org/web/20240503073454/https://ny.eater.com/maps/best-restaurants-bars-coffee-south-bronx |url-status=live }}</ref>
+
+== References ==
+{{Portal|Food|New York City}}
+{{Reflist}}
+
+{{DEFAULTSORT:Pirana Lechonera}}
+[[Category:Longwood, Bronx]]
+[[Category:Puerto Rican cuisine]]
+[[Category:Restaurants in New York City]]
+
+
+{{NYC-restaurant-stub}}
