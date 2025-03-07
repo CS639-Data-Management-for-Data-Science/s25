@@ -1697,8 +1697,8 @@ def test_imports(load_notebook):
 def test_mongodb_connection(load_notebook):
     """Check that the student connected to MongoDB using MongoClient."""
     notebook_code = "\n".join(load_notebook)
-    assert "MongoClient('mongodb://" in notebook_code, \
-        "MongoClient connection string not found."
+    assert "MongoClient('mongodb://" in notebook_code or "MongoClient(\"mongodb://" in notebook_code, \
+        "MongoClient connection string not found." # accepting both single quote and double quote
 
 
 def test_load_files_to_mongo(load_notebook):
