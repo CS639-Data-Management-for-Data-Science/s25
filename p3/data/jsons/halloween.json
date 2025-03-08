@@ -1,0 +1,99 @@
+{
+    "arrests":[
+        {
+            "year": 2001,
+            "attended": 120000,
+            "arrests": 0
+        },
+        {
+            "year": 2002,
+            "attended": 65000,
+            "arrests": 0
+        },
+        {
+            "year": 2003,
+            "attended": 105000,
+            "arrests": 350
+        },
+        {
+            "year": 2004,
+            "attended": 80000,
+            "arrests": 0
+        },
+        {
+            "year": 2005,
+            "attended": 100000,
+            "arrests": 556
+        },
+        {
+            "year": 2006,
+            "attended": 32000,
+            "arrests": 230
+        },
+        {
+            "year": 2007,
+            "attended": 34000,
+            "arrests": 181
+        },
+        {
+            "year": 2008,
+            "attended": 38000,
+            "arrests": 77
+        },
+        {
+            "year": 2009,
+            "attended": 44000,
+            "arrests": 47
+        },
+        {
+            "year": 2010,
+            "attended": 35000,
+            "arrests": 43
+        },
+        {
+            "year": 2011,
+            "attended": 25000,
+            "arrests": 30
+        },
+        {
+            "year": 2012,
+            "attended": 35000,
+            "arrests": 36
+        },
+        {
+            "year": 2013,
+            "attended": 31000,
+            "arrests": 28
+        },
+        {
+            "year": 2014,
+            "attended": 35000,
+            "arrests": 46
+        },
+        {
+            "year": 2015,
+            "attended": 37000,
+            "arrests": 9
+        },
+        {
+            "year": 2016,
+            "attended": 32000,
+            "arrests": 13
+        },
+        {
+            "year": 2017,
+            "attended": 19000,
+            "arrests": 11
+        },
+        {
+            "year": 2018,
+            "attended": 20000,
+            "arrests": 12
+        },
+        {
+            "year": 2019,
+            "attended": 20000,
+            "arrests": 2
+        }
+    ]
+}

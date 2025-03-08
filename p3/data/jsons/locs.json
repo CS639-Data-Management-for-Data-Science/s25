@@ -1,0 +1,2460 @@
+{
+    "places": [
+        {
+            "formattedAddress": "3527 Atwood Ave, Madison, WI 53714, USA",
+            "name": "Olbrich Park",
+            "coordinates": "-89.33037039999999 , 43.0878482",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ9eo6-PpTBogRKfW7K5T19w8",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "702 S Randall Ave, Madison, WI 53715, USA",
+            "name": "Vilas (Henry) Park",
+            "coordinates": "-89.40955989999999 , 43.0592225",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDW-2TNisB4gRW6GvgXepmjU",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "614 E Gorham St, Madison, WI 53703, USA",
+            "name": "James Madison Park",
+            "coordinates": "-89.3835804 , 43.0811053",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJc4xi40NTBogRzOGudKhXSuo",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "25 Burrows Rd, Madison, WI 53704, USA",
+            "name": "Burrows Park",
+            "coordinates": "-89.36696099999999 , 43.1022766",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJKSjmToRUBogRCFgNKJyf_OA",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "402 N Thornton Ave, Madison, WI 53703, USA",
+            "name": "Tenney Park",
+            "coordinates": "-89.3670351 , 43.0918178",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDZKLQnxTBogRkIjIGiWDU4g",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "University of Wisconsin–Madison, 2000 University Bay Dr, Madison, WI 53705, USA",
+            "name": "Picnic Point",
+            "coordinates": "-89.4081398 , 43.075322",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJHUh_CpWsB4gRZDpzkeBl4Mk",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "2930 N Sherman Ave, Madison, WI 53704, USA",
+            "name": "Warner Park",
+            "coordinates": "-89.3667296 , 43.1302413",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJvwhwbPxUBogRnLQtXteaUwk",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "2000 University Bay Dr, Madison, WI 53705, USA",
+            "name": "UW-Madison Lakeshore Nature Preserve",
+            "coordinates": "-89.4216051 , 43.0866099",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFxm-uJmsB4gR0OdrcjbVFig",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "3J72+JXQ, Madison, WI 53715, USA",
+            "name": "Brittingham Park",
+            "coordinates": "-89.39751559999999 , 43.0640875",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "EiAzSjcyK0pYUSwgTWFkaXNvbiwgV0kgNTM3MTUsIFVTQSImOiQKCg3rDqsZFYwFt8oQCxoUChIJhQj9pixTBogRB7wsP94XefA",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "2101 Allen Blvd, Madison, WI 53705, USA",
+            "name": "Marshall Park",
+            "coordinates": "-89.4821456 , 43.0932196",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJD_8QpK2uB4gR_5KArJWbljY",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "3330 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Olbrich Botanical Gardens",
+            "coordinates": "-89.3356651 , 43.0925809",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJOYRb8_ZTBogRLIoR0KxukFA",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "1250 McKenna Blvd, Madison, WI 53719, USA",
+            "name": "Elver Park",
+            "coordinates": "-89.5021874 , 43.0384599",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ807K5EeuB4gRa9C8GQz7xao",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "830 Jana Ln, Madison, WI 53704, USA",
+            "name": "Sycamore Park",
+            "coordinates": "-89.3019348 , 43.11262199999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ9UA2-MBWBogRFo97oBQpxsU",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "3902 Regent St, Madison, WI 53705, USA",
+            "name": "Hoyt Park",
+            "coordinates": "-89.44116749999999 , 43.0681035",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJyXqaIFqsB4gR78f3J73OL80",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "6300 Mendota Ave, Middleton, WI 53562, USA",
+            "name": "Lakeview Park",
+            "coordinates": "-89.488814 , 43.0964429",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJi7txxkupB4gRS_46HA1t_X4",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "6021 Old Sauk Rd, Madison, WI 53705, USA",
+            "name": "Owen Conservation Park",
+            "coordinates": "-89.48485 , 43.0705339",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJNUbqK5GuB4gR5KroK-Jq60k",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "115 N Eau Claire Ave, Madison, WI 53705, USA",
+            "name": "Rennebohm Park",
+            "coordinates": "-89.462583 , 43.07073",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJse8ndDusB4gRCE_-iMQ4x5k",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "333 S Rosa Rd, Madison, WI 53705, USA",
+            "name": "Garner Park",
+            "coordinates": "-89.4763961 , 43.0624189",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ8y00LIKuB4gRULuP42RwViE",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "2930 Chapel Valley Rd, Fitchburg, WI 53711, USA",
+            "name": "McKee Farms Park",
+            "coordinates": "-89.43220769999999 , 43.0114166",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJMZOimoayB4gRfXpEaVqeAZg",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "1103 Spaight St, Madison, WI 53703, USA",
+            "name": "Orton Park",
+            "coordinates": "-89.36328639999999 , 43.0808145",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ_aj4KXRTBogRjzyLb_I9tiY",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "702 S Randall Ave, Madison, WI 53715, USA",
+            "name": "Henry Vilas Zoo",
+            "coordinates": "-89.40955989999999 , 43.0592225",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDW-2TNisB4gRW6GvgXepmjU",
+            "place_type": "parks"
+        },
+        {
+            "formattedAddress": "1210 W Dayton St, Madison, WI 53706, USA",
+            "name": "Computer Sciences and Statistics",
+            "coordinates": "-89.4065681 , 43.0711993",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJAZRZNM-sB4gRD5swpCzI3Ms",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1210 W Dayton St, Madison, WI 53706, USA",
+            "name": "University of Wisconsin - Madison Department of Computer Sciences",
+            "coordinates": "-89.4065681 , 43.0711993",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJAZRZNM-sB4gRD5swpCzI3Ms",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1341 Computer Science, 1210 W Dayton St, Madison, WI 53715, USA",
+            "name": "Undergraduate Projects Lab",
+            "coordinates": "-89.4065681 , 43.0711993",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJAZRZNM-sB4gRD5swpCzI3Ms",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Wisconsin Institutes for Discovery, 330 N Orchard St, Madison, WI 53715, USA",
+            "name": "Wisconsin Institute for Discovery",
+            "coordinates": "-89.40807129999999 , 43.0729696",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJeTSOsasB4gRow7I_F-flRI",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "330 N Orchard St, Madison, WI 53715, USA",
+            "name": "Discovery Building",
+            "coordinates": "-89.40807129999999 , 43.0729696",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJeTSOsasB4gRow7I_F-flRI",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "2415, Engineering Hall, 1415 Engineering Dr, Madison, WI 53706, USA",
+            "name": "UW-Madison Department of Electrical and Computer Engineering",
+            "coordinates": "-89.410294 , 43.07176430000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJXwT7fcasB4gRpZwLN16X3gc",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1210 W Dayton St, Madison, WI 53706, USA",
+            "name": "UW School of Computer, Data & Information Sciences",
+            "coordinates": "-89.4065681 , 43.0711993",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJAZRZNM-sB4gRD5swpCzI3Ms",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "797 W Dayton St, Madison, WI 53706, USA",
+            "name": "Nicholas Recreation Center",
+            "coordinates": "-89.39893339999999 , 43.0707403",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFcGmssysB4gR0IjBB5O5K-Q",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "330 N Orchard St, Madison, WI 53715, USA",
+            "name": "Discovery Building",
+            "coordinates": "-89.40807129999999 , 43.0729696",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJeTSOsasB4gRow7I_F-flRI",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Microbial Sciences, 1550 Linden Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin-Madison Microbial Sciences Building",
+            "coordinates": "-89.41216179999999 , 43.0756925",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJfXJTWsesB4gRKoGjiu9-QDo",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "455 N Park St, Madison, WI 53706, USA",
+            "name": "George L. Mosse Humanities Building",
+            "coordinates": "-89.39985999999999 , 43.0739127",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJU6KC48qsB4gRfh25lbs8fIo",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1220 Linden Dr, Madison, WI 53706, USA",
+            "name": "Van Hise Hall",
+            "coordinates": "-89.4064607 , 43.0753512",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJjcZnjMesB4gRF-HlZUxIyFE",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "2107, Mechanical Engineering Building, 1513 University Ave, Madison, WI 53706, USA",
+            "name": "Department of Mechanical Engineering",
+            "coordinates": "-89.4124265 , 43.0731405",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJBY8ZzMasB4gRZXfKj2wOx1I",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "W Johnson St, Madison, WI 53706, USA",
+            "name": "Chemistry Building",
+            "coordinates": "-89.3943381 , 43.07199",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "EiRXIEpvaG5zb24gU3QsIE1hZGlzb24sIFdJIDUzNzA2LCBVU0EiLiosChQKEgkbipoxNVMGiBEw0s6SmKjDiBIUChIJ_7rCM7msB4gRu4VcgmUFX4U",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Nancy Nicholas Hall, 1300 Linden Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin–Madison School of Human Ecology",
+            "coordinates": "-89.4087644 , 43.0757388",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJT1rYjcesB4gR8wCcQN7mZns",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Van Vleck Hall, 480 Lincoln Dr, Madison, WI 53706, USA",
+            "name": "Van Vleck Hall",
+            "coordinates": "-89.4045057 , 43.0747424",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJHQlgvsmsB4gR1jUybX9ov0k",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Engineering Hall, 1415 Engineering Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin-Madison Engineering Hall",
+            "coordinates": "-89.410294 , 43.07176430000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJXwT7fcasB4gRpZwLN16X3gc",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+            "name": "Chazen Museum of Art",
+            "coordinates": "-89.399823 , 43.074127",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "500 Lincoln Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin–Madison",
+            "coordinates": "-89.40435269999999 , 43.075478",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJQT6IjsmsB4gRt6uW_tL12ZQ",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1415 Engineering Dr, Madison, WI 53706, USA",
+            "name": "UW-Madison College of Engineering",
+            "coordinates": "-89.410294 , 43.07176430000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJXwT7fcasB4gRpZwLN16X3gc",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1550 Engineering Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin System - Engineering Centers Building",
+            "coordinates": "-89.41347060000001 , 43.0727698",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJy29wOMGsB4gR4k8LIQ1WbpY",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Union South, 1308 W Dayton St, Madison, WI 53715, USA",
+            "name": "University of Wisconsin Campus and Visitor Relations",
+            "coordinates": "-89.40764639999999 , 43.0719999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJteRWAsasB4gR9x4p_0lQGG8",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "1180 Observatory Dr, Madison, WI 53706, USA",
+            "name": "William H. Sewell Social Sciences Building",
+            "coordinates": "-89.4052976 , 43.0765006",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJxRDWLrasB4gRFWyQmVihtK4",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Henry Mall, Madison, WI 53706, USA",
+            "name": "Biochemical Sciences Building",
+            "coordinates": "-89.4104404 , 43.0742567",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJQaV7B8esB4gRWvb2rSO135M",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "460 Henry Mall, Madison, WI 53706, USA",
+            "name": "Agricultural Engineering Building",
+            "coordinates": "-89.410681 , 43.07481680000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ5zABDMesB4gRv2Ut7-W1XSI",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "975 University Ave, Madison, WI 53706, USA",
+            "name": "Wisconsin School of Business",
+            "coordinates": "-89.40163559999999 , 43.0727087",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJe0onv8usB4gRLcq8Y_VTDig",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "Thomas C Chamberlin Hall, 1150 University Ave, Madison, WI 53706, USA",
+            "name": "Chamberlin Hall",
+            "coordinates": "-89.4053392 , 43.0736316",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "2238 S Park St, Madison, WI 53713, USA",
+            "name": "UW South Madison Partnership",
+            "coordinates": "-89.3952542 , 43.0411774",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJe2GGv8tSBogRpK89y1sTXMQ",
+            "place_type": "uw"
+        },
+        {
+            "formattedAddress": "802 Atlas Ave, Madison, WI 53714, USA",
+            "name": "Voodoo Night Club",
+            "coordinates": "-89.3095124 , 43.0852865",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJY1kC9UVRBogRHVq6WWGCGN4",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "5 Applegate Ct, Madison, WI 53713, USA",
+            "name": "FIVE Nightclub",
+            "coordinates": "-89.4070242 , 43.0326094",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJe7nDtEitB4gRTY9WIJHZapo",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "303 N Henry St, Madison, WI 53703, USA",
+            "name": "Sotto Night Club",
+            "coordinates": "-89.3900704 , 43.07508929999999",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ5UCp6zdTBogRrFUBitir_j8",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "3116 Commercial Ave, Madison, WI 53714, USA",
+            "name": "Crucible",
+            "coordinates": "-89.33582779999999 , 43.1074462",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJYSoUdRFUBogR3mkhAfgvGnI",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "624 University Ave, Madison, WI 53715, USA",
+            "name": "Liquid",
+            "coordinates": "-89.396921 , 43.073375",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJm7Kl4zRTBogRD_nzB5ZPsxw",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "1525 N Stoughton Rd, Madison, WI 53704, USA",
+            "name": "Club LaMark",
+            "coordinates": "-89.32421149999999 , 43.1189575",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJfSovzyBUBogRyBrCKKIKj90",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "5 E Wilson St, Madison, WI 53703, USA",
+            "name": "Madison Club",
+            "coordinates": "-89.3808131 , 43.0725033",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJJSv7Pz5TBogRZdMzMamer8I",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "7302 US-14, Middleton, WI 53562, USA",
+            "name": "Silk Exotic Madison Gentlemen's Club",
+            "coordinates": "-89.5540747 , 43.0961831",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJpUhUAv6lB4gRPXOy2-zgw4Q",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "202 State St, Madison, WI 53703, USA",
+            "name": "Comedy on State",
+            "coordinates": "-89.38828409999999 , 43.0750238",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJryZQFjhTBogRVr5RjFK13x4",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "610 North St, Madison, WI 53704, USA",
+            "name": "The North Street Cabaret",
+            "coordinates": "-89.3514907 , 43.1073403",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJLyPZeGVUBogRYXCO-u3qcZc",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "552 State St, Madison, WI 53703, USA",
+            "name": "Whiskey Jack's Saloon",
+            "coordinates": "-89.394834 , 43.075139",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJCXMI6zVTBogRUMH_OeNbUfk",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "418 E Wilson St, Madison, WI 53703, USA",
+            "name": "the Cardinal Bar",
+            "coordinates": "-89.3771778 , 43.07580129999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJQeXl1RRTBogRVEYp4bKobw8",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "105 W Main St, Madison, WI 53703, USA",
+            "name": "Genna's Lounge",
+            "coordinates": "-89.38441309999999 , 43.0727125",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJDdiJNDlTBogRDlqCnQEK7sw",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "25 S Livingston St, Madison, WI 53703, USA",
+            "name": "The Sylvee",
+            "coordinates": "-89.37425800000001 , 43.08079",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJD95wAGxTBogR33Us9GbWpi0",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "1212 Regent St, Madison, WI 53715, USA",
+            "name": "The Red Zone Madison",
+            "coordinates": "-89.4064022 , 43.0678893",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJmQbAuc-sB4gR9Xzl0w3jClw",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "701 E Washington Ave, Madison, WI 53703, USA",
+            "name": "High Noon Saloon",
+            "coordinates": "-89.37634369999999 , 43.0797899",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJzb7RwGtTBogRuarsP6rDDd8",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "204 State St, Madison, WI 53703, USA",
+            "name": "Paul's Club",
+            "coordinates": "-89.38835399999999 , 43.0749515",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ___PFzhTBogRhXXaxHx7Hc8",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "3735 Monona Dr, Madison, WI 53714, USA",
+            "name": "The East Side Club",
+            "coordinates": "-89.32725380000001 , 43.0863613",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJI-TEpvxTBogRrPz1AvAWDs4",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "119 W Main St, Madison, WI 53703, USA",
+            "name": "Paradise Lounge",
+            "coordinates": "-89.38467209999999 , 43.0723726",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJT93ASTlTBogR8wI8zVmSuDk",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "217 Cottage Grove Rd, Madison, WI 53716, USA",
+            "name": "Jade Monkey Cocktail Lounge",
+            "coordinates": "-89.3219746 , 43.0833308",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJP36fY1hRBogRiuCKlwXFoys",
+            "place_type": "clubs"
+        },
+        {
+            "formattedAddress": "3330 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Olbrich Botanical Gardens",
+            "coordinates": "-89.3356651 , 43.0925809",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJOYRb8_ZTBogRLIoR0KxukFA",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+            "name": "Chazen Museum of Art",
+            "coordinates": "-89.399823 , 43.074127",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "100 N Hamilton St, Madison, WI 53703, USA",
+            "name": "Madison Children's Museum",
+            "coordinates": "-89.3843946 , 43.0769396",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJpRpMTEdTBogRmnMbDeN2fe4",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "30 W Mifflin St, Madison, WI 53703, USA",
+            "name": "Wisconsin Veterans Museum",
+            "coordinates": "-89.3864423 , 43.074946",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJbABizhTBogRqrHPQEu3m24",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "3527 Atwood Ave, Madison, WI 53714, USA",
+            "name": "Olbrich Park",
+            "coordinates": "-89.33037039999999 , 43.0878482",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ9eo6-PpTBogRKfW7K5T19w8",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "1109 Fourier Dr, Madison, WI 53717, USA",
+            "name": "Crawdaddy Cove Indoor Water Park",
+            "coordinates": "-89.5234153 , 43.0820794",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJh9T4ejuvB4gRdUgu5bRSvXk",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "2 E Main St, Madison, WI 53702, USA",
+            "name": "Wisconsin State Capitol",
+            "coordinates": "-89.3840985 , 43.0749666",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJgdPwND9TBogRtvN4WwZ0bmE",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "702 S Randall Ave, Madison, WI 53715, USA",
+            "name": "Henry Vilas Zoo",
+            "coordinates": "-89.40955989999999 , 43.0592225",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDW-2TNisB4gRW6GvgXepmjU",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "702 S Randall Ave, Madison, WI 53715, USA",
+            "name": "Vilas (Henry) Park",
+            "coordinates": "-89.40955989999999 , 43.0592225",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDW-2TNisB4gRW6GvgXepmjU",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "227 State St, Madison, WI 53703, USA",
+            "name": "Madison Museum of Contemporary Art",
+            "coordinates": "-89.3892675 , 43.0744554",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX6_hiDdTBogRAAOT78mVz8I",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "620 Babcock Dr, Madison, WI 53706, USA",
+            "name": "Allen Centennial Garden",
+            "coordinates": "-89.4142469 , 43.0776552",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJMfudFL-sB4gRG7B25xHnB_g",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "University of Wisconsin–Madison, 2000 University Bay Dr, Madison, WI 53705, USA",
+            "name": "Picnic Point",
+            "coordinates": "-89.4081398 , 43.075322",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJHUh_CpWsB4gRZDpzkeBl4Mk",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "2930 N Sherman Ave, Madison, WI 53704, USA",
+            "name": "Warner Park",
+            "coordinates": "-89.3667296 , 43.1302413",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJvwhwbPxUBogRnLQtXteaUwk",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "6021 Old Sauk Rd, Madison, WI 53705, USA",
+            "name": "Owen Conservation Park",
+            "coordinates": "-89.48485 , 43.0705339",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJNUbqK5GuB4gR5KroK-Jq60k",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "614 E Gorham St, Madison, WI 53703, USA",
+            "name": "James Madison Park",
+            "coordinates": "-89.3835804 , 43.0811053",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJc4xi40NTBogRzOGudKhXSuo",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "110 E Gorham St, Madison, WI 53703, USA",
+            "name": "Period Garden Park",
+            "coordinates": "-89.38657789999999 , 43.0785814",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJf4Db_0ZTBogRNyMbbOwQJW0",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "2000 University Bay Dr, Madison, WI 53705, USA",
+            "name": "UW-Madison Lakeshore Nature Preserve",
+            "coordinates": "-89.4216051 , 43.0866099",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFxm-uJmsB4gR0OdrcjbVFig",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "1150 University Ave, Madison, WI 53706, USA",
+            "name": "Physics Museum",
+            "coordinates": "-89.4053392 , 43.0736316",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "2025 Yahara Pl, Madison, WI 53704, USA",
+            "name": "Yahara Place Park",
+            "coordinates": "-89.35159399999999 , 43.08729719999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJu0f-ooNTBogR28K1Vh7FfMI",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "3102 Lake Farm Rd, Madison, WI 53711, USA",
+            "name": "Capital Springs Recreation Area",
+            "coordinates": "-89.348056 , 43.027633",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJBXt8Jm5SBogR65ubZxCrHG8",
+            "place_type": "tourism"
+        },
+        {
+            "formattedAddress": "4805 Voges Rd, Madison, WI 53718, USA",
+            "name": "Redline Watersports",
+            "coordinates": "-89.2986923 , 43.040038",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ909gMblRBogRd6xlZONyP2s",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "2620 Rimrock Rd, Fitchburg, WI 53713, USA",
+            "name": "Rutabaga Paddlesports",
+            "coordinates": "-89.3811139 , 43.034226",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGR5ZT75SBogRVvOcG4kFAzE",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "1201 Woodward Dr, Madison, WI 53704, USA",
+            "name": "Jet Ski Madison",
+            "coordinates": "-89.3764504 , 43.1250882",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJmUXq-t1UBogRWjwL_MhvRow",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "5339 Lighthouse Bay Dr Pier 5, Madison, WI 53704, USA",
+            "name": "Capitol Boat Club",
+            "coordinates": "-89.4070057 , 43.1489218",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ8fP7Ss-qB4gRVjcDH-4kw78",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "1101 Woodward Dr, Madison, WI 53704, Madison, WI 53706, USA",
+            "name": "Papa Jet Ski Rentals",
+            "coordinates": "-89.3794077 , 43.1283222",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJt-vmXedUBogRC0l2MXyFLAU",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "1109 Fourier Dr, Madison, WI 53717, USA",
+            "name": "Crawdaddy Cove Indoor Water Park",
+            "coordinates": "-89.5234153 , 43.0820794",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJh9T4ejuvB4gRdUgu5bRSvXk",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "2620 Rimrock Rd, Madison, WI 53713, USA",
+            "name": "Rutabaga Outdoor Adventures",
+            "coordinates": "-89.3811139 , 43.034226",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGR5ZT75SBogRVvOcG4kFAzE",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "Marina Slip #5, 6308 Inland Wy, Monona, WI 53713, USA",
+            "name": "Paddle Pub Madison",
+            "coordinates": "-89.33702770000001 , 43.0489369",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "Eig2MzA4IElubGFuZCBXeSAjNSwgTW9ub25hLCBXSSA1MzcxMywgVVNBIh0aGwoWChQKEgktHg4rN1IGiBFNtkx5uvfxLxIBNQ",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "824 Knickerbocker St, Madison, WI 53711, USA",
+            "name": "Wingra Park and Boat Livery",
+            "coordinates": "-89.4267438 , 43.0552795",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJXxKlMx2tB4gRxi-9xmXDFwY",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "3527 Atwood Ave, Madison, WI 53714, USA",
+            "name": "Olbrich Park Boat Rentals",
+            "coordinates": "-89.33037039999999 , 43.0878482",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ9eo6-PpTBogRKfW7K5T19w8",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "800 Langdon St, Madison, WI 53706, USA",
+            "name": "Outdoor UW",
+            "coordinates": "-89.3999525 , 43.0768135",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX9KgaLWsB4gRNJR0ZiLaRv4",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "411 N Fair Oaks Ave, Madison, WI 53714, USA",
+            "name": "Rich's Boardsports",
+            "coordinates": "-89.3302921 , 43.1037465",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJVVKaIgVUBogRcJV8JUsyztc",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "437 N Frances St #913, Madison, WI 53703, USA",
+            "name": "Badger Pontoon Charters",
+            "coordinates": "-89.39553839999999 , 43.0747751",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJy-jQvDVTBogRygeBEvOmFKM",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "725 Jenifer St, Madison, WI 53703, USA",
+            "name": "Capital Lake Pontoons",
+            "coordinates": "-89.3718713 , 43.0771659",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJg7s0PW1TBogRC6kTUnz26fY",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "Below Alumni Center, 650 N Lake St, Madison, WI 53706, USA",
+            "name": "UW Goodspeed Family Pier",
+            "coordinates": "-89.3975531 , 43.0767358",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJeZs7pUpTBogRk3hGOKllnj0",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "7309 W Towne Way, Madison, WI 53719, USA",
+            "name": "Urban Air Adventure Park",
+            "coordinates": "-89.508451 , 43.0542188",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJPePlR1SuB4gRbpSLz53N008",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "5381 Westport Rd, Madison, WI 53704, USA",
+            "name": "SkipperBud's Madison",
+            "coordinates": "-89.40734119999999 , 43.15266219999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJlwK_EsiqB4gR5Dw7y1kObjw",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "7483 W Towne Way, Madison, WI 53719, USA",
+            "name": "REI",
+            "coordinates": "-89.5126226 , 43.05662220000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJZeJ1sKqvB4gR049HiL_jB2c",
+            "place_type": "water_sports"
+        },
+        {
+            "formattedAddress": "821 E Johnson St, Madison, WI 53703, USA",
+            "name": "The Robin Room",
+            "coordinates": "-89.3771038 , 43.0836101",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJyz0l_2hTBogR1GOS69MjUps",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "224 Ohio Ave, Madison, WI 53704, USA",
+            "name": "Ohio Tavern",
+            "coordinates": "-89.34732819999999 , 43.0938947",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJM9N5lIlTBogRDVmmRnq3BnY",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "119 W Main St, Madison, WI 53703, USA",
+            "name": "Paradise Lounge",
+            "coordinates": "-89.38467209999999 , 43.0723726",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJT93ASTlTBogR8wI8zVmSuDk",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "204 State St, Madison, WI 53703, USA",
+            "name": "Paul's Club",
+            "coordinates": "-89.38835399999999 , 43.0749515",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ___PFzhTBogRhXXaxHx7Hc8",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "1524 Williamson St, Madison, WI 53703, USA",
+            "name": "Mickey's Tavern",
+            "coordinates": "-89.3587228 , 43.0878869",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJc2Sn-YJTBogRe7L_HRqkURM",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "20 W Mifflin St, Madison, WI 53703, USA",
+            "name": "The Coopers Tavern",
+            "coordinates": "-89.3862859 , 43.075195",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJx7OgjjhTBogRg1Ozf0UIuiU",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "1328 S Midvale Blvd, Madison, WI 53711, USA",
+            "name": "Le Tigre Lounge",
+            "coordinates": "-89.45253819999999 , 43.0380317",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ75LxLr6tB4gRebnuARYVq9w",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "416 S Park St, Madison, WI 53715, USA",
+            "name": "Mason Lounge",
+            "coordinates": "-89.4010995 , 43.0628104",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJO65xn9OsB4gRcGXGqgXE1Jc",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "206 State St, Madison, WI 53703, USA",
+            "name": "The Botanist Social",
+            "coordinates": "-89.38835399999999 , 43.0749515",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJVVUFGDhTBogRaVObzm_uxVw",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "554 W Main St, Madison, WI 53703, USA",
+            "name": "Echo Tap & Grill",
+            "coordinates": "-89.39136959999999 , 43.0681997",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJV-9fUTBTBogRtriBWayPxJk",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "552 State St, Madison, WI 53703, USA",
+            "name": "Whiskey Jack's Saloon",
+            "coordinates": "-89.394834 , 43.075139",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJCXMI6zVTBogRUMH_OeNbUfk",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "319 N Henry St, Madison, WI 53703, USA",
+            "name": "The Plaza Tavern",
+            "coordinates": "-89.3901356 , 43.0754187",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJP9BL6DdTBogRiLjcp4sdhWI",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "102 King St, Madison, WI 53703, USA",
+            "name": "Tipsy Cow",
+            "coordinates": "-89.38144919999999 , 43.0748138",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ9UGUoj9TBogRosJMybXNX9g",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "110 King St, Madison, WI 53703, USA",
+            "name": "Plain Spoke Cocktail Company",
+            "coordinates": "-89.3811765 , 43.0748372",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJHXeTvT9TBogRvz4oMtuoE1o",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "123 E Doty St, Madison, WI 53703, USA",
+            "name": "The Great Dane Pub & Brewing Company",
+            "coordinates": "-89.38006469999999 , 43.0743762",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJty_c2j9TBogRUp5ytwXRoPA",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "123 E Main St, Madison, WI 53703, USA",
+            "name": "Argus BarGrille",
+            "coordinates": "-89.3810397 , 43.075104",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJb4UYlD9TBogR_NDonBgdOn0",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "117 W Main St, Madison, WI 53703, USA",
+            "name": "Shamrock Bar & Grille",
+            "coordinates": "-89.3846719 , 43.0724486",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJVcD6STlTBogRCa1eRZNOcMI",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "105 W Main St, Madison, WI 53703, USA",
+            "name": "Genna's Lounge",
+            "coordinates": "-89.38441309999999 , 43.0727125",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJDdiJNDlTBogRDlqCnQEK7sw",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "627 W Main St, Madison, WI 53703, USA",
+            "name": "Main Depot",
+            "coordinates": "-89.3920095 , 43.0672529",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ0XWKxTFTBogRfMEGyn_L5S8",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "602 University Ave, Madison, WI 53715, USA",
+            "name": "Wando's",
+            "coordinates": "-89.3959203 , 43.0733926",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJZX27VjRTBogRRSkm89cCWQ8",
+            "place_type": "bars"
+        },
+        {
+            "formattedAddress": "1 S Pinckney St, Madison, WI 53703, USA",
+            "name": "Graze Restaurant",
+            "coordinates": "-89.38210219999999 , 43.0754933",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJvw6XEsNTBogRN99XXAXk-pI",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "23 N Pinckney St #1, Madison, WI 53703, USA",
+            "name": "The Old Fashioned",
+            "coordinates": "-89.3836317 , 43.0762951",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJG-tFpkBTBogRW-zHwm5aKEg",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "617 Williamson St, Madison, WI 53703, USA",
+            "name": "Sardine",
+            "coordinates": "-89.37470979999999 , 43.0760403",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJB6pBq2xTBogRqXed7i7fr3Y",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "131 E Mifflin St, Madison, WI 53703, USA",
+            "name": "Heritage Tavern",
+            "coordinates": "-89.38324449999999 , 43.0768301",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJI3cPvUBTBogRkyFLKilOqm4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "644 W Washington Ave, Madison, WI 53703, USA",
+            "name": "The Harvey House",
+            "coordinates": "-89.3951079 , 43.0683118",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJo-1wZzJTBogRZLbVRc4iuno",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "128 E Wilson St, Madison, WI 53703, USA",
+            "name": "Osteria Papavero",
+            "coordinates": "-89.37932980000001 , 43.0741457",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJcyGQfBVTBogRkupMPXMlZXs",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1 S Pinckney St, Madison, WI 53703, USA",
+            "name": "L'Etoile Restaurant",
+            "coordinates": "-89.38210219999999 , 43.0754933",
+            "priceLevel": "PRICE_LEVEL_VERY_EXPENSIVE",
+            "place_id": "ChIJvw6XEsNTBogRN99XXAXk-pI",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "2138 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Nook",
+            "coordinates": "-89.35058339999999 , 43.0931165",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJf3eYfIhTBogRju8iLsxaE6s",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1874 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Mint Mark",
+            "coordinates": "-89.3610186 , 43.092372",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJhx0ze39TBogRUkh7zxwTNSI",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "15 N Butler St, Madison, WI 53703, USA",
+            "name": "Naples 15",
+            "coordinates": "-89.3814993 , 43.077215",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJNRNtZ0BTBogRSyppSMUyzkc",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1 N Webster St, Madison, WI 53703, USA",
+            "name": "Eno Vino Downtown",
+            "coordinates": "-89.3823592 , 43.0765875",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJ99NXhkBTBogRRFu34cBmBT8",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "116 S Hamilton St, Madison, WI 53703, USA",
+            "name": "Tornado Steak House",
+            "coordinates": "-89.3845981 , 43.072486",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJ_UL5NTlTBogRk3IRSncI4-A",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "317 N Frances St, Madison, WI 53703, USA",
+            "name": "Dotty Dumpling's Dowry",
+            "coordinates": "-89.39557429999999 , 43.0728217",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJHaWbXDRTBogRPMvCam6B-20",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "119 King St, Madison, WI 53703, USA",
+            "name": "Madison's",
+            "coordinates": "-89.3806695 , 43.0744857",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJJWZqxz9TBogRSHkOqxfUu0E",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "122 W Mifflin St, Madison, WI 53703, USA",
+            "name": "Cento",
+            "coordinates": "-89.3873352 , 43.0742558",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJRc1nRThTBogRVCR3BGx0q6s",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "118 S Pinckney St, Madison, WI 53703, USA",
+            "name": "Marigold Kitchen",
+            "coordinates": "-89.3815111 , 43.0741182",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJpawzrj9TBogR9bvMvygYCGo",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "2611 Monroe St, Madison, WI 53711, USA",
+            "name": "Fairchild",
+            "coordinates": "-89.4281208 , 43.0575442",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJqywCaP2sB4gR6lJ4hAWcujY",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "121 S Pinckney St, Madison, WI 53703, USA",
+            "name": "Merchant Madison",
+            "coordinates": "-89.38101189999999 , 43.0742365",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ31Hrtz9TBogRTYpujTHZQb0",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "940 Williamson St, Madison, WI 53703, USA",
+            "name": "A Pig In A Fur Coat",
+            "coordinates": "-89.3685813 , 43.0805",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJS3YTJHJTBogRGmdFpPzjYJ0",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "2601 W Beltline Hwy, Madison, WI 53713, USA",
+            "name": "Bonfyre American Grille",
+            "coordinates": "-89.4217781 , 43.0345393",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ_-_LhWutB4gRYqeT453UbZ4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "4602 Monona Dr, Madison, WI 53716, USA",
+            "name": "Hot-n-Spicy",
+            "coordinates": "-89.3254379 , 43.0700874",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJb1Q7JNlTBogRqmdfPYH8S0c",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "708 1/4 E Johnson St, Madison, WI 53703, USA",
+            "name": "Hot Lunch",
+            "coordinates": "-89.3795667 , 43.0822442",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJxW5xdUJTBogRvx-e5lQ508I",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "309 N Henry St, Madison, WI 53703, USA",
+            "name": "The Globe",
+            "coordinates": "-89.39014859999999 , 43.0752074",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJbRQZ6jdTBogRtkXCFp8fVHY",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1517 Monroe St, Madison, WI 53711, USA",
+            "name": "Stadium Takeout",
+            "coordinates": "-89.4130892 , 43.0673634",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJq-DaW8OsB4gRadDmizKoCE4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "601 Junction Rd Suite 2, Madison, WI 53717, USA",
+            "name": "K-Peppers",
+            "coordinates": "-89.52565450000002 , 43.0732121",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJAQBAmBavB4gRAagFZ0IgCFQ",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "7007 Sligo Dr Building C, Madison, WI 53717, USA",
+            "name": "Dave's Hot Chicken",
+            "coordinates": "-89.5031241 , 43.0610522",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJCe_S5_muB4gRMF_6BmC3AuI",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "610 S Park St, Madison, WI 53715, USA",
+            "name": "Ichiban",
+            "coordinates": "-89.4011125 , 43.0606161",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ8dUCYdSsB4gR2y5ObIg5skw",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "600 Williamson St E, Madison, WI 53703, USA",
+            "name": "Double 10 Mini Hot Pot",
+            "coordinates": "-89.374957 , 43.0766991",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJmVSspmxTBogR1sDf38x2xOI",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "4814 Annamark Dr, Madison, WI 53704, USA",
+            "name": "Dave's Hot Chicken",
+            "coordinates": "-89.30096 , 43.1322625",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJT5hupPVWBogRPrplJI2hTmU",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "334 State St, Madison, WI 53703, USA",
+            "name": "Ruyi Hand Pulled Noodle",
+            "coordinates": "-89.39097579999999 , 43.0749714",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJk61fyDdTBogRPCYlcHbDw_I",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "117 E Mifflin St, Madison, WI 53703, USA",
+            "name": "Sol's on the Square",
+            "coordinates": "-89.383354 , 43.0766334",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ-51Eo0BTBogRG13CKhhWFzU",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "414 W Gilman St, Madison, WI 53703, USA",
+            "name": "Paul's Pel'meni",
+            "coordinates": "-89.39407039999999 , 43.0745458",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJG-Fl2TVTBogRWuuljzAqsyQ",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "700 State St, Madison, WI 53703, USA",
+            "name": "Bombay Fast Cafe",
+            "coordinates": "-89.3978628 , 43.0755712",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJqT6tQjVTBogRxA6pcERziVM",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "2840 University Ave, Madison, WI 53705, USA",
+            "name": "Sa-Bai Thong Thai Cuisine",
+            "coordinates": "-89.43796999999999 , 43.07528",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ61Oox1-sB4gRbxDBhmcnGRo",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "2326 Atwood Ave, Madison, WI 53704, USA",
+            "name": "MonsoonSiam",
+            "coordinates": "-89.3475295 , 43.09376229999999",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJi9oHlolTBogRSrC5abGDVt4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1054 Williamson St, Madison, WI 53703, USA",
+            "name": "Sultan",
+            "coordinates": "-89.3664424 , 43.0820576",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ3eF7QHFTBogRzGR0nZrsARw",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1046 E Washington Ave, Madison, WI 53703, USA",
+            "name": "Jacknife",
+            "coordinates": "-89.370868 , 43.084935",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJwcjh6W9TBogRa88p6HSCna4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1835 Monroe St, Madison, WI 53711, USA",
+            "name": "Kettle Black Kitchen",
+            "coordinates": "-89.4167061 , 43.0649185",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJYZcOb92sB4gRhpfi1MVLLZY",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "410 E Wilson St, Madison, WI 53703, USA",
+            "name": "Hutong 胡同小酒馆",
+            "coordinates": "-89.3772774 , 43.0756573",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJdfnHKRVTBogRatif6Uc7aA0",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "225 King St, Madison, WI 53703, USA",
+            "name": "Little Palace",
+            "coordinates": "-89.3793615 , 43.0743345",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJa4nZYhVTBogRrEVN4SEIkjk",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "3044 Fish Hatchery Rd, Madison, WI 53713, USA",
+            "name": "Teriyaki Sushi Express",
+            "coordinates": "-89.4149181 , 43.02562330000001",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ9awn_FytB4gRm61Nf5BwlQc",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1745 Parkside Dr, Madison, WI 53704, USA",
+            "name": "Sumo Steakhouse & Sushi Bar",
+            "coordinates": "-89.314791 , 43.1227497",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJEU0j6ZpWBogRidorF-CZHfs",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "316 W Washington Ave #100, Madison, WI 53703, USA",
+            "name": "RED",
+            "coordinates": "-89.38788770000001 , 43.0724227",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJQT606jlTBogRVzArVueTSeQ",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1133 Williamson St, Madison, WI 53703, USA",
+            "name": "Tokyo Sushi",
+            "coordinates": "-89.3649063 , 43.0825767",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJvbcLz3ZTBogRRUUSPAO5C58",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "546 N Midvale Blvd, Madison, WI 53705, USA",
+            "name": "Muramoto Hilldale",
+            "coordinates": "-89.4521688 , 43.0717097",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJd7gGM0GsB4gRwQ6BIkrF95g",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "610 University Ave, Madison, WI 53715, USA",
+            "name": "Sushi Express",
+            "coordinates": "-89.3962809 , 43.0734295",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJZfTN-DRTBogRPQQXjOR_KJg",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "27 E Main St, Madison, WI 53703, USA",
+            "name": "Tavernakaya",
+            "coordinates": "-89.381956 , 43.07434300000001",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJEcEfCD9TBogRLe6FwBP6a1U",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1843 Monroe St, Madison, WI 53711, USA",
+            "name": "Sequoia",
+            "coordinates": "-89.416854 , 43.0648055",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJi4j2b92sB4gRaAEJxUnmxWM",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "696 S Whitney Way, Madison, WI 53711, USA",
+            "name": "Takara Sushi Station",
+            "coordinates": "-89.47455 , 43.05027390000001",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ0RGBhHiuB4gR-jzO5asRsIw",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "532 S Park St, Madison, WI 53715, USA",
+            "name": "Oishi sushi & bar",
+            "coordinates": "-89.4010562 , 43.0611372",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJk-IefdSsB4gRgFj6IyvePiA",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "449 State St 2nd floor, Madison, WI 53703, USA",
+            "name": "Yume Sushi",
+            "coordinates": "-89.39346019999999 , 43.0746449",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJJS39czZTBogRUA5L4Xnfn5c",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "610 Junction Rd #113, Madison, WI 53717, USA",
+            "name": "FIN SUSHI",
+            "coordinates": "-89.5267729 , 43.0733763",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJRxCzPBSvB4gRmAXPBAlHXVg",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "3650 University Ave, Madison, WI 53705, USA",
+            "name": "SNOWFOX Sushi",
+            "coordinates": "-89.4494436 , 43.0765161",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJpaBs4GmsB4gRy7M0O_UUUQo",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "4222 E Towne Blvd, Madison, WI 53704, USA",
+            "name": "Takumi Poke Bowl",
+            "coordinates": "-89.3102218 , 43.1248124",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJyc5UJY5WBogRF4tPXkJYVg0",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "511 State St, Madison, WI 53703, USA",
+            "name": "Awi Sushi",
+            "coordinates": "-89.39417329999999 , 43.0747007",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJn5xr3DVTBogRZTUqwaUFmKc",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "4738 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Nori Sushi and Grill",
+            "coordinates": "-89.30263939999999 , 43.133193",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJQ6VUQfVWBogRqJd7TrJ6j3U",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "811 S Gammon Rd, Madison, WI 53719, USA",
+            "name": "Akari Sushi",
+            "coordinates": "-89.50263029999999 , 43.0474061",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJI8mf_0-uB4gRnI0_lKNzLNo",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "515 Cottage Grove Rd, Madison, WI 53716, USA",
+            "name": "Yako Sushi House",
+            "coordinates": "-89.3176919 , 43.0836123",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ25lVL1pRBogRioIka74t6aA",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "1046 E Washington Ave, Madison, WI 53703, USA",
+            "name": "Jacknife",
+            "coordinates": "-89.370868 , 43.084935",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJwcjh6W9TBogRa88p6HSCna4",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "261 Junction Rd, Madison, WI 53717, USA",
+            "name": "SNOWFOX Sushi",
+            "coordinates": "-89.5247224 , 43.0649408",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJYYtWWQ6vB4gR5wqZlIQjJ9o",
+            "place_type": "restaurants"
+        },
+        {
+            "formattedAddress": "114 State St, Madison, WI 53703, USA",
+            "name": "Michelangelo's Coffee House",
+            "coordinates": "-89.38722779999999 , 43.0748735",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ82eXZzhTBogRNEudc3p6fmY",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "1358 Williamson St, Madison, WI 53703, USA",
+            "name": "Lazy Jane's Cafe and Bakery",
+            "coordinates": "-89.36172210000001 , 43.085364",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ9SNp83dTBogRPYB_zktplRo",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "127 N Hamilton St, Madison, WI 53703, USA",
+            "name": "Bradbury's Coffee",
+            "coordinates": "-89.3838317 , 43.077187",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJb5mlt0BTBogR0mHx-gU4FOw",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "1225 Regent St, Madison, WI 53715, USA",
+            "name": "Indie Coffee",
+            "coordinates": "-89.4065691 , 43.0675444",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJpdcowc-sB4gRM6ijGkAlgXo",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "301 W Johnson St, Madison, WI 53703, USA",
+            "name": "Short Stack Eatery",
+            "coordinates": "-89.3899805 , 43.0745277",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJB3jAljdTBogR8oTkMCEigUM",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "4124 Monona Dr, Monona, WI 53716, USA",
+            "name": "Crema Cafe",
+            "coordinates": "-89.3240091 , 43.07858760000001",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ7RpctuFTBogRZ0DuT3yO474",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "2358 E Springs Dr, Madison, WI 53704, USA",
+            "name": "Broken Board Coffee",
+            "coordinates": "-89.2953337 , 43.1293235",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJr7AESfdWBogR3rUDWWyfWZU",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "915 Atlas Ave, Madison, WI 53714, USA",
+            "name": "Cottage Cafe",
+            "coordinates": "-89.30656979999999 , 43.0852527",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJh9ZIKEZRBogRI4QuB_TgbjI",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "27 W Main St, Madison, WI 53703, USA",
+            "name": "Wonderstate Coffee - Madison Cafe",
+            "coordinates": "-89.384008 , 43.0730665",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJz3nhzz5TBogRYw1bUnf6bH0",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "4221 Lien Rd, Madison, WI 53704, USA",
+            "name": "Java Cat Coffee House",
+            "coordinates": "-89.3101305 , 43.1207245",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJt9wRFpFWBogRFyA4veduqWw",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "418 State St, Madison, WI 53703, USA",
+            "name": "Fair Trade Coffee House",
+            "coordinates": "-89.39202859999999 , 43.0750209",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJk36LNzZTBogRf5GqsvhPSGc",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "118 S Pinckney St, Madison, WI 53703, USA",
+            "name": "Marigold Kitchen",
+            "coordinates": "-89.3815111 , 43.0741182",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJpawzrj9TBogR9bvMvygYCGo",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "402 W Lakeside St, Madison, WI 53715, USA",
+            "name": "Lakeside St. Coffee House",
+            "coordinates": "-89.3890076 , 43.056302",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJM4pXAthSBogRI5cMFYsHZw0",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "2166 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Forward Craft & Coffee",
+            "coordinates": "-89.34987009999999 , 43.09325210000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJhxgEXYhTBogRY3MtSdN9Yw8",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "494 Commerce Dr, Madison, WI 53719, USA",
+            "name": "Yola's Cafe and Coffee Shop of Madison",
+            "coordinates": "-89.52309129999999 , 43.055406",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJZw4EsaevB4gRsr8YJ5ibc4Q",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "2862 University Ave, Madison, WI 53705, USA",
+            "name": "La Brioche True Food",
+            "coordinates": "-89.4383409 , 43.0755273",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ-Xjbzl-sB4gRhDqyeg0hcZk",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "1748 Eagan Rd, Madison, WI 53704, USA",
+            "name": "Mercies Coffee",
+            "coordinates": "-89.30904199999999 , 43.122992",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJNW2p8pFWBogRcd5fxn5a43Q",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "2827 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Daisy Cafe & Cupcakery",
+            "coordinates": "-89.3425932 , 43.0936513",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJuTu2w4pTBogRiWmeBLrNDag",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "701 Hilldale Wy, Madison, WI 53705, USA",
+            "name": "Café Hollander Hilldale",
+            "coordinates": "-89.45382459999999 , 43.0731543",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJDXvY7UCsB4gRZ3-lTKP_hTA",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "1824 Parmenter St, Middleton, WI 53562, USA",
+            "name": "Grace Coffee Co",
+            "coordinates": "-89.5118837 , 43.0953842",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJo0qBV9WuB4gR-kZUK_E_t-k",
+            "place_type": "cafes"
+        },
+        {
+            "formattedAddress": "800 University Ave, Madison, WI 53706, USA",
+            "name": "Chazen Museum of Art",
+            "coordinates": "-89.399823 , 43.074127",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJFcg858qsB4gRjzJTovkmbXI",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "100 N Hamilton St, Madison, WI 53703, USA",
+            "name": "Madison Children's Museum",
+            "coordinates": "-89.3843946 , 43.0769396",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJpRpMTEdTBogRmnMbDeN2fe4",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "1215 W Dayton St, Madison, WI 53706, USA",
+            "name": "Geology Museum",
+            "coordinates": "-89.406296 , 43.0703822",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJuW9lMc-sB4gRqV9xwiCDcUI",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "30 W Mifflin St, Madison, WI 53703, USA",
+            "name": "Wisconsin Veterans Museum",
+            "coordinates": "-89.3864423 , 43.074946",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJbABizhTBogRqrHPQEu3m24",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "227 State St, Madison, WI 53703, USA",
+            "name": "Madison Museum of Contemporary Art",
+            "coordinates": "-89.3892675 , 43.0744554",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX6_hiDdTBogRAAOT78mVz8I",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "2300 S Park St, Madison, WI 53713, USA",
+            "name": "Wisconsin Science Museum",
+            "coordinates": "-89.3952894 , 43.0412026",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJuY2hlstSBogRGuQqK126UDg",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "7477 Hubbard Ave, Middleton, WI 53562, USA",
+            "name": "National Mustard Museum",
+            "coordinates": "-89.5111768 , 43.095286",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJgVfARNWuB4gRCniKuZz2N0o",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "1150 University Ave, Madison, WI 53706, USA",
+            "name": "Physics Museum",
+            "coordinates": "-89.4053392 , 43.0736316",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGykVqsmsB4gRqKJy-v6-fDM",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "1433 W Main St, Sun Prairie, WI 53590, USA",
+            "name": "Explore Children's Museum",
+            "coordinates": "-89.2290865 , 43.1817478",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJr01t3-f3BogRggKT25tNxzk",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "3330 Atwood Ave, Madison, WI 53704, USA",
+            "name": "Olbrich Botanical Gardens",
+            "coordinates": "-89.3356651 , 43.0925809",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJOYRb8_ZTBogRLIoR0KxukFA",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "201 S Gammon Rd, Madison, WI 53717, USA",
+            "name": "MMSD Planetarium",
+            "coordinates": "-89.5009678 , 43.063249",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJc015wvCuB4gRAJ8yNI8NJBg",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "201 State St, Madison, WI 53703, USA",
+            "name": "Overture Center for the Arts",
+            "coordinates": "-89.3882566 , 43.0745936",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ5ewdMDhTBogRnaIbRpJiW3Q",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "800 Langdon St, Madison, WI 53706, USA",
+            "name": "Wisconsin Union Galleries",
+            "coordinates": "-89.3999525 , 43.0768135",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX9KgaLWsB4gRNJR0ZiLaRv4",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "2 E Main St, Madison, WI 53702, USA",
+            "name": "Wisconsin State Capitol",
+            "coordinates": "-89.3840985 , 43.0749666",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJgdPwND9TBogRtvN4WwZ0bmE",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "1131 Mills St, Black Earth, WI 53515, USA",
+            "name": "Black Earth Children's Museum",
+            "coordinates": "-89.7477009 , 43.1383798",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJ_r301meB4gRTPyPwJCuvPk",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "702 S Randall Ave, Madison, WI 53715, USA",
+            "name": "Henry Vilas Zoo",
+            "coordinates": "-89.40955989999999 , 43.0592225",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJDW-2TNisB4gRW6GvgXepmjU",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "277 W Main St, Stoughton, WI 53589, USA",
+            "name": "Livsreise - Norwegian Heritage Center",
+            "coordinates": "-89.22311429999999 , 42.91665769999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJZ1CuHUNGBogRmGs0FxFT38g",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "1202 Vilas Park Dr, Madison, WI 53715, USA",
+            "name": "Wisconsin Heritage Exhibit",
+            "coordinates": "-89.407887 , 43.0585447",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJcZ6YEE-tB4gRYopPM1ggW3I",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "4718 Monona Dr, Madison, WI 53716, USA",
+            "name": "Nathaniel Dean House",
+            "coordinates": "-89.3256072 , 43.0684129",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJY4ZtqNlTBogRaNLegTC8d3M",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "324 S Page St, Stoughton, WI 53589, USA",
+            "name": "Stoughton Historical Museum",
+            "coordinates": "-89.2238141 , 42.9161149",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ0ffaa0FGBogRrOUUpWR3rHQ",
+            "place_type": "museuems"
+        },
+        {
+            "formattedAddress": "2 E Main St, Madison, WI 53702, USA",
+            "name": "Wisconsin State Capitol",
+            "coordinates": "-89.3840985 , 43.0749666",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJgdPwND9TBogRtvN4WwZ0bmE",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "1 W Wilson St, Madison, WI 53703, USA",
+            "name": "State Office Building",
+            "coordinates": "-89.3818385 , 43.0720669",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJj82wZD5TBogRX5UEFJ2GiJc",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "2135 Rimrock Rd, Madison, WI 53713, USA",
+            "name": "State Revenue Building",
+            "coordinates": "-89.37586189999999 , 43.0429487",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJZbUxQulSBogRfGvwu-rXryw",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "101 E Wilson St, Madison, WI 53703, USA",
+            "name": "State of Wisconsin Administration Building",
+            "coordinates": "-89.3797012 , 43.07349139999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJhc4jKj5TBogRmlaT9p3V-a8",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "210 Martin Luther King Jr Blvd, Madison, WI 53703, USA",
+            "name": "City-County Building",
+            "coordinates": "-89.38238079999999 , 43.0723419",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJSzk_jT5TBogR8l_1PLBN8xE",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "215 Martin Luther King Jr Blvd, Madison, WI 53703, USA",
+            "name": "Madison Municipal Building",
+            "coordinates": "-89.3811793 , 43.0732644",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJo10uTj5TBogRR4gtDAA-478",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "110, North Hall, 1050 Bascom Mall, Madison, WI 53706, USA",
+            "name": "UW Department of Political Science",
+            "coordinates": "-89.40292079999999 , 43.0756885",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJk2SwBMqsB4gRVsfx6JjzEI0",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "567 D'onofrio Dr, Madison, WI 53719, USA",
+            "name": "US Government Office",
+            "coordinates": "-89.51568019999999 , 43.0555072",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJv3fNOaqvB4gRM3hI3GhPWUA",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "3319 W Beltline Hwy, Madison, WI 53713, USA",
+            "name": "Wisconsin Public Broadcasting Building",
+            "coordinates": "-89.4325804 , 43.0348711",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ-S0ZYXStB4gR-mXXRBH3hMY",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "100 State St, Madison, WI 53703, USA",
+            "name": "Wisconsin Building",
+            "coordinates": "-89.3869976 , 43.0749147",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJoxSLXThTBogRHdHm9xbxSuY",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "215 Martin Luther King Jr Blvd #017, Madison, WI 53703, USA",
+            "name": "City of Madison Building Inspection",
+            "coordinates": "-89.38120219999999 , 43.0732546",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ0f_2Tj5TBogRH0Ct6X4kpGs",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "Observatory Hill Office Bldg, 1225 Observatory Dr, Madison, WI 53706, USA",
+            "name": "Robert M. La Follette School of Public Affairs",
+            "coordinates": "-89.4076541 , 43.0762465",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJG3QOAsisB4gRJCAHRxsuZmA",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "1 State Capitol # B20se, Madison, WI 53702, USA",
+            "name": "Capitol Tours",
+            "coordinates": "-89.3841491 , 43.0747008",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ5YH4falWBogR5Lpub1B0OVA",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "455 N Park St, Madison, WI 53706, USA",
+            "name": "George L. Mosse Humanities Building",
+            "coordinates": "-89.39985999999999 , 43.0739127",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJU6KC48qsB4gRfh25lbs8fIo",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "3211 George Mosse, Humanities Building, 455 N Park St, Madison, WI 53706, USA",
+            "name": "University of Wisconsin-Madison Department of History",
+            "coordinates": "-89.4000444 , 43.0741703",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJs9Eg5MqsB4gRLxE7n4qVav8",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "204 S Thornton Ave, Madison, WI 53703, USA",
+            "name": "State Archive Preservation Facility",
+            "coordinates": "-89.3603806 , 43.0878338",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ96CshoJTBogReizBP-bdGp8",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "William H. Sewell Social Science Building, 1180 Observatory Dr, Madison, WI 53706, USA",
+            "name": "University of Wisconsin–Madison Department of Economics",
+            "coordinates": "-89.4054139 , 43.0762302",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJHUh_CpWsB4gRnOBVuySPyvY",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "210 Martin Luther King Jr Blvd #105, Madison, WI 53703, USA",
+            "name": "Madison City Clerk's Office",
+            "coordinates": "-89.38238079999999 , 43.0723419",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ8UzjjD5TBogRdfIyRsAeGbg",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "William H. Sewell Social Sciences Building, 8128, 1180 Observatory Dr, Madison, WI 53706, USA",
+            "name": "UW Department of Sociology",
+            "coordinates": "-89.4052976 , 43.0765006",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJxRDWLrasB4gRFWyQmVihtK4",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "30 N Mills St, Madison, WI 53715, USA",
+            "name": "Facilities Planning & Management",
+            "coordinates": "-89.4045738 , 43.0685554",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJxyiUXc6sB4gR-4X3NajvH1w",
+            "place_type": "political"
+        },
+        {
+            "formattedAddress": "539 Tasman St, Madison, WI 53714, USA",
+            "name": "Wisco Barbell Club",
+            "coordinates": "-89.3090046 , 43.0890886",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJL-7st05RBogRL6EAf8W-OC8",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "2040 S Stoughton Rd, Madison, WI 53716, USA",
+            "name": "Badger Fitness 24/7",
+            "coordinates": "-89.3106026 , 43.06808789999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJu0FMUW5RBogRPXVPKzdGOuI",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "1509 Emil St, Madison, WI 53713, USA",
+            "name": "Madtown Fitness: 24 Hour Gym",
+            "coordinates": "-89.4084841 , 43.03628310000001",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJVdfI3UetB4gRjnow9UMjd0A",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "4801 Voges Rd, Madison, WI 53718, USA",
+            "name": "The HQ Madison",
+            "coordinates": "-89.29939279999999 , 43.0402424",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJOdVQzr5RBogR0tPJCO2TlVM",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "5555 Odana Rd, Madison, WI 53719, USA",
+            "name": "Supreme Health & Fitness",
+            "coordinates": "-89.4755921 , 43.049522",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJgXwiX3iuB4gRZs1uPp9tEVE",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "2114 Winnebago St, Madison, WI 53704, USA",
+            "name": "Ford's Gym",
+            "coordinates": "-89.3536823 , 43.09445909999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJjfTEdodTBogR7j9atgBd51w",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "2529 Allen Blvd, Middleton, WI 53562, USA",
+            "name": "Harbor Athletic Club",
+            "coordinates": "-89.4859 , 43.1030795",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJPamxUU6pB4gRKdNHu7o6jRk",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "5380 King James Way Suite A1, Fitchburg, WI 53719, USA",
+            "name": "Functional Integrated Training",
+            "coordinates": "-89.4733456 , 43.0175384",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "EjA1MzgwIEtpbmcgSmFtZXMgV2F5IGExLCBGaXRjaGJ1cmcsIFdJIDUzNzE5LCBVU0EiHhocChYKFAoSCR0OsmwAsgeIEUY7yvFvv19MEgJhMQ",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "2920 Hardrock Rd, Fitchburg, WI 53719, USA",
+            "name": "Princeton Club Fitchburg",
+            "coordinates": "-89.4773211 , 43.0132797",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJD2FfMvmxB4gRsVg-ul_3Tho",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "5413 Monona Dr, Monona, WI 53716, USA",
+            "name": "Princeton Club Xpress Monona",
+            "coordinates": "-89.32664229999999 , 43.0604061",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJuVIUEdRTBogRPiVKDqyQkaU",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "8080 Watts Rd, Madison, WI 53719, USA",
+            "name": "Princeton Club - West",
+            "coordinates": "-89.51923769999999 , 43.0550592",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJmy6_VKivB4gRF9k43eFzFr4",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "5973 Executive Dr, Fitchburg, WI 53719, USA",
+            "name": "Pinnacle Health + Fitness - Fitchburg",
+            "coordinates": "-89.45888409999999 , 43.0111248",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJu8WTNQyyB4gR5iXVjl0p4wM",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "1726 Eagan Rd, Madison, WI 53704, USA",
+            "name": "Princeton Club - East",
+            "coordinates": "-89.3099144 , 43.1219844",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJN6Wll5FWBogRl5sU3UsRRd0",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "44 E Mifflin St, Madison, WI 53703, USA",
+            "name": "Pinnacle Health + Fitness - Madison",
+            "coordinates": "-89.3845056 , 43.0763715",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJhSjrVkdTBogRF2yXiRmxsSs",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "425 W Washington Ave #2703, Madison, WI 53703, USA",
+            "name": "Capital Fitness",
+            "coordinates": "-89.38943979999999 , 43.0704568",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJhe5GpDBTBogRaB4MuC0EBNM",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "5720 U.S. Hwy 51, McFarland, WI 53558, USA",
+            "name": "Princeton Club Xpress McFarland",
+            "coordinates": "-89.302405 , 43.0154572",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ6W9cSCBOBogRrzyIQIdo7Y4",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "1010 N Bird St Suite 100, Sun Prairie, WI 53590, USA",
+            "name": "Prairie Athletic Club",
+            "coordinates": "-89.2242691 , 43.1943128",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "Ei8xMDEwIE4gQmlyZCBTdCAjMTAwLCBTdW4gUHJhaXJpZSwgV0kgNTM1OTAsIFVTQSIfGh0KFgoUChIJqYax5773BogRGO4MUx2BomASAzEwMA",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "711 Rethke Ave Suite 1, Madison, WI 53714, USA",
+            "name": "Twisted Fitness Gym",
+            "coordinates": "-89.33500200000002 , 43.107959",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "Eik3MTEgUmV0aGtlIEF2ZSAjMSwgTWFkaXNvbiwgV0kgNTM3MTQsIFVTQSIdGhsKFgoUChIJjzD0IhFUBogRfomzdkRlYBoSATE",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "2881 Commerce Park Dr suite b, Fitchburg, WI 53719, USA",
+            "name": "Bakke Athletics",
+            "coordinates": "-89.4678204 , 43.0105778",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX_3o8ASyB4gR12WvUYOWU1o",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "7401 Mineral Point Rd, Madison, WI 53717, USA",
+            "name": "Crunch Fitness - Madison",
+            "coordinates": "-89.5109301 , 43.0598673",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJk4nkUv6uB4gRjEi36yM2JhA",
+            "place_type": "gyms"
+        },
+        {
+            "formattedAddress": "3817 Milwaukee St, Madison, WI 53714, USA",
+            "name": "Woodman's Food Market",
+            "coordinates": "-89.3189585 , 43.0968075",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJt5CqcqtWBogRTyM4akRNYXk",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "3801 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Hy-Vee Grocery Store",
+            "coordinates": "-89.3183772 , 43.1177329",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJrRIez55WBogRWA3FsGWS-BI",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "111 N Broom St, Madison, WI 53703, USA",
+            "name": "Capitol Centre Market",
+            "coordinates": "-89.3901612 , 43.0727819",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJh1QxcTdTBogRbRsWNNeOejo",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "1221 Williamson St, Madison, WI 53703, USA",
+            "name": "Willy Street Co-op",
+            "coordinates": "-89.3627472 , 43.0836639",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJIR88qXdTBogRvS8M_adkEqU",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "6010 Cottage Grove Rd, Madison, WI 53718, USA",
+            "name": "Metro Market",
+            "coordinates": "-89.2758656 , 43.0851822",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJKcdCCNBQBogROdF-6-9aJn8",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "4710 Madison Yards Way, Madison, WI 53705, USA",
+            "name": "Whole Foods Market",
+            "coordinates": "-89.457967 , 43.0746759",
+            "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+            "place_id": "ChIJwf39TT6sB4gR_PT8eu6j1ns",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "703 University Ave, Madison, WI 53715, USA",
+            "name": "Fresh Madison Market",
+            "coordinates": "-89.397763 , 43.072948",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJMXyczTRTBogR_8qCE2mRiec",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "725 S Gammon Rd, Madison, WI 53719, USA",
+            "name": "Woodman's Food Market",
+            "coordinates": "-89.5010472 , 43.0506762",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJk_a9QVquB4gRrRNCPMqjcjI",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "675 S Whitney Way, Madison, WI 53711, USA",
+            "name": "Hy-Vee Grocery Store",
+            "coordinates": "-89.4714115 , 43.0509044",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJyxBx8tatB4gRTTyLowGvjuw",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "1099 S Grand Ave, Sun Prairie, WI 53590, USA",
+            "name": "Woodman's Food Market",
+            "coordinates": "-89.2668834 , 43.1645304",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJYY-6n91XBogRjJ3AyOhkc5k",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "210 S Main St, Verona, WI 53593, USA",
+            "name": "Miller & Sons Supermarket",
+            "coordinates": "-89.5339085 , 42.988833",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ5WhBJWawB4gRaSxSe_rU_Gg",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "6825 University Ave, Middleton, WI 53562, USA",
+            "name": "Willy Street Co-op—West",
+            "coordinates": "-89.50040779999999 , 43.0964478",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJr47L2DKpB4gRxmwWp3cQvuM",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "531 A St, Sun Prairie, WI 53590, USA",
+            "name": "Fresh Mart",
+            "coordinates": "-89.2299122 , 43.1885778",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ9ytaUur3BogRzw4Num0T7Nc",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "810 E Washington Ave, Madison, WI 53703, USA",
+            "name": "Festival Foods",
+            "coordinates": "-89.3751061 , 43.0813903",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJnRK8sG5TBogRzhThGXoKiR4",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "726 N Midvale Blvd, Madison, WI 53705, USA",
+            "name": "Metcalfe's Market",
+            "coordinates": "-89.4527968 , 43.0738738",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ7_RCAEGsB4gRo_Q9ZLstfFU",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "3010 Cahill Main, Fitchburg, WI 53711, USA",
+            "name": "Pick 'n Save",
+            "coordinates": "-89.4212536 , 43.01861299999999",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJK1Bi5mGtB4gRrEOi9-P-wjo",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "7455 Mineral Point Rd, Madison, WI 53719, USA",
+            "name": "Metcalfe's Market",
+            "coordinates": "-89.5112707 , 43.0580597",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJAdhW7v-uB4gR4A_jrS_1F3o",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "2161 Zeier Rd, Madison, WI 53704, USA",
+            "name": "Global Market and Food Hall",
+            "coordinates": "-89.3008594 , 43.1278046",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJlxsomfNWBogRW5GpHkD2sFs",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "8210 Watts Rd, Madison, WI 53719, USA",
+            "name": "Brennan's Market",
+            "coordinates": "-89.5244744 , 43.0556119",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJN_NYEKevB4gRtKLOz47buxU",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "660 Hometown Cir, Verona, WI 53593, USA",
+            "name": "Festival Foods",
+            "coordinates": "-89.51956299999999 , 42.995572",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJX3ix50iwB4gRaK5ux6JFgwo",
+            "place_type": "groceries"
+        },
+        {
+            "formattedAddress": "4112 Milwaukee St, Madison, WI 53714, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.3136921 , 43.0988171",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJhd7C8q1WBogR2JsLoj4AjhU",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "6525 Kilpatrick Ln, Madison, WI 53718, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.2657906 , 43.0855772",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJGxKJAshQBogReKR_g4CFPRQ",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "3528 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.327483 , 43.115463",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJT-iCHiJUBogRVofceVs6WoI",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "7502 Mineral Point Rd, Madison, WI 53717, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.51331239999999 , 43.0608617",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJl4G3vwGvB4gRuRWPN20OLMc",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "401 N Third St, Madison, WI 53704, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.35914179999999 , 43.0983343",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ04pHT35UBogR8uo1I5Fhgwk",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "950 S Park St, Madison, WI 53715, USA",
+            "name": "Shell",
+            "coordinates": "-89.39956600000001 , 43.0572922",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJGyjeXNWsB4gRr0JEWHALRzU",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4601 Cottage Grove Rd, Madison, WI 53716, USA",
+            "name": "Capitol Petro",
+            "coordinates": "-89.3026405 , 43.0839081",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJBRQDajhRBogRRoGAKvVN0i0",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "2538 Fish Hatchery Rd, Madison, WI 53713, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.4057043 , 43.0373057",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJlbAkK0itB4gRKDDkasS0ifg",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "3019 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Mobil",
+            "coordinates": "-89.3418071 , 43.103616",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJJwP_ynJUBogR4fz8RCGBLRE",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "2601 Fish Hatchery Rd, Madison, WI 53713, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.4043871 , 43.0368494",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJhZSU50mtB4gRGXT0U3SVYxc",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4 Collins Ct, Madison, WI 53716, USA",
+            "name": "Phillips 66",
+            "coordinates": "-89.3055365 , 43.0471808",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJf94iMJhRBogRcLzCiQZHDhs",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "699 S Whitney Way, Madison, WI 53711, USA",
+            "name": "Mobil",
+            "coordinates": "-89.4730177 , 43.0503238",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJ-xgoSNatB4gRSD6pzl_DKx8",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4902 Verona Rd, Madison, WI 53711, USA",
+            "name": "Speedway",
+            "coordinates": "-89.4622284 , 43.0310688",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJ21Ei4-6tB4gRLe3JwhgJLAo",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "2500 Royal Ave, Monona, WI 53713, USA",
+            "name": "Speedway",
+            "coordinates": "-89.35355969999999 , 43.0428095",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJEfeanVtSBogRymV5xPOzmpM",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4821 E Washington Ave, Madison, WI 53704, USA",
+            "name": "Shell",
+            "coordinates": "-89.2996727 , 43.1330992",
+            "priceLevel": "PRICE_LEVEL_MODERATE",
+            "place_id": "ChIJK0el7_VWBogRzyT9ihv3y0w",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4402 E Buckeye Rd, Madison, WI 53716, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.3081531 , 43.0735975",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJBY1MKWpRBogRKBet6GdXSM4",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "735 E Washington Ave, Madison, WI 53703, USA",
+            "name": "bp",
+            "coordinates": "-89.3755307 , 43.0803984",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJG68Q5WtTBogRg7eWGfz_AT8",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "3401 University Ave, Madison, WI 53705, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.44600439999999 , 43.0748545",
+            "priceLevel": "NO_PRICE_LEVEL",
+            "place_id": "ChIJtx-QzEKsB4gRs6I79w-Ng1Q",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "3603 Cross Hill Dr, Madison, WI 53718, USA",
+            "name": "Casey's",
+            "coordinates": "-89.2834625 , 43.14283",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJpYzdZ61XBogRV7I40NCwXJw",
+            "place_type": "gas"
+        },
+        {
+            "formattedAddress": "4825 American Pkwy, Madison, WI 53718, USA",
+            "name": "Kwik Trip",
+            "coordinates": "-89.2886944 , 43.1494639",
+            "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+            "place_id": "ChIJ80TO6UtWBogRevWxFOjar6w",
+            "place_type": "gas"
+        }
+    ]
+}
