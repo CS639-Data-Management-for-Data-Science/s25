@@ -6,7 +6,7 @@
 <!-- **Github Classroom Invitation Link: [https://classroom.github.com/a/wC9wCjCE](https://classroom.github.com/a/wC9wCjCE)** -->
 
 ## Clarifications / fixes
-
+[3/8 3:42PM] Students should download the data folder using wget. No unzip command required.
 
 
   
@@ -134,9 +134,8 @@ Here's a real app in deployment that switched to Elasticsearch for speed (5 days
 
 ## :floppy_disk: Writing code in `p3.ipynb`  
 
-1. Inside your notebook, use the appropriate `bash` command to download ```data.zip```.
-2. Write the appropriate `bash` command (in the same notebook) to unzip the zip file.
-3. **Make the connection to Elastisearch using the [python elasticsearch-client](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)** with your username (usually elastic) and password OR API key as demonstrated in the lecture. 
+1. Inside your notebook, use the appropriate `bash` command to download the ```data``` folder.
+2. **Make the connection to Elastisearch using the [python elasticsearch-client](https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/index.html)** with your username (usually elastic) and password OR API key as demonstrated in the lecture. 
 
 :warning: **Requirements (applies to all subsequent questions)**:
 
