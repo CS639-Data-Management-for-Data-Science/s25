@@ -1,0 +1,59 @@
+{{Short description|Italian trattoria restaurant in New York City}}
+{{Infobox restaurant
+| embed               = Lucciola
+| name                = <!-- Leave blank if embed set to yes -->
+| title               = <!-- If embedding use this for secondary small font title -->
+| logo                = Lucciola Logo.png
+| logo_width          = 
+| logo_alt            = 
+| image               = 
+| image_width         = 
+| image_alt           = 
+| image_caption       = 
+| mapframe            = yes
+| pushpin_map         = <!-- Requires {{para|coordinates}} -->
+| map_alt             = 
+| map_caption         = 
+| map_size            = 
+| established         = {{Start date|2017}}
+| closed              = <!-- {{End date|YYYY|MM|DD}} -->
+| current-owner       = 
+| previous-owner      = 
+| manager             = 
+| head-chef           = Michele Casadei Massari
+| chef                = 
+| pastry-chef         = 
+| food-type           = 
+| dress-code          = 
+| rating              = 
+| street-address      = 621 Amsterdam Avenue
+| city                = New York
+| county              = 
+| state               = New York
+| postcode            = 10024
+| country             = United States
+| coordinates         = {{Coord|40|47|25|N|73|58|22|W|type:landmark_region:US-NY|display=inline,title}}
+| seating-capacity    = 
+| reservations        = 
+| other-locations     = 
+| other-information   = <!-- or |other-label= -->
+| website             = {{URL|lucciolanyc.com}}
+}}
+'''Lucciola''' is an Italian [[trattoria]] restaurant that serves [[Italian cuisine]] in [[New York City|New York]]. It was founded in 2017 in New York City by Michele Casadei Massari along with Alberto Ghezzi.<ref>{{cite web|url= http://www.iitaly.org/magazine/dining-in-out/article/lucciola-surprise-your-little-bologna-kicked-in-ny|title=LUCCIOLA. Surprise! Your Little Bologna Kicked Off in NY|last= Cartia|first= Tommaso|date= November 18, 2017|website= iitaly.org}}</ref> It serves typical food from the Italian city of [[Bologna]] located in the area of [[Emilia Romagna]].<ref>{{cite news|url= https://ny.eater.com/2017/12/4/16726086/holiday-pop-up-bar-nyc|title= Another Holiday Pop-Up Bar Lands in the East Village|last= Dai|first= Serena|date= December 4, 2017|newspaper= Eater New York|accessdate= May 12, 2018}}</ref> The name "[[Lucciola]]" means ''firefly,'' and was inspired by [[Pier Paolo Pasolini|Pasolini]] article.<ref>{{cite news|date=December 5, 2017|url= http://www.internimagazine.it/news/people/lucciola/|work=Interni Magazine|title=Restaurant Review: Lucciola|language=it}}</ref>
+
+==History==
+Lucciola is the second restaurant by Michele Casadei Massari, with [[Piccolo Cafe]] being the first one.<ref>{{cite news|url= http://www.gamberorosso.it/en/food-news/1046565-italy-in-new-york-the-rossopomodoro-spin-off-the-wines-at-fausto-and-bologna-foods-at-lucciola|title= Italy in New York: the Rossopomodoro spin-off, the wines at Fausto, and Bologna foods at Lucciola |last= Montagnoli |first= Livia|date= December 22, 2017|newspaper=[[Gambero Rosso]]|url-status=dead|archive-url=https://web.archive.org/web/20180627062321/http://www.gamberorosso.it/en/food-news/1046565-italy-in-new-york-the-rossopomodoro-spin-off-the-wines-at-fausto-and-bologna-foods-at-lucciola|archive-date=June 27, 2018}}</ref> It pays homage to [[Graduation Party (film)|Festa di Laurea]] director [[Pupi Avati]].<ref>{{cite news|url= http://www.crisalidepress.it/food-taste/new-york-apre-ristorante-lucciola/|title= A NEW YORK APRE IL RISTORANTE LUCCIOLA|last= Schieppati|first= Cristiana|date= November 29, 2017|newspaper= Crisal de Press|language= it|url-status= dead|archive-url= https://web.archive.org/web/20171229112253/http://www.crisalidepress.it/food-taste/new-york-apre-ristorante-lucciola/|archive-date= December 29, 2017}}</ref> Lucciola focuses on Emilia Romagna cuisine, wines, and traditional Italian desserts such as [[Tortellini]], [[Albana di Romagna]], [[Tiramisu]], and [[Pasta al pomodoro]].<ref>{{cite web|last=Mattia|first=Denise|url= http://yum-yum-traveler.com/lucciola-a-restaurant-makes-its-debut-on-the-uws/|title= LUCCIOLA – A Restaurant Makes Its Debut on the UWS|accessdate= May 12, 2018|website= Yum Yum Traveler|url-status=dead|archive-url=https://web.archive.org/web/20181012005939/http://yum-yum-traveler.com/lucciola-a-restaurant-makes-its-debut-on-the-uws/|archive-date=October 12, 2018}}</ref>
+
+==References==
+{{Reflist|30em}}
+
+{{Upper West Side}}
+{{Restaurants in Manhattan}}
+
+[[Category:Companies based in New York City]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurant chains in the United States]]
+[[Category:Italian restaurants in New York (state)]]
+[[Category:2017 establishments in New York City]]
+[[Category:Restaurants established in 2017]]
+[[Category:Upper West Side]]

@@ -1,0 +1,34 @@
+{{Short description|Fine-dining restaurant chain}}
+{{Infobox restaurant
+| name                = HaSalon
+| established         = 
+| current-owner       = [[Eyal Shani]]
+| food-type           = Mediterranean cuisine
+| street-address      =
+| city                =
+| country             = International chain
+}}
+'''HaSalon''' ([[Hebrew]]:''the living room'') is a chain of [[fine dining]] restaurants that serves [[Mediterranean cuisine]] created by chef [[Eyal Shani]], with locations around the world.  Customers are invited to dance on the tables while [[disc jockey|DJ's]] play high-tempo music and house lights change to [[strobe lights]].<ref name=":0" />
+
+==Locations==
+The first HaSalon opened in [[Tel Aviv]].<ref>{{Cite web |date=2023-07-24 |title=HaSalon Opens At The Venetian Las Vegas |url=https://hauteliving.com/2023/07/hasalon-opens-at-the-venetian-las-vegas/733626/ |access-date=2023-09-02 |website=Haute Living |language=en-US}}</ref>
+
+HaSalon has since expanded internationally with locations in the [[Hell's Kitchen]] neighborhood of New York City in April 2019<ref>{{cite news |last1=Vianna |first1=Carla |title=Israeli Celebrity Chef Behind Miznon Brings His Tel Aviv Hot Spot to NYC Next Week |url=https://ny.eater.com/2019/4/4/18295494/hasalon-opening-eyal-shani-nyc |publisher=Eater New York |date=4 April 2019}}</ref><ref>{{Cite news |date=2019-04-05 |title=One of the World's Great Party Restaurants Comes to New York |language=en |work=Bloomberg.com |url=https://www.bloomberg.com/news/articles/2019-04-05/one-of-the-great-party-restaurants-comes-to-new-york-at-hasalon |access-date=2023-09-02}}</ref> along with Miami in 2019<ref>{{Cite web |date=2021-11-02 |title=Major Food Group Bringing Chef Eyal Shani's HaSalon to Miami |url=https://commercialobserver.com/2021/11/major-food-group-is-bringing-eyal-shanis-hasalon-to-miami-404-washington-avenue-dominion-partners/ |access-date=2023-09-02 |website=Commercial Observer |language=en-US}}</ref> and Las Vegas which opened inside [[The Venetian Las Vegas|The Venetian]] on the [[Las Vegas Strip]] in 2023.<ref name=":0">{{Cite web |last=Karel |first=Janna |date=2023-07-18 |title=The Strip's Newest Restaurant Promises 'Magic From a Night You Are Praying Will Never End' |url=https://vegas.eater.com/2023/7/18/23799534/las-vegas-strip-hasalon-open-mediterranean-club-restaraunt |access-date=2023-09-02 |website=Eater Vegas |language=en}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* {{official website|https://www.hasalonnyc.com/}} New York
+* {{official website|https://hasalontlv.com/}} Tel Aviv
+* {{official website|https://www.hasalonvegas.com//}} Las Vegas
+* {{official website|https://www.hasalonmiami.com/}} Miami
+
+[[Category:Mediterranean restaurants]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurants in Tel Aviv]]
+[[Category:Restaurants in Miami]]
+[[Category:Restaurant chains in the United States]]
+
+
+{{US-restaurant-stub}}{{Tourism in Tel Aviv}}

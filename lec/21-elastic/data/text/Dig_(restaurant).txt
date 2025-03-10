@@ -1,0 +1,46 @@
+{{Infobox company
+| name = Dig
+| logo = [[File:DigInn_Company_Logo.png|200px]]
+| type = [[Privately held company|Private]]
+| industry = [[Fast casual restaurant|Fast Casual]]
+| foundation = {{start date and age|2011}}<br>New York City, US
+| founder = R. Adam Eskin
+| location_city = New York City, New York
+| locations = 31 stores (June 2023)
+| area_served = New York, Massachusetts, Connecticut, New Jersey, Pennsylvania
+| products = Customizable food bowls with locally sourced ingredients
+| website = {{URL| https://www.diginn.com/ }}
+| location_country = U.S.
+}}
+[[File:DigInnStorefrontNY.jpg|thumb|Dig Inn Store Front In New York, New York (on Crosby & Prince Street)]]
+'''Dig''' (formerly Dig Inn)<ref>{{Cite web|url=https://medium.com/@diginn/dig-inn-is-now-dig-bf6d8d5ecdaa|title=Dig Inn is now Dig.|last=Dig|date=2019-07-15|website=Medium|language=en|access-date=2020-03-05}}</ref> is an American chain of locally farm sourced restaurants that was founded by Adam Eskin. In 2011, the first Dig restaurant was opened in New York City. As of June 2023, the chain has 32 restaurants in two New York City boroughs (Manhattan and Brooklyn), followed Rye Brook in Westchester County, NY; Stamford, Connecticut; Bridgewater, NJ; Philadelphia, PA; Boston, MA; and Washington, DC.<ref>{{Cite news|last=Hatic|date=2017-10-18|first=Dana|url=https://boston.eater.com/2017/10/18/16496714/dig-inn-prudential-center-opening|title=Dig Inn Opens Its Newest Restaurant in the Prudential Center Today|work=Eater Boston|access-date=2017-10-20}}</ref><ref name="Bloomberg">{{Cite news|last=Dunn|first=Elizabeth G.|date=2019-01-29|url=https://www.bloomberg.com/news/features/2019-01-29/dig-inn-wants-to-optimize-your-sad-desk-lunch|title=Dig Inn Wants to Optimize Your Sad Desk Lunch|work=Bloomberg Businessweek|access-date=2019-02-13|language=en}}</ref> The company opened its first Philadelphia location in 2019.<ref>{{Cite web|url=https://philly.eater.com/2020/1/6/21051719/dig-restaurant-philadelphia-new-york-open|title=The Fast-Casual, Veggie-Promoting Dig Opens Its First Philly Location|last=Vigoda|first=Rachel|date=2020-01-06|website=Eater Philly|language=en|access-date=2020-03-05}}</ref>
+
+== History ==
+The company received $21.5 million in early funding rounds, followed by $30 million in [[Series D]] funding. The main contributors to this funding include Monogram Capital Partners, and [[Bill Allen (corporate CEO)|Bill Allen]] (former CEO of [[OSI Restaurant Partners]]).<ref name="Business Insider">{{Cite news|last=Garfield |first=Lauren |date=2017-03-22 |url=http://www.businessinsider.com/what-is-dig-inn-healthy-fast-food2017-3/ |title=Why people love Dig Inn, the healthy restaurant chain that just raised another $30 million from investors|work=Business Insider|access-date=2017-10-20|language=en}}</ref>
+
+In January 2019, the company introduced a new delivery concept called Room Service available in limited release in downtown Manhattan.<ref name="Bloomberg"/>
+
+In April 2019, the company announced a new $20 million round of financing receiving $15 million from [[Danny Meyer]] investment group Enlightened Hospitality Investments.<ref>{{Cite news|last=Lalley|first=Heather|date=2019-04-09|url=https://www.restaurantbusinessonline.com/emerging-brands/dig-inn-gets-15m-danny-meyer-backed-fund|title=Dig Inn Gets $15MM from Danny Meyer-Backed Fund|work=Restaurant Business|access-date=2019-04-13|language=en}}</ref>
+
+As of April 2019, the company also plans to open its first full-service, sit-down restaurant concept in New York's [[West Village]].<ref name=":0">{{Cite web|last=Adams|first=Erika|url=https://table.skift.com/2019/04/09/fast-casual-dig-inn-is-launching-a-full-service-concept/|title=Fast Casual Dig Inn Is Launching a Full Service Concept|date=2019-04-09|website=Skift Table|language=en-US|access-date=2019-04-19}}</ref>
+
+== Reception ==
+Dig was named the best fast casual restaurant of 2017 by [[Boston (magazine)|''Boston'' magazine]].<ref>{{Cite news|url=http://www.bostonmagazine.com/best-of-boston/2017/dig-inn/|title=Dig Inn, Best Fast-Casual Restaurant in Boston|work=Boston Magazine|access-date=2017-10-20|language=en-US}}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+* {{official|https://www.diginn.com/}}
+
+{{Restaurants in Boston}}
+{{portalbar|Food|New York City|Companies}}
+{{coord|40.715707|-73.959015|type:landmark_globe:earth_region:US-NY|display=title}}
+
+[[Category:2011 establishments in New York City]]
+[[Category:Restaurants established in 2011]]
+[[Category:Fast casual restaurants]]
+[[Category:Restaurants in Boston]]
+[[Category:Restaurants in New York City]]
+
+{{US-restaurant-stub}}

@@ -1,0 +1,71 @@
+{{Infobox restaurant
+| embed               = 
+| name                = Ravagh Persian Grill
+| title               = <!-- If embedding use this for secondary small font title -->
+| logo                = Ravagh Persian Grill logo.jpg
+| logo_width          = 
+| logo_alt            = 
+| image               = 
+| image_width         = 
+| image_alt           = 
+| image_caption       = 
+| mapframe            = <!-- Set to yes to show a mapframe map -->
+| pushpin_map         = <!-- Requires {{para|coordinates}} -->
+| map_size            = 
+| map_alt             = 
+| map_caption         = 
+| slogan              = 
+| established         = 1998 <!-- {{Start date|YYYY|MM|DD}} -->
+| closed              = <!-- {{End date|YYYY|MM|DD}} -->
+| current-owner       = 
+| previous-owner      = 
+| head-chef           = 
+| chef                = 
+| pastry-chef         = 
+| food-type           = {{Flatlist|
+* [[Iranian cuisine|Iranian]]
+* [[Middle Eastern cuisine|Middle Eastern]]
+}}
+| dress-code          = 
+| rating              = 
+| street-address      = 
+| city                = 
+| county              = 
+| state               = 
+| postcode            = <!-- or | zip = -->
+| country             = United States
+| coordinates         = <!-- {{coord}} -->
+| seating-capacity    = 
+| reservations        = 
+| other_locations     =
+| other-label         = <!-- replaces "Other information" label -->
+| other-information   = 
+| website             = {{URL|ravaghrestaurants.com}}
+}}
+'''Ravagh Persian Grill''' ({{lang-fa|رواق|ravagh}}) is a chain of restaurants serving [[Iranian cuisine]] in the [[New York metropolitan area]]. The name of the restaurant means "[[portico]]" in Farsi.
+
+==Locations==
+There were five locations, including two in [[Manhattan]], two on [[Long Island]], and one in [[Edgewater, New Jersey]],<ref>{{Cite news|url=https://www.nytimes.com/2012/06/10/nyregion/a-review-of-ravagh-persian-grill-in-edgewater.html|title=Persian Cooking, Old-World Style (Published 2012)|first=Scott|last=Veale|work=The New York Times |date=June 9, 2012|via=NYTimes.com|access-date=December 31, 2020|archive-date=April 18, 2014|archive-url=https://web.archive.org/web/20140418171218/http://www.nytimes.com/2012/06/10/nyregion/a-review-of-ravagh-persian-grill-in-edgewater.html|url-status=live}}</ref> as of 2017.<ref name=Persian>{{Cite web|url=https://ny.eater.com/maps/where-to-eat-persian-food-in-nyc|title=Where to Eat Persian Food in NYC|first=Daniela|last=Galarza|date=March 24, 2017|website=Eater NY|access-date=December 31, 2020|archive-date=February 6, 2021|archive-url=https://web.archive.org/web/20210206041450/https://ny.eater.com/maps/where-to-eat-persian-food-in-nyc|url-status=live}}</ref> The [[East Village, Manhattan|East Village]] restaurant closed in 2020, during the [[COVID-19 pandemic]].<ref>{{Cite web|url=https://ny.eater.com/2020/9/3/21408479/nyc-restaurant-closings-coronavirus-september|title=A Running List of NYC Restaurants That Have Permanently Closed|first=Eater|last=Staff|date=September 3, 2020|website=Eater NY|access-date=December 31, 2020|archive-date=December 31, 2020|archive-url=https://web.archive.org/web/20201231204401/https://ny.eater.com/2020/9/3/21408479/nyc-restaurant-closings-coronavirus-september|url-status=live}}</ref> The first location opened in 1998 in [[Midtown Manhattan]].{{cn|date=December 2022}}
+
+==Reception==
+Emma Diab of ''[[Thrillist]]'' included Ravagh in her list of the city's best [[Middle Eastern cuisine|Middle Eastern]] restaurants in 2017.<ref>{{Cite web|url=https://www.thrillist.com/eat/new-york/best-middle-eastern-restaurants-nyc|title=The Best Middle Eastern Restaurants in NYC|first=Emma|last=Diab|website=Thrillist|access-date=2020-12-31|archive-date=2021-01-26|archive-url=https://web.archive.org/web/20210126023350/https://www.thrillist.com/eat/new-york/best-middle-eastern-restaurants-nyc|url-status=live}}</ref> ''[[Eater (website)|Eater New York]]''{{'s}} Alexandra Ilyashov recommended Ravagh in her 2018 list of the city's Middle Eastern restaurants.<ref>{{Cite web|url=https://ny.eater.com/maps/best-middle-eastern-restaurants-nyc|title=Where To Find NYC's Top Middle Eastern Food|first=Alexandra|last=Ilyashov|date=January 17, 2018|website=Eater NY|access-date=December 31, 2020|archive-date=December 8, 2020|archive-url=https://web.archive.org/web/20201208063021/https://ny.eater.com/maps/best-middle-eastern-restaurants-nyc|url-status=live}}</ref> She, Ilana Dadras, and Urvija Banerji also included Ravagh in a 2020 list of [[Upper East Side]] restaurants.<ref>{{Cite web|url=https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc|title=Where to Dine on the Upper East Side|first=Alexandra|last=Ilyashov|date=August 22, 2018|website=Eater NY|access-date=December 31, 2020|archive-date=December 31, 2020|archive-url=https://web.archive.org/web/20201231150302/https://ny.eater.com/maps/best-restaurants-upper-east-side-ues-nyc|url-status=live}}</ref> [[Zagat]] rated the East Village restaurant 4.3 for food, 3.4 for decor, and 3.9 for service, each on a scale of 5, and said, "Among NYC's few options for classic Persian cooking, these Eastsiders dish up flavorful, stick-to-your-ribs fare including succulent kebabs and delicious rice dishes; generous portions and value prices offset the lacking decor.<ref>{{Cite web|url=https://www.zagat.com/r/parmys-persian-fusion-new-york|title=Zagat|website=www.zagat.com|access-date=2020-12-31|archive-date=2020-08-08|archive-url=https://web.archive.org/web/20200808054711/https://www.zagat.com/r/parmys-persian-fusion-new-york|url-status=live}}</ref>
+
+==See also==
+{{Portal|Food|United States}}
+* [[List of Middle Eastern restaurants]]
+* [[List of restaurants in New York City]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{Official website|https://www.ravaghrestaurants.com}}
+
+{{Restaurants in New Jersey}}
+
+[[Category:1998 establishments in New York City]]
+[[Category:Iranian-American culture in New York (state)]]
+[[Category:Middle Eastern restaurants in the United States]]
+[[Category:Restaurants established in 1998]]
+[[Category:Restaurants in New Jersey]]
+[[Category:Restaurants in New York City]]

@@ -1,0 +1,41 @@
+{{short description|New York based food and art collective}}
+{{Infobox artist
+| name = Ghetto Gastro
+| image = 
+| caption = 
+| website = [https://ghettogastro.com/ Ghetto Gastro]
+| birth_name = 
+| birth_date = 
+| birth_place = New York, New York
+| death_date = 
+| death_place = 
+| nationality = American
+| field = Contemporary Art, Food, Cooking, Catering
+| training = 
+| movement = 
+| works = 
+| patrons = 
+| influenced by = 
+| influenced = 
+| awards = 
+}}
+
+'''Ghetto Gastro''' is a [[New York City|New York]] based collective of chefs and food enthusiasts with deep ties to the [[Bronx]] that was formed in 2012. The founding members are Jon Gray, Pierre Serrao and Lester Walker.<ref>{{cite news |last1=Gordinier |first1=Jeff |title=Food Lovers Aim to Give the Bronx Its Due |url=https://www.nytimes.com/2016/01/27/dining/ghetto-gastro-food-the-bronx.html |work=The New York Times |date=26 January 2016}}</ref><ref>{{cite news |last1=Passy |first1=Charles |title=Dinner With Martha Stewart and Ghetto Gastro |url=https://www.wsj.com/articles/dinner-with-martha-stewart-and-ghetto-gastro-1476653327#:~:text=Martha%20Stewart%2C%20Lester%20Walker%20and,York%20City%20Wine%20%26%20Food%20Festival. |accessdate=10 June 2020 |work=Wall Street Journal |date=16 October 2016}}</ref><ref>{{cite web |last1=Harris |first1=Chris |title=Meet the Boogie Down's Hood Chefs: Ghetto Gastro |url=https://www.vibe.com/gallery/meet-boogie-downs-hood-chefs-ghetto-gastro/ |website=Vibe.com |date=6 March 2013 |publisher=Vibe |access-date=August 31, 2021}}</ref>
+
+== History ==
+Ghetto Gastro was founded in 2012 by Jon Gray, Pierre Serrao and Lester Walker.<ref>{{Cite web|title=Read In The Food World, Black Excellence is Ghetto on ChefsFeed|url=https://www.chefsfeed.com/stories/1076-in-the-food-world-black-excellence-is-ghetto|access-date=2020-07-18|website=ChefsFeed|language=en}}</ref><ref>{{cite web |last1=Harris |first1=Chris |title=Meet the Boogie Down's Hood Chefs: Ghetto Gastro |url=https://www.vibe.com/gallery/meet-boogie-downs-hood-chefs-ghetto-gastro/ |website=Vibe |date=6 March 2013 |access-date=August 12, 2021}}</ref>
+
+In March 2018 Ghetto Gastro collaborated with [[Marvel Studios]] to present "Taste of Wakanda" at [[New York Fashion Week]], a food event which promoted the superhero film [[Black Panther (film)|Black Panther]].<ref>{{Cite magazine|title=Welcome to the 'Black Power Kitchen' of Tomorrow|language=en-us|magazine=Wired|url=https://www.wired.com/story/welcome-to-the-social-media-black-power-kitchen-of-tomorrow/|access-date=2020-07-18|issn=1059-1028}}</ref>
+
+In 2019 they opened the Labyrinth 1.1 space on the north shore of the [[Harlem River]] in the Bronx.<ref>{{cite news |last1=Kahn |first1=Howie |title=Ghetto Gastro Opens Labyrinth 1.1, Their New HQ in the Bronx |url=https://www.wsj.com/articles/ghetto-gastro-opens-labyrinth-1-1-their-new-hq-in-the-bronx-11546877031 |work=Wall Street Journal |date=7 January 2019}}</ref> The collective teamed up with the Bronx [[Oaxacan cuisine|Oaxacan]] restaurant La Morada and the non-profit [[Rethink Food]] to distribute free meals to [[Black Lives Matter]] protesters during the [[George Floyd protests]].<ref>{{Cite web|title=Bronx Food Collective Ghetto Gastro Wants Everyone To Know What Freedom Tastes Like|url=https://www.vogue.co.uk/arts-and-lifestyle/article/ghetto-gastro-juneteenth|access-date=2020-07-18|website=British Vogue|date=19 June 2020 |language=en-GB}}</ref> By June 22, 2020, Ghetto Gastro had served 35,000 free meals, and announced that it planned to serve at least 75,000 meals.<ref>{{Cite web|last=Cooper|first=Wilbert L.|date=2020-06-22|title=Ghetto Gastro is fighting against racism with new merch and free meals|url=https://i-d.vice.com/en_uk/article/7kpx8b/ghetto-gastro-is-fighting-against-racism-with-new-merch-and-free-meals|access-date=2020-07-18|website=i-D|language=en}}</ref>
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://ghettogastro.com/ Ghetto Gastro official webpage]
+
+[[Category:American artist groups and collectives]]
+[[Category:American chefs]]
+[[Category:Restaurants in New York City]]
+[[Category:African-American culture]]

@@ -1,0 +1,132 @@
+{{Short description|Chain of US cafeteria restaurants}}
+{{Use mdy dates|date=March 2019}}
+{{Infobox company
+| name = 
+| logo = Image:Bicklogo.png
+| logo_size = 
+| logo_alt = 
+| logo_caption = 
+| logo_padding = 
+| image = 
+| image_size = 
+| image_alt = 
+| image_caption = 
+| trading_name = 
+| native_name = 
+| native_name_lang = <!-- Use ISO 639-1 code, e.g. "fr" for French. For multiple names in different languages, use {{Lang|[code]|[name]}}. -->
+| romanized_name = 
+| former_name = 
+| traded_as = 
+| ISIN = 
+| industry = 
+| genre = 
+| fate = 
+| predecessor = <!-- or: | predecessors = -->
+| successor = <!-- or: | successors = -->
+| founded =  1921 <!-- {{Start date and age|1921|MM|DD}} in [[city]], [[state]], [[country]] -->
+| founder = Samuel Longley Bickford
+| defunct = <!-- {{End date|YYYY|MM|DD}} -->
+| hq_location = 
+| hq_location_city = 
+| hq_location_country = 
+| key_people = 
+| products = 
+| brands = 
+| production = 
+| production_year = <!-- Year of production data (if known) -->
+| services = 
+| revenue = 
+| revenue_year = <!-- Year of revenue data (if known) -->
+| operating_income = 
+| income_year = <!-- Year of operating_income data (if known) -->
+| net_income = <!-- or: | profit = -->
+| net_income_year = <!-- or: | profit_year = --><!-- Year of net_income/profit data (if known) -->
+| aum = <!-- Only for financial-service companies -->
+| assets = 
+| assets_year = <!-- Year of assets data (if known) -->
+| equity = 
+| equity_year = <!-- Year of equity data (if known) -->
+| owner = <!-- or: | owners = -->
+| members = 
+| members_year = <!-- Year of members data (if known) -->
+| num_employees = 
+| num_employees_year = <!-- Year of num_employees data (if known) -->
+| parent = 
+| divisions = 
+| subsid = 
+| module = <!-- Used to embed other templates -->
+| ratio = <!-- Basel III ratio, for BANKS ONLY -->
+| rating = <!-- credit rating, for BANKS ONLY -->
+| website = <!-- {{URL|example.com}} -->
+| footnotes = 
+| intl = <!-- Set positively ("true"/"yes"/etc) if company is international, otherwise omit -->
+}}
+'''Bickford's''' Restaurants and Cafeterias is a [[restaurant chain|chain]] of [[cafeteria|cafeteria-style restaurants]] founded in 1921. From the 1920s through the 1970s, the chain was a mainstay in the New York City area. From the 1970s through the 2000s, the chain was primarily located in the New England area. As of April 2024, the company operates 1 location in [[Massachusetts]].
+
+'''Bickford's''' and '''Foster's Cafeterias''' influenced [[Jack Kerouac]], [[Allen Ginsberg]], [[Peter Orlovsky]], [[Woody Allen]], [[Andy Warhol]], [[William Styron]], and [[Herbert Huncke]].
+
+[[File:Bickfords Restaurant.jpg|thumb|Bickford's Restaurant Rt.1, Saugus, Massachusetts - 2001]]
+
+==Lunchrooms==
+Samuel Longley Bickford (1885&ndash;1959) began his restaurant career in 1902. In the 1910s, he was a vice president at the [[Waldorf System]] lunchroom chain in New England and, in 1921, he established his own quick-lunch Bickford's restaurants in New York.<ref name="out">James C. O'Connell, ''Dining Out in Boston: A Culinary History'', {{isbn|1611689937}}, 2016, p. 98</ref><ref name=" gray93">Christopher Gray, "Streetscape: Bickford's; The Flaying of a Midtown East Art Deco Oddity", ''[[The New York Times]]'', July 18, 1993, [https://www.nytimes.com/1993/07/18/realestate/streetscape-bickford-s-the-flaying-of-a-midtown-east-art-deco-oddity.html '''10''':7]</ref> Bickford's lunchrooms offered modestly priced fare and extended hours. Bickford's architect was F. Russell Stuckert, who had been associated with Samuel Bickford since 1917. Stuckert's father, J. Franklin Stuckert, had designed buildings for [[Horn & Hardart]] in the 1890s.<ref name=gray/>
+
+During the 1920s, the Bickford's chain expanded rapidly with 24 lunchrooms in the New York area and others around Boston. It also acquired {{anchor|Travelers' Lunch}}Travelers' Lunch, which had been established by Bickford's brother Harold, the {{anchor|White Lunch System}}White Lunch System on the West Coast, and the {{anchor|Hayes Lunch System}}Hayes Lunch System in Boston, which was renamed Hayes-Bickford.{{anchor|Hayes-Bickford}}<ref name="gray93"/><ref name="out"/>
+
+A letter with a company stock offering stated, "The lunchrooms operated are of the self-service type and serve a limited bill of fare, which makes possible the maximum use of equipment and a rapid turnover. Emphasis is placed on serving meals of high quality at moderate cost."<ref name=gray>[https://www.nytimes.com/2001/06/03/realestate/streetscapes-readers-questions-village-site-eugene-o-neill-s-iceman-saloon.html  Gray, Christopher. "Streetscapes," ''The New York Times'', June 3, 2001.]</ref> A 1964 New York City guidebook noted:
+:Breakfast at Bickford's is an old New York custom. In these centrally located, speedy-service, modestly-priced restaurants a torrent of traffic is sustained for a generous span of hours with patrons who live so many different lives on so many different shifts.<ref name="BreakfastatBickfords" />
+
+==Expansion==
+<!--[[File:Bickford 488 8th jeh.jpg|thumb|Former Bickford's 488 Eighth Avenue, flanked by later chain restaurants]]-->
+With Bickford's restaurants opening in [[New Jersey]] and [[Massachusetts]], Sam Bickford and his son, Harold, worked over four decades to expand their cafeteria chain throughout the Northeast. As their expansion continued with drive-in restaurants and associated locations in [[Florida]], [[Pennsylvania]] and [[California]], they ultimately opened 85 branches.
+
+In the 1930s, union conflicts resulted in vandalism:
+:In 1932 the police blamed members of the glaziers union for vandalism against 24 Horn & Hardart and Bickford's restaurants in Manhattan, including the one at 488 Eighth Avenue. Witnesses said that a passenger in a car driving by used a slingshot to damage and even break the plate glass show windows. Glaziers union representatives had complained about nonunion employees installing glass at the restaurants.<ref name=gray/>
+
+Bickford's son, Harold, was in charge of expanding their cafeteria chain into Florida and California. In 1959, Bickford's, Inc. had two geographical divisions: the North-East Coast Division and the South East Coast (M&M Cafeterias, Inc) and West Coast (Foster's Lunch System, Ltd.) Division.<ref name="1922-1959" />
+[[File:Bickford 488 8th jeh.jpg|thumb|Former Bickford's,<br/>488 Eighth Avenue, New York]]
+
+==Decline==
+Bickford's and its Southeast subsidiary M&M Cafeterias and West Coast subsidiary Foster's Cafeterias had trouble staying in business because of rising labor costs, competition from the non-union labor at [[fast food]] restaurants, and rising crime, which kept people home after dark. In 1960, there were 48 Bickford's in New York, down to 42 in 1970 and only two in 1980. By 1982, the last two were closed as well.<ref name="BreakfastatBickfords" />
+
+==Evolution==
+In October 1959, in [[Peabody, Massachusetts]], Harold Bickford introduced a new concept, the Bickford's Pancake House, a specialty family restaurant with an emphasis on the breakfast menu. Over the next three decades, the Bickford's Pancake House chain grew to 30 restaurants throughout New England. By the mid-1990s, there were almost 70 Bickford's restaurants in New Hampshire, Vermont, Rhode Island, Connecticut and Massachusetts.<ref name=grille>{{cite web|url=http://www.bickfords.com/history.aspx|title=History|publisher=Bickfords.com|accessdate=October 11, 2013 | archive-url = https://web.archive.org/web/20130115080340/http://www.bickfords.com/history.aspx | archive-date = January 15, 2013 | url-status = dead}}</ref>
+
+Bickford's corporate headquarters were eventually located in [[Brighton, Boston, Massachusetts]]. Financial forecaster Jeffrey S. Bickford, the grandson of the founder, maintains a website devoted to Bickford's nostalgia<ref name="BreakfastatBickfords" >{{cite web|url=http://www.plazaview.com/Bickford's/IndexBickford's1922-1959.html#BreakfastatBickfords|title="Breakfast at Bickford's," ''The New York Times'', December 10, 2000.|website=plazaview.com|accessdate=July 11, 2017}}</ref>
+
+As of 2016, four locations remained, all in Massachusetts: Bickford's Grille, in Brockton, Burlington, and Woburn, and Bickford's Family Restaurant, in Acton. On December 30, 2018, the Brockton Bickford's Grille closed its doors after Tommy Doyle's Pub & Grill bought the restaurant building to expand their business. That left Bickford's with only three locations remaining: Bickford's Grille in Burlington and Woburn, Massachusetts, and Bickford's Family Restaurant in Acton, Massachusetts. As of July 2020, the Acton Massachusetts Bickford's Family Restaurant has permanently closed, which now leaves the company with just 2 Bickford's Grille locations in Burlington and Woburn, Massachusetts. The company is now working on reinventing themselves by giving the remaining "Grille" locations renovations and menu changes. This includes new signage and dining room upgrades. The Woburn location has had a new bar recently installed and they plan on using it once current coronavirus restrictions are lifted.<ref>{{cite news|last=Shepard|first=Cody|date=December 21, 2018|title=Tommy Doyle's is headed to Bickford's in Brockton|url=https://www.enterprisenews.com/news/20181221/tommy-doyles-is-headed-to-bickfords-in-brockton|work=The Enterprise|location=Brockton, Massachusetts |access-date=December 31, 2018}}</ref>
+
+==Foster's cafeterias==
+[[File:1008 Mission and First apr1970 - Flickr - drewj1946.jpg|thumb|right|A streetcar passing a Foster's in San Francisco in 1970]]
+Foster's Cafeterias were operated under Bickford's Foster's Lunch System, Ltd. subdivision, headquartered in [[San Francisco, California]]. By 1959, there were 28 Foster's Cafeterias & Bakeries in San Francisco and other locations in the [[San Francisco Bay Area]], including Oakland, Berkeley and San Mateo. The Foster's Lunch System, Ltd. also operated the Moar's Cafeterias,<ref>{{cite web|url=https://books.google.com/books?id=9jJvHQAACAAJ|title=The Story of the Mosaics: Moars Cafeteria, 33 Powell Street, San Francisco, "home of the Bufano Mosaics"|first=Beniamino|last=Bufano|date=July 11, 2017|publisher=Moars Cafeteria|accessdate=July 11, 2017|via=Google Books}}</ref><ref>{{cite book|url=https://books.google.com/books?id=pUtABAAAQBAJ&q=Moar's&pg=PT192|title=To Skin a Cat|first=Thomas|last=McGuane|date=September 3, 2014|publisher=Knopf Doubleday Publishing Group|accessdate=July 11, 2017|via=Google Books|isbn=9780804173476}}</ref> in [[Hillsdale Shopping Center]] at 70 Hillsdale Plaza in [[San Mateo, California|San Mateo]]<ref>{{cite web|url=https://archive.org/details/IntheSub1957|title=In the Suburbs|last=On Film Inc|year=1957|work=Redbook Magazine|accessdate=July 10, 2017|via=Internet Archive}} - promotional film</ref><!-- https://www.google.com/search?q=Moar%27s+Cafeteria+70+Hillsdale+Plaza+San+Mateo%2C+California --><ref name="1922-1959" >Bickford, Jeffrey S. [http://www.plazaview.com/Bickford's/IndexBickford%27s1922-1959.html Bickford's, Inc. - History/photos 1922-1959]</ref> and 33 Powell Street,<ref>[http://sflib1.sfpl.org:82/record=b1007749 SF Public Library - Historical Photographs<!-- Bot generated title -->]</ref> just north of the [[Cable car (railway)|cable car]] turntable<ref>{{cite web|url=https://www.cardcow.com/43925/moars-cafeteria-san-francisco-california/|title=Moars Cafeteria|website=CardCow Vintage Postcards|accessdate=July 11, 2017}}</ref> with a large [[mosaic]]<ref>{{cite web|url=http://www.sfgate.com/bayarea/article/SAN-FRANCISCO-New-habitat-for-love-worn-beasts-2763328.php|title=SAN FRANCISCO / New habitat for love-worn beasts / Museum kids enjoy treasured guardians of Valencia Gardens|website=San Francisco Chronicle|date=April 30, 2004|accessdate=July 11, 2017}}</ref> by [[Benny Bufano]] on one wall.<ref>[http://sflib1.sfpl.org:82/record=b1007750 SF Public Library - Historical Photographs<!-- Bot generated title -->]</ref><ref>{{cite web|url=https://diva.sfsu.edu/collections/sfbatv/bundles/191385|title=Discovery: Benny Bufano - San Francisco Bay Area Television Archive|website=diva.sfsu.edu|accessdate=July 11, 2017}}</ref><ref>{{cite web|url=https://bancroftlibrarycara.wordpress.com/beniamino-bufano/|title=Beniamino BUFANO (1898-1970)|author=California Art Research Archive|date=March 25, 2014|website=The Bancroft Library|accessdate=July 11, 2017}}</ref><ref>{{cite book|title=On Art and Artists|last1=Albright|first1=Thomas|chapter=Bufano's Lively Split Personality|chapter-url=http://www.gpaulbishop.com/gallery/g_PAUL_BISHOP_portrait_section/section_01/benny_bufano_A1.htm|url=https://books.google.com/books?id=i7Q3AQAAIAAJ|location=San Francisco|publisher=Chronicle Books|date=1989|page=104|isbn=0877015899}}</ref>
+
+Foster's cafeterias were known for Foster's English Muffins, [[sourdough]] [[English muffin]]s that were sold packaged at the cafeterias to take home. These muffins were  often mentioned by [[Herb Caen]] in his column.<ref>{{cite web|url=http://www.sfgate.com/news/article/HERB-CAEN-Friday-s-Fickle-Finger-2994413.php|title=HERB CAEN -- Friday's Fickle Finger|website=San Francisco Chronicle|date=February 9, 1996|accessdate=July 11, 2017}}</ref><ref>{{cite web|url=http://www.sfgate.com/bayarea/article/Market-Street-memories-Recalling-the-days-when-2906818.php|title=Market Street memories / Recalling the days when ladies wore gloves, men wore hats and Santa arrived by cable car|website=San Francisco Chronicle|date=June 22, 2001|accessdate=July 11, 2017}}</ref><ref>{{cite web|url=http://www.sfgate.com/news/article/Art-That-Captured-a-City-s-Pain-It-s-been-a-3236469.php|title=Art That Captured a City's Pain / It's been a long, strange trip for bust of slain mayor|website=San Francisco Chronicle|date=November 26, 2000|accessdate=July 11, 2017}}</ref> They were also sold in supermarkets and groceries.<ref>{{cite web|url=http://www.ajr.org/article.asp?id=3293|title=English muffin stories in the S.F. Chronicle, 1969|website=American Journalism Review|accessdate=July 11, 2017|archive-url=https://web.archive.org/web/20131029202632/http://www.ajr.org/Article.asp?id=3293|archive-date=October 29, 2013|url-status=dead}}</ref>
+
+==Literary References==
+===Bickford's===
+[[Jack Kerouac]] sometimes wrote while sitting in Bickford's, and he mentioned the restaurant in ''[[Lonesome Traveler]]''. Other members of the [[Beat Generation]] could be found at night in the New York Bickford's:
+:The best minds of [[Allen Ginsberg]]'s generation "sank all night in submarine light of Bickford's," he wrote in ''[[Howl (poem)|Howl]]''. The Beat Generation muse, [[Herbert Huncke]], practically inhabited the Bickford's on West 42nd Street. [[Walker Evans]] photographed Bickford's customers, and [[Andy Warhol]] rhapsodized about Bickford's waitresses. Bickford's made its way into the work of writers as diverse as [[Woody Allen]] and [[William Styron]].<ref name="BreakfastatBickfords" />
+
+===Foster's===
+[[File:Mission and 2nd Street, San Francisco, 1968 (5960293212).jpg|thumb|right|Foster's Cafeteria at Mission and 1st, San Francisco (1968)]]
+Allen Ginsberg when he was living in San Francisco liked to go to the large Foster's cafeteria on the north side of Sutter between Powell and Stockton.  He wrote the first section of ''Howl'' there in 1954.<ref>{{Cite web |url=http://blogcritics.org/tastes/article/the-great-cafs-caff-trieste-san/ |title=Café Trieste in North Beach: — The Great Cafes |access-date=January 21, 2012 |archive-date=November 11, 2011 |archive-url=https://web.archive.org/web/20111111143423/http://blogcritics.org/tastes/article/the-great-cafs-caff-trieste-san/ |url-status=dead }}</ref> He took vows there about January 1955 with [[Peter Orlovsky]] to be his lover, their promise being "that neither of us would go into heaven unless we could get the other one in".<ref>{{cite web|url=http://ezone.org/ez/e2/articles/digaman.html|title=How Beat Happened|website=ezone.org|accessdate=July 11, 2017}}</ref>
+
+==See also==
+* [[List of pancake houses]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons category}}
+*[http://www.bickfords.com Bickfords Grille]
+* Bickford, Jeffrey S. [http://www.plazaview.com/Bickford's/IndexBickford%27s1922-1959.html Bickford's, Inc. - History/photos 1922-1959]
+
+{{DEFAULTSORT:Bickford's (Restaurant)}}
+[[Category:1921 establishments in New York (state)]]
+[[Category:Restaurants in New York City]]
+[[Category:Culture of New York City]]
+[[Category:New England]]
+[[Category:Regional restaurant chains in the United States]]
+[[Category:Restaurants established in 1921]]
+[[Category:Restaurants in Massachusetts]]
+[[Category:Pancake houses]]
