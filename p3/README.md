@@ -7,6 +7,7 @@
 
 ## Clarifications / fixes
 [3/9 3:07PM] ``wget``/``unzip`` assertion no longer raised. Students may directly ``git pull`` the folder/files need for Project 3 and that should already include the ``data`` folder.
+[3/10 3:54PM] Changing Q3's question to include text about loading text file data.
 
 
   
@@ -162,7 +163,7 @@ with open('answers/q1.json', 'w') as f:
 * Make sure to index individual documents and not the entire `json` file.
 * For example, while loading data from `halloween.json`, iterate over each `arrest` and index each document.
 
-#### Q3 Add a new, index-able field named ``wiki`` (type: text) to the mapping from Q2. Save this new dynamic mapping result in ``q3.json``. [0.6 Points]
+#### Q3 Add a new, index-able field named ``wiki`` (type: text) to the mapping from Q2. Bulk upload all the text files. Save this new dynamic mapping result in ``q3.json``. [0.6 Points]
 ---
 
 ## 💎 Section 2: Madison and UW-M Trivia!
