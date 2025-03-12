@@ -1,0 +1,41 @@
+{{Short description|Former American restaurant chain}}
+{{Infobox company
+| image = Schrafft's, 58th St. LOC gsc.5a24925.jpg
+| image_caption = Interior of Schrafft's [[58th Street (Manhattan)|58th St.]] location in 1957
+| industry = [[Restaurant]]
+| parent = {{Ubl|[[Schrafft's]]|[[Pet, Inc.]] (from 1967)}}
+| num_locations = Over 50 (peak)
+}}
+
+[[File:2016-04 Menu .jpg|thumb|Menu from the [[New York World's Fair of 1964|1964 New York World's Fair]]]]
+'''Schrafft's''' was a [[Restaurant chain|chain]] of high-volume moderately priced [[New York City]] restaurants connected to the [[Schrafft's]] food and candy business of [[Boston]]. The dining rooms, which had tablecloths at dinner time, and later had separate standing bar areas, were supplemented by fountain service lunch counters, separate rooms in which were displayed for sale Schrafft's branded candy and ice cream, and various items such as wrapped gift baskets of fruit, candy and stuffed toys.
+
+==History==
+Schrafft's was founded by William G. Schrafft as a candy manufacturer in [[Boston]], but over time the company also became a well-known restaurant. In 1898, Frank G. Shattuck, a salesman for the Schrafft company from [[Upstate New York]], opened a candy store at [[Broadway (Manhattan)|Broadway]] and [[36th Street (Manhattan)|West 36th Street]] in [[Manhattan]], New York City.<ref name="Gray 2008">{{Cite news |last=Gray |first=Christopher |date=June 29, 2008 |title=Midday Havens, Lost to a Faster-Paced City |language=en-US |work=New York Times |url=https://www.nytimes.com/2008/06/29/realestate/29scap.html |access-date=March 23, 2022 |issn=0362-4331}}</ref> His sister, Jane Shattuck, was largely responsible for the introduction of light lunches into the stores.<ref name="Local SYR">{{Cite news |date=July 16, 2021 |title=The History Behind Schrafft's Luncheonette in Syracuse |language=en-US |work=Local SYR |url=https://www.localsyr.com/bridge-street/the-history-behind-schraffts-luncheonette-in-syracuse/ |access-date=March 23, 2022}}</ref>
+
+The first location to serve food was the [[Syracuse, New York|Syracuse]] store in 1906.<ref name="Local SYR" /> By 1909, Jane introduced meals to the second New York City Schrafft's, at 54 [[23rd Street (Manhattan)|West 23rd Street]] in the heart of the [[Ladies' Mile Historic District|Ladies' Mile shopping district]]. By 1927, there were 25 units, mostly in New York City, and by 1928 Schrafft's revenue from lunch sales was {{USD|1 million}} a month.<ref name="Gray 2008" />
+
+Schrafft's was known for an air of gentility typical of the upper-middle-class home. Cooks, supervisors, and even some executives were women. Menus of the 1920s and 1930s included many salads, more desserts than entrees, and vegetable selections such as creamed cauliflower and fried eggplant.
+
+Rent cuts in the [[Great Depression]] encouraged chain expansion, and by 1937 there were 43 Schrafft's, primarily in the [[New York metropolitan area]], and several others in [[Boston]] and [[Philadelphia]].  In 1939, ''[[WPA Guides|WPA Guide to New York City]]'' said Schrafft's had 38 locations in the metropolitan area, serving American home food.<ref>{{cite fednyc}}, p.24</ref> At its peak there were about 50 units in greater New York.
+
+In the late 1960s the Schrafft's candy company was sold to Helme Products while [[Pet, Inc.]] bought the restaurants in 1967 for {{USD|14 million}}.<ref name="harvard">{{Cite web |title=Pet Incorporated |url=http://www.library.hbs.edu/hc/lehman/chrono.html?company=pet_incorporated |url-status=dead |archive-url=https://web.archive.org/web/20100630051400/http://www.library.hbs.edu/hc/lehman/chrono.html?company=pet_incorporated |archive-date=June 30, 2010 |access-date=March 3, 2022 |publisher=Harvard University, Baker Library, Lehman Brothers Collection}}</ref> Pet made a renewed effort to renovate Schrafft's image, attract men with men-only sections of the restaurants, and diversify by opening a chain of Schrafft's motels.<ref name="Gray 2008" />
+
+In the 1970s, however, the chain dwindled with most restaurant locations closing within the decade.<ref name="Gray 2008" /> In 1981, the candy company ceased operations while the few restaurants remaining were in various hands.<ref>Whitaker, Jan (August 27, 2008) [http://restaurant-ingthroughhistory.com/2008/08/27/when-ladies-lunched-schrafft%E2%80%99s/ "When ladies lunched: Schrafft's"] ''Restaurant-ing Through History''</ref>
+
+==References==
+'''Notes'''
+{{reflist}}
+
+'''Bibliography'''
+* {{cite book |last=Freedman |first=Paul |author-link=Paul Freedman |title=Ten Restaurants That Changed America|url=https://books.google.com/books?id=HWKZCwAAQBAJ|year= 2016|publisher=Norton|isbn=978-1-63149-246-4}}
+*Slomanson, Joan Kanel (2006) ''When Everybody Ate at Schrafft's: Memories, Pictures, and Recipes from a Very Special Restaurant Empire''. Fort Lee, New Jersey: Barricade Books. {{ISBN|1-56980-295-5}}
+
+[[Category:1898 establishments in New York (state)]]
+[[Category:American companies established in 1898]]
+[[Category:Regional restaurant chains in the United States]]
+[[Category:Restaurants established in 1898]]
+[[Category:Restaurants in Boston]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurants in New York (state)]]
+[[Category:Restaurants in Philadelphia]]

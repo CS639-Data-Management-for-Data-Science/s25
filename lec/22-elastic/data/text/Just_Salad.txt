@@ -1,0 +1,32 @@
+{{Undisclosed paid|date=June 2020}}
+{{Infobox company
+| name = Just Salad
+| foundation = {{Start date and age|2006}}
+| hq_location_city = [[New York City]], [[New York (state)|New York]]
+| hq_location_country = [[United States]]
+| locations = 70
+| homepage = {{URL|www.justsalad.com}}
+| logo = JS Logo Horizontal RGB Berry (2).jpg
+| type = Private
+| founder = Nick Kenner
+| industry = Restaurants
+| genre = [[Fast casual]]
+| area_served = Worldwide
+| products = {{Unbulleted list|[[Salad]]|[[Wrap (food)|Wrap]]|[[Smoothie]]|[[Soup]]}}
+}}
+
+'''Just Salad''' is a chain of [[fast casual restaurant]]s<ref name=":0">{{Cite web |last=nicole |title=Just Salad Opens first Chicago Location |url=https://www.qsrmagazine.com/news/just-salad-opens-first-chicago-location |access-date=2016-02-02 |website=www.qsrmagazine.com|date=10 April 2015 }}</ref><ref>[https://www.usmagazine.com/food/news/daphne-oz-partners-with-just-salad-to-create-golden-glow-salad/ "Daphne Oz Partners With Just Salad to Create Dish That Lets You ‘Glow From Within’"] ''Us Magazine''. Retrieved 2019-10-07.</ref> which primarily serves salads.
+
+== History ==
+The company was founded in 2006 by Nick Kenner and Rob Crespi.<ref>{{Cite web|title = Dude Food: An Interview With Nick Kenner of Just Salad - Big Girls Small Kitchen|url = http://www.biggirlssmallkitchen.com/2011/01/dude-food-an-interview-with-nick-kenner-of-just-salad.html|website = Big Girls Small Kitchen|access-date = 2016-02-02|language = en-US}}</ref>
+
+The first location opened at 320 Park Avenue in [[New York City]] in 2006. Today, the company operates 70 store locations, primarily in the United States. <ref>[https://www.forbes.com/sites/aliciakelso/2019/09/12/another-win-for-the-plant-based-movement-just-salad-replaces-steak-with-beyond-meatballs/#5290530aeddb "Another Win For The Plant-Based Movement: Just Salad Replaces Steak With Beyond Meatballs"] ''Forbes''. Retrieved 2019-10-07.</ref> <ref>[https://www.wsj.com/articles/fitness-clubs-spawn-urban-clusters-of-juice-bars-spas-11559649600 "Fitness Clubs Spawn Urban Clusters of Juice Bars, Spas"] ''The Wall Street Journal''. Retrieved 2019-10-07.</ref>
+
+== References ==
+{{Reflist}}
+
+[[Category:Companies based in New York City]]
+[[Category:Restaurants in New York City]]
+[[Category:Restaurant chains in the United States]]
+[[Category:2006 establishments in New York City]]
+[[Category:Restaurants established in 2006]]
