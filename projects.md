@@ -77,6 +77,8 @@ If you're working with a project partner who has the late penalty waived, that m
 
 For other cases (falling very far behind, family emergencies, etc), **reach out to your instructor** to discuss possible accomodations.
 
+Late penalty exceptions **will not be provided** for last-minute (< 2 days before the deadline) technical difficulties. We expect you to get started on the projects early - at least for the installation part. 
+
 ## Resubmission Policy
 
 Resubmissions generally won't be allowed once projects have been
