@@ -1,1 +1,5 @@
 <account_name>.<region>.<cloud_provider>.snowflakecomputing.com
+
+For example,
+
+SY56707.us-central1.gcp.snowflakecomputing.com
