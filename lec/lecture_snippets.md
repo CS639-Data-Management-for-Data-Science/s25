@@ -9,6 +9,15 @@ I will use this file to mention installation requirements for lecture demos and 
 pip install snowflake-connector-python pandas matplotlib
 ```
 
+## Airbyte free trial
+
+- You need to register an Airbyte web version account at https://airbyte.com/ and claim your 14-day free trial for Airbyte using your personal email.
+  - **IMPORTANT**: I am asking you to create trial with your personal email because you will run out of free-trial period prior to the deadline. For project p4, please make sure to create another account with your wisc.edu email.
+
+## Snowflake free trial
+
+
+
 ## Wed, Mar 5 (ElasticSearch):
 
 ## Upgrade your VM to e2-medium 
