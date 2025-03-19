@@ -2,6 +2,13 @@
 
 I will use this file to mention installation requirements for lecture demos and also any code snippets that I will be copy/pasting during the lecture demo.
 
+## Wed, Mar 19 (Data Pipeline):
+
+- In your VM, install Snowflake connector. You should already have pandas and matplotlib installed, but just in case you provisioned a new VM, I am listing those as well.
+```
+pip install snowflake-connector-python pandas matplotlib
+```
+
 ## Wed, Mar 5 (ElasticSearch):
 
 ## Upgrade your VM to e2-medium 
