@@ -1,0 +1,12 @@
+-- set variables (these need to be uppercase)
+set airbyte_database = 'AIRBYTE_DATABASE';
+
+begin;
+
+-- Set the role to sysadmin for database deletion
+use role SYSADMIN;
+
+-- Drop the Airbyte database
+drop database if exists identifier($airbyte_database);
+
+commit;

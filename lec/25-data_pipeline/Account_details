@@ -1,0 +1,3 @@
+SELECT 
+    CURRENT_ACCOUNT() AS account_name,
+    CURRENT_REGION() AS region;
