@@ -2,6 +2,13 @@
 
 I will use this file to mention installation requirements for lecture demos and also any code snippets that I will be copy/pasting during the lecture demo.
 
+## Fri, Mar 21 (Data Transformation):
+
+- In your VM, install Snowflake connector. You should already have pandas and matplotlib installed, but just in case you provisioned a new VM, I am listing those as well.
+```
+pip install dbt-snowflake
+```
+
 ## Wed, Mar 19 (Data Pipeline):
 
 - In your VM, install Snowflake connector. You should already have pandas and matplotlib installed, but just in case you provisioned a new VM, I am listing those as well.
@@ -16,7 +23,7 @@ pip install snowflake-connector-python pandas matplotlib
 
 ## Snowflake free trial
 
-
+- You need to register a Snowflake web account at https://www.snowflake.com/en/ and claim your 30-day free trial. Since it is a 30-day trial, you can sign up directly using your wisc.edu email.
 
 ## Wed, Mar 5 (ElasticSearch):
 
