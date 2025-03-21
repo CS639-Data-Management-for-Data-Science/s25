@@ -4,10 +4,16 @@ I will use this file to mention installation requirements for lecture demos and 
 
 ## Fri, Mar 21 (Data Transformation):
 
-- TBD: Update instructions from P4 draft.
-- In your VM, install Snowflake connector. You should already have pandas and matplotlib installed, but just in case you provisioned a new VM, I am listing those as well.
+dbt (Data Build Tool) is an open-source command-line tool used by data teams to transform raw data into a clean, analytical format within a data warehouse. It enables data analysts and engineers to build, test, and document data models through SQL scripts. 
+
+- All of the following installations will be in your GCP VM. Make sure that you bring down the elasticsearch docker cluster. If you run into disk space issues, please make sure to delete unnecessary files. 
+- First install miniconda following the instruction [here](https://www.anaconda.com/docs/getting-started/miniconda/install#macos-linux-installation). Go ahead and enter "yes" for this question "Do you wish to update your shell profile to automatically initialize conda?".
+- Then create a miniconda env named `p4-env` using `conda create -n p4-env python=3.10`. All the packages will be installed in the new envs and will not interrupt your base env. It will be very useful when you are having multiple projects on your VM.
+- Make sure to close your ssh session and open a new session.
+- Then activate your conda environment using `conda activate p4-env`.
+- Finally, install the required modules
 ```
-pip install dbt-snowflake sqlalchemy snowflake-sqlalchemy
+pip install snowflake-connector-python dbt-snowflake dbt-core pandas matplotlib sqlalchemy snowflake-sqlalchemy
 ```
 
 ## Wed, Mar 19 (Data Pipeline):
