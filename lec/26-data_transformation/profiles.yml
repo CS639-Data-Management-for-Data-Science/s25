@@ -1,4 +1,4 @@
-p4_data_pipeline:
+p4_survey_pipeline:
   target: dev # default target; can be switched using --target option of dbt run
   outputs:
     dev:
