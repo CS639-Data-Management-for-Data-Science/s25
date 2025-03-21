@@ -6,6 +6,8 @@ I will use this file to mention installation requirements for lecture demos and 
 
 dbt (Data Build Tool) is an open-source command-line tool used by data teams to transform raw data into a clean, analytical format within a data warehouse. It enables data analysts and engineers to build, test, and document data models through SQL scripts. 
 
+### dbt installation
+
 - All of the following installations will be in your GCP VM. Make sure that you bring down the elasticsearch docker cluster. If you run into disk space issues, please make sure to delete unnecessary files. 
 - First install miniconda following the instruction [here](https://www.anaconda.com/docs/getting-started/miniconda/install#macos-linux-installation). Go ahead and enter "yes" for this question "Do you wish to update your shell profile to automatically initialize conda?".
 - Then create a miniconda env named `p4-env` using `conda create -n p4-env python=3.10`. All the packages will be installed in the new envs and will not interrupt your base env. It will be very useful when you are having multiple projects on your VM.
@@ -14,6 +16,54 @@ dbt (Data Build Tool) is an open-source command-line tool used by data teams to 
 - Finally, install the required modules
 ```
 pip install snowflake-connector-python dbt-snowflake dbt-core pandas matplotlib sqlalchemy snowflake-sqlalchemy
+```
+
+### dbt configuration steps:
+
+- Configure `profiles.yml` for Snowflake:
+
+```
+mkdir ~/.dbt
+touch ~/.dbt/profiles.yml
+```
+
+- dbt initialize a new dbt project
+
+```
+dbt init p4_survey_pipeline
+```
+  - When you run dbt init <project_name>, it creates a directory with the specified project name. Inside this directory, it sets up the default project structure, which includes:
+    - models/: This is where your dbt models (SQL queries) are stored.
+    - seeds/: This is where CSV files are placed that you want to load into your data warehouse.
+    - tests/: This is where you can store data tests.
+    - macros/: This is where you store reusable SQL functions and macros.
+    - analysis/: This is where you can store analysis queries.
+    - data/: Directory for the data files.
+    - target/: This folder is where dbt stores the results of runs (compiled SQL files, logs, etc.), but this folder is typically ignored in version control.
+    - logs/: This is where dbt writes its logs during execution.
+    - dbt_project.yml: The main configuration file that holds project-specific configurations like project name, version, models configurations, etc.
+    - profiles.yml (optional but recommended): dbt will suggest that you set up a connection to your data warehouse.
+
+- Define the Source Table in dbt:
+```
+cd p4_survey_pipeline
+vim models/schema.yml
+```
+
+- Create a dbt Model to apply necessary transformations
+
+```
+mkdir models/staging
+vim models/staging/transform_survey.sql
+```
+- Check status of dbt connection
+```
+dbt debug  # check if dbt is correctly connected to Snowflake 
+```
+- Apply dbt transformations
+```
+dbt run
+dbt run --target other
 ```
 
 ## Wed, Mar 19 (Data Pipeline):
