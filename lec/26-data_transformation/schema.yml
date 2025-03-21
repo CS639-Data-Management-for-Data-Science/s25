@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: airbyte_data
+    database: AIRBYTE_DATABASE
+    schema: AIRBYTE_SCHEMA
+    tables:
+      - name: survey  # original table from Google Sheets
+

@@ -1,0 +1,24 @@
+p4_data_pipeline:
+  target: dev # default target; can be switched using --target option of dbt run
+  outputs:
+    dev:
+      type: snowflake
+      account: SY56707.us-central1.gcp  # Example: <account_name>.<region>.<cloud_provider>
+      user: MSYAMKUMAR25
+      password: # Snowflake password 
+      role: AIRBYTE_ROLE
+      database: AIRBYTE_DATABASE 
+      warehouse: AIRBYTE_WAREHOUSE
+      schema: AIRBYTE_SCHEMA
+      threads: 10
+
+    other_db:
+      type: snowflake
+      account: SY56707.us-central1.gcp  # Example: <account_name>.<region>.<cloud_provider>
+      user: MSYAMKUMAR25
+      password: # Snowflake password 
+      role: AIRBYTE_ROLE
+      database: OTHER_DATABASE  # another database
+      warehouse: AIRBYTE_WAREHOUSE
+      schema: AIRBYTE_SCHEMA
+      threads: 10
