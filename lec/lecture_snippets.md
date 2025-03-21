@@ -4,9 +4,10 @@ I will use this file to mention installation requirements for lecture demos and 
 
 ## Fri, Mar 21 (Data Transformation):
 
+- TBD: Update instructions from P4 draft.
 - In your VM, install Snowflake connector. You should already have pandas and matplotlib installed, but just in case you provisioned a new VM, I am listing those as well.
 ```
-pip install dbt-snowflake
+pip install dbt-snowflake sqlalchemy snowflake-sqlalchemy
 ```
 
 ## Wed, Mar 19 (Data Pipeline):
