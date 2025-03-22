@@ -162,7 +162,7 @@ After loading all the relevant data into Snowflake, take screenshots of the `Dat
 - In your report:
  - include a screenshot showing `Data Preview` of the view that you created using the dbt transformation.
 
-## :building_construction: Section 2: Custom student dataset analysis (6 points in total)
+## :building_construction: Section 2: Custom student dataset analysis (7 points in total)
 
 #### Q10 to Q16 (1 point each)
 
@@ -177,7 +177,7 @@ So far, we have come up with data analysis questions for you. Let's have you get
 - At least one of the analysis questions should involve usage of `GROUP BY` clause.
 - At least two of the analysis questions should create plots using `matplotlib`. For example, pie charts, bar plots, line plots, etc.,
 
-## :building_construction: Section 3: Stock and foreign exchange (fx) dataset analysis (? points in total)
+## :building_construction: Section 3: Stock and foreign exchange (fx) dataset analysis (7 points in total)
 
 #### Q17: Ingest data directly from Snowflake Marketplace (0.5 points)
 
