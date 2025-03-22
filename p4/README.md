@@ -16,7 +16,7 @@ Learning Objective:
 
 ## :outbox_tray: Submission requirements
 
-Github classroom link: [https://classroom.github.com/a/wC9wCjCE]([https://classroom.github.com/a/6EsW9IyB)](https://classroom.github.com/a/wC9wCjCE](https://classroom.github.com/a/6EsW9IyB))
+Github classroom link: [https://classroom.github.com/a/6EsW9IyB](https://classroom.github.com/a/6EsW9IyB)
 
 - The submission repository should include a pdf report, which can be generated either from a word document or using Latex (eg: Overleaf). The report should include all the relevant screenshots and the code as mentioned in the corresponding sections of this project write-up. 
 - You will also include a notebook file with relevant code for some questions. Make sure to name the file as `p4.ipynb`.
@@ -303,7 +303,7 @@ Your SQL query's output should look like this:
 
 ## :outbox_tray: Submission requirement (Repeating this once again)
 
-Github classroom link: [https://classroom.github.com/a/wC9wCjCE]([https://classroom.github.com/a/6EsW9IyB)](https://classroom.github.com/a/wC9wCjCE](https://classroom.github.com/a/6EsW9IyB))
+Github classroom link: [https://classroom.github.com/a/6EsW9IyB](https://classroom.github.com/a/6EsW9IyB)
 
 - The submission repository should include a pdf report, which can be generated either from a word document or using Latex (eg: Overleaf). The report should include all the relevant screenshots and the code as mentioned in the corresponding sections of this project write-up. 
 - You will also include a notebook file with relevant code for some questions. Make sure to name the file as `p4.ipynb`.
