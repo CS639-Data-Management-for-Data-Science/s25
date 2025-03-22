@@ -285,7 +285,7 @@ In this question, you should SQL query to calculate the total profit by desk. Yo
 </details>
 
 :outbox_tray: To get credit for this question:
-- You need to include a screenshot showing your SQL query and the output of the SQL query in your report.
+- You need to write the SQL query inside `p4.ipynb` and show the output of the query after you execute it.
 
 #### Q25: Compute profit rate by desk (1 point)
 
@@ -299,7 +299,7 @@ Your SQL query's output should look like this:
 | FX     |              |
 
 :outbox_tray: To get credit for this question:
-- You need to include a screenshot showing your SQL query and the output of the SQL query in your report.
+- You need to write the SQL query inside `p4.ipynb` and show the output of the query after you execute it.
 
 ## :outbox_tray: Submission requirement (Repeating this once again)
 
