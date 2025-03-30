@@ -234,7 +234,7 @@ Now that you have the basic information and understanding of the database, you s
 #### Q21: Find all playlists that contain tracks by "Queen".
 
 **Requirements:** 
-* Your results must include the playlist name `PlaylistName`.
+* Your results should only include unique playlist names `PlaylistName`.
 * Your results should also be ordered based on ascending order of `PlaylistName`.
 
 #### Q22: List all the employees (sales agents) who supported customers that purchased tracks by "Queen." 
