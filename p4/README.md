@@ -5,6 +5,7 @@
 - [3/22 7:30AM] Adding warning about Snowflake login requirements, specifically not to hardcode password in `p4.ipynb`.
 - [3/31 11:03 AM] Fixing Q10 to Q16 (was originally mistyped as Q18) in IMPORTANT note mentioned in the section.
 - [3/31 11:07 AM] Adding a note to Q10 to Q16 about survey data.
+- [3/31 11:11 AM] Adding a note to Q6 about using github URL in the source configuration.
 
 
 ## :telescope: Overview
@@ -126,6 +127,8 @@ Configure an Airbyte connection with this google sheet source: [https://docs.goo
 #### Q6: Airbyte configuration for `trading_books.csv` and `weights_table.csv` files (0.5 points)
 
 In the process of data analysis, it is common to use your private data that are not pre-configured in any of the data markets. Airbyte provides a method to load your private CSV file to the database for analysis. In this project, we will use the `trading_books.csv` and `weights_table.csv` files in https://github.com/Snowflake-Labs/sfguide-deploying-pipelines-with-snowflake-and-dbt-labs/tree/main/dbt_project/seeds for analysis. Set up the source in Airbyte by using `File` in Sources.
+
+**Note**: If you are trying to configure the source directly using the github URL, you must use the raw version, that is your URL should not be github.com, instead it should be raw.githubusercontent.com.
 
 :outbox_tray: To get credit for this question, you are required to include the screenshot of your `Sources` section in the Airbyte in the report. The sources should contain two extractions of `Files`. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
