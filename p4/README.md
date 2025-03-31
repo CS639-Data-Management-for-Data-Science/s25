@@ -8,6 +8,7 @@
 - [3/31 11:11 AM] Adding a note to Q6 about using github URL in the source configuration.
 - [3/31 11:19 AM] Fixing numbering and missing step in Q4 and updating corresponding step's point.
 - [3/31 11:42 AM] Adding clarification to Q21 on how to determine valid tickers.
+- [3/31 12:46 PM] Fixing name to schema.yml reference in Q9. We'll accept both schema.yml and survey_schema.yml file names (file name doesn't really matter). Just make sure to use one of those options.
 
 
 ## :telescope: Overview
@@ -163,7 +164,7 @@ After loading all the relevant data into Snowflake, take screenshots of the `Dat
 - Create `~/.dbt/profiles.yml` with the project name as `p4_data_pipeline`.
 - `cd` into your home directory.
 - Then run the `dbt init p4_data_pipeline` command.
-- `cd` into `p4_data_pipeline` directory and create `models/survey_schema.yml`.
+- `cd` into `p4_data_pipeline` directory and create `models/schema.yml`.
 - Create a directory named `staging` inside the `models` directory.
 - Finally, create `transform_survey.sql` inside `models/staging` and run `dbt debug`, `dbt run`.
 
