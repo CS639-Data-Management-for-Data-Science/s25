@@ -3,6 +3,7 @@
 ## Clarifications / fixes
 [3/22 2:45AM] Fixed github classroom link issue.
 [3/22 7:30AM] Adding warning about Snowflake login requirements, specifically not to hardcode password in `p4.ipynb`.
+[3/31 11:03 AM] Fixing Q10 to Q16 (was originally mistyped as Q18) in IMPORTANT note mentioned in the section.
 
 
 ## :telescope: Overview
@@ -174,7 +175,7 @@ After loading all the relevant data into Snowflake, take screenshots of the `Dat
 So far, we have come up with data analysis questions for you. Let's have you get experience coming up both with analysis questions and answers for them.
 
 ⚠️ **IMPORTANT**: 
-- While it is tempting to use generative AI to generate the data analysis questions for you, this would be a concrete example of generative AI platforms taking away your learning. So, please come up with questions on your own. Usage of generative AI platform for any part of Q10 to Q18 will be considered violation of course rules.
+- While it is tempting to use generative AI to generate the data analysis questions for you, this would be a concrete example of generative AI platforms taking away your learning. So, please come up with questions on your own. Usage of generative AI platform for any part of Q10 to Q16 will be considered violation of course rules.
 - **Do not** hardcode your Snowflake password into `p4.ipynb`. Make sure to store the password in a file and read it directly from the file. Example code can be found in `Snowflake_intro.ipynb` inside data transformation lecture code directory.
 
 :outbox_tray: To get full credit for these questions:
