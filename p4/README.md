@@ -1,9 +1,9 @@
 # P4 (8% of grade): ELT data pipeline - Airbyte, Snowflake, and DBT
 
 ## Clarifications / fixes
-[3/22 2:45AM] Fixed github classroom link issue.
-[3/22 7:30AM] Adding warning about Snowflake login requirements, specifically not to hardcode password in `p4.ipynb`.
-[3/31 11:03 AM] Fixing Q10 to Q16 (was originally mistyped as Q18) in IMPORTANT note mentioned in the section.
+- [3/22 2:45AM] Fixed github classroom link issue.
+- [3/22 7:30AM] Adding warning about Snowflake login requirements, specifically not to hardcode password in `p4.ipynb`.
+- [3/31 11:03 AM] Fixing Q10 to Q16 (was originally mistyped as Q18) in IMPORTANT note mentioned in the section.
 
 
 ## :telescope: Overview
