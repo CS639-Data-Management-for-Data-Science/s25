@@ -7,6 +7,7 @@
 - [3/31 11:07 AM] Adding a note to Q10 to Q16 about survey data.
 - [3/31 11:11 AM] Adding a note to Q6 about using github URL in the source configuration.
 - [3/31 11:19 AM] Fixing numbering and missing step in Q4 and updating corresponding step's point.
+- [3/31 11:42 AM] Adding clarification to Q21 on how to determine valid tickers.
 
 
 ## :telescope: Overview
@@ -233,7 +234,7 @@ Then, you can set up dependencies in the file `packages.yml` (should be created 
 
 #### Q21: Creating staging tables for FX and Stock (1 point)
 
-The original stock and fx trading tables are huge and contains a lot of irrelevant information. Thus, the first stage to transform data is to select the data we need. You need to first create two staging views that selects all dates and valid tickers that we have separately into two tables, one named `staging_valid_fx_tickers` and another named `staging_valid_stock_tickers` for the FX and stock data. 
+The original stock and fx trading tables are huge and contains a lot of irrelevant information. Thus, the first stage to transform data is to select the data we need. You need to first create two staging views that selects all dates and valid tickers that we have separately into two tables, one named `staging_valid_fx_tickers` and another named `staging_valid_stock_tickers` for the FX and stock data. **NEW NOTE**: Valid ticker information for both FX and stock should be generated from `TRADING_BOOKS` table. 
 
 Subsequently, you need to find the open, close, high, and low prices for the selected tickers in tables named `staging_valid_stock_info` and `staging_valid_fx_info`. 
 
