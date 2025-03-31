@@ -6,6 +6,7 @@
 - [3/31 11:03 AM] Fixing Q10 to Q16 (was originally mistyped as Q18) in IMPORTANT note mentioned in the section.
 - [3/31 11:07 AM] Adding a note to Q10 to Q16 about survey data.
 - [3/31 11:11 AM] Adding a note to Q6 about using github URL in the source configuration.
+- [3/31 11:19 AM] Fixing numbering and missing step in Q4 and updating corresponding step's point.
 
 
 ## :telescope: Overview
@@ -93,20 +94,21 @@ On your Snowflake, create a new SQL worksheet and name the worksheet as `p4` to 
  - Make sure to include `if not exists` clause.
  - Make sure to use all the cost saving options: suspend the warehouse after 60 minutes of inactivity, initially suspend the warehouse after creation, and make sure to resume the warehouse automatically on query execution.
  - Optionally, you may define appropriate variables for all the names in this configuration (good practice to do that). You'll not lose points if you don't define variables.
-4. Create two databases named `SURVEY_DATABASE` and `STOCK_DB`.
+3. Create two databases named `SURVEY_DATABASE` and `STOCK_DB`.
  - Make sure to include `if not exists` clause.
-5. Create a role named `P4_ROLE`.
+4. Create a role named `P4_ROLE` (1 point for this step).
  - Make sure to include `if not exists` clause.
-6. Grant usage on the warehouse `P4_WAREHOUSE` to the `P4_ROLE`.
-7. Grant the role `P4_ROLE` to your Snowflake user (username should be your Snowflake username).
-8. Grant ownership of `SURVEY_DATABASE` and `STOCK_DB` to `P4_ROLE`.
-9. Switch to `P4_ROLE`.
-10. Create a schema in `SURVEY_DATABASE` named `SURVEY_SCHEMA`.
+ - **NEW UPDATE**: Granting `P4_ROLE` to the SYSADMIN role.
+5. Grant usage on the warehouse `P4_WAREHOUSE` to the `P4_ROLE`.
+6. Grant the role `P4_ROLE` to your Snowflake user (username should be your Snowflake username).
+7. Grant ownership of `SURVEY_DATABASE` and `STOCK_DB` to `P4_ROLE`.
+8. Switch to `P4_ROLE`.
+9. Create a schema in `SURVEY_DATABASE` named `SURVEY_SCHEMA`.
  - For step 10 and 11, you need to either run the `USE DATABASE ...` and then run the create query or use the `<database>.<schema>` notation directly with your create query. Both answers are acceptable.
  - Make sure to include `if not exists` clause.
-11. Create a schema in `STOCK_DB` named `STOCK_SCHEMA`.
-12. Grant ownership of `SURVEY_SCHEMA` to `P4_role`.
-13. Grant ownership of `STOCK_SCHEMA` to `P4_role`.
+10. Create a schema in `STOCK_DB` named `STOCK_SCHEMA`.
+11. Grant ownership of `SURVEY_SCHEMA` to `P4_role`.
+12. Grant ownership of `STOCK_SCHEMA` to `P4_role`.
 
 :outbox_tray: To get credit for this question:
 - paste the SQL code for this step into your report document
