@@ -10,6 +10,7 @@
 - [3/31 11:42 AM] Adding clarification to Q21 on how to determine valid tickers.
 - [3/31 12:46 PM] Fixing name to schema.yml reference in Q9. We'll accept both schema.yml and survey_schema.yml file names (file name doesn't really matter). Just make sure to use one of those options.
 - [4/01 2:51 PM] Adding more details about valid ticker determination for Q21.
+- [4/01 9:46 PM] Correcting mistake with Q7 (should be 2 destinations and not 3). Both csv files should go to single destination. If you configured 3 destinations, we'll accept that as well.
 
 
 ## :telescope: Overview
@@ -148,7 +149,7 @@ Set up another Airbyte connection to Snowflake. The relevant documentation shoul
 :outbox_tray: To get credit for this question, you are required to include the screenshot of the page `Destinations` in Airbyte WebUI in your submitted report, the connection should be healthy. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
 ![Airbyte destination](./images/Airbyte_destinations.png)
-**Note**: Your screenshot will include 3 destinations unlike this example screenshot. We'll be updating this screenshot sometime soon.
+**Note**: Your screenshot will include 2 (**new note**: this should be 2 and not 3) destinations unlike this example screenshot. We'll be updating this screenshot sometime soon.
 
 #### Q8: Data Preview on Snowflake (0.5 points)
 
