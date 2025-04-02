@@ -11,6 +11,7 @@
 - [3/31 12:46 PM] Fixing name to schema.yml reference in Q9. We'll accept both schema.yml and survey_schema.yml file names (file name doesn't really matter). Just make sure to use one of those options.
 - [4/01 2:51 PM] Adding more details about valid ticker determination for Q21.
 - [4/01 9:46 PM] Correcting mistake with Q7 (should be 2 destinations and not 3). Both csv files should go to single destination. If you configured 3 destinations, we'll accept that as well.
+- [4/01 10:07 PM] Fixing copy/paste error with Q18. Submission requirements previously incorrectly stated to display transform_survey.sql.
 
 
 ## :telescope: Overview
@@ -212,8 +213,6 @@ Update your `~/.dbt/profiles.yml` to create a new output named `stock_db`.
 :outbox_tray: To get credit for this question:
 - In `p4.ipynb`, create a new markdown cell to identify Q20 (feel free to copy paste the format from this README file).
 - In a new cell, execute the appropriate linux command to display the contents of `~/.dbt/profiles.yml` and ⚠️ **IMPORTANT** filter out the line containing `password`. **Hint:** We covered the linux command that enables this filtering at the beginning of this semester. You'll lose points if your output contains your password and you'll have to reset your Snowflake account password because all of us in the staff team will have access to it!
-
-- In a new cell, execute the appropriate linux command to display the content of `models/staging/transform_survey.sql`.
 
 After all these steps, you can create staging tables and marts tables using dbt. 
 
