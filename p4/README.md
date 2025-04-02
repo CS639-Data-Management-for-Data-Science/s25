@@ -12,6 +12,7 @@
 - [4/01 2:51 PM] Adding more details about valid ticker determination for Q21.
 - [4/01 9:46 PM] Correcting mistake with Q7 (should be 2 destinations and not 3). Both csv files should go to single destination. If you configured 3 destinations, we'll accept that as well.
 - [4/01 10:07 PM] Fixing copy/paste error with Q18. Submission requirements previously incorrectly stated to display transform_survey.sql.
+- [4/02 10:11 PM] Fixing Q19 to remove "second" source. You'll need to add multiple sources for the STOCK_DB tables.
 
 
 ## :telescope: Overview
@@ -216,9 +217,9 @@ Update your `~/.dbt/profiles.yml` to create a new output named `stock_db`.
 
 After all these steps, you can create staging tables and marts tables using dbt. 
 
-#### Q19: Update `models/schema.yml` file to include a second source for `STOCK_DB` tables (0.5 points)
+#### Q19: Update `models/schema.yml` file to include new sources for `STOCK_DB` tables (0.5 points)
 
-You should set the stock data soource name as `stock_by_day`, fx data source name as `fx_by_day`, and the Airbyte extracted data as `airbyte_csv_data`. Stock data should include `US_STOCK_METRICS` table, FX data should include `FOREX_METRICS` table, and  airbyte data should include `TRADING_BOOKS` & `WEIGHTS_TABLE`. 
+You should set the stock data soource name as `stock_by_day`, fx data source name as `fx_by_day`, and the Airbyte extracted data as `airbyte_csv_data`. Stock data should include `US_STOCK_METRICS` table, FX data should include `FOREX_METRICS` table, and  airbyte data should include `TRADING_BOOKS` & `WEIGHTS_TABLE`. **NEW NOTE**: You'll have four sources after this step for each of the following: survey (whatever name you defined for it - we din't impose any names), stock_by_day, fx_by_day, csv source (whatever name you defined for it - we didn't impose any names for this either). 
 
 :outbox_tray: To get credit for this question:
 - In `p4.ipynb`, create a new markdown cell to identify Q19 (feel free to copy paste the format from this README file).
