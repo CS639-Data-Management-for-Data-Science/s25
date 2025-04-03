@@ -14,6 +14,7 @@
 - [4/01 10:07 PM] Fixing copy/paste error with Q18. Submission requirements previously incorrectly stated to display transform_survey.sql.
 - [4/02 10:11 PM] Fixing Q19 to remove "second" source. You'll need to add multiple sources for the STOCK_DB tables.
 - [4/02 12:08 PM] Adding more clarifications to Q21.
+- [4/02 10:43 PM] Clarifying transform_survey versus survey_transformed in Q9.
 
 
 ## :telescope: Overview
@@ -162,7 +163,7 @@ After loading all the relevant data into Snowflake, take screenshots of the `Dat
 
 **Note**: Your screenshot should contain correct configurations from Q4.  We'll be updating this screenshot sometime soon.
 
-#### Q9: Use dbt to transform the column names to single word or two-word names with "_" separator and create a view named `survey_transformed`. (4 points)
+#### Q9: Use dbt to transform the column names to single word or two-word names with "_" separator and create a view named `transform_survey`. (4 points)
 
 - You must transform all the original survey column names except for `TIMESTAMP` using dbt sql file named `transform_survey.sql`.
 - If you haven't already created the `.dbt` directory in your home directory, go ahead and create that.
@@ -180,6 +181,7 @@ After loading all the relevant data into Snowflake, take screenshots of the `Dat
 - In a new cell, execute the appropriate linux command to display the content of `models/staging/transform_survey.sql`.
 - In your report:
  - include a screenshot showing `Data Preview` of the view that you created using the dbt transformation.
+- **NEW NOTE** the previous version of the question incorrectly referenced the view name as `survey_transformed`. That was meant to be `transform_survey`. We'll accept screenshots with either naming terminology for both the sql file and the view.
 
 ## :building_construction: Section 2: Custom student dataset analysis (7 points in total)
 
