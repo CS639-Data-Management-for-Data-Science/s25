@@ -16,6 +16,7 @@
 - [4/02 12:08 PM] Adding more clarifications to Q21.
 - [4/02 10:43 PM] Clarifying transform_survey versus survey_transformed in Q9.
 - [4/02 10:46 PM] Clarifying how to handle null values in Q25.
+- [4/02 11:11 PM] We'll accept both 3 sources and 4 sources for Q19 as some of you have chosen to combine all airbyte data into a single source.
 
 
 ## :telescope: Overview
@@ -224,6 +225,7 @@ After all these steps, you can create staging tables and marts tables using dbt.
 #### Q19: Update `models/schema.yml` file to include new sources for `STOCK_DB` tables (0.5 points)
 
 You should set the stock data soource name as `stock_by_day`, fx data source name as `fx_by_day`, and the Airbyte extracted data as `airbyte_csv_data`. Stock data should include `US_STOCK_METRICS` table, FX data should include `FOREX_METRICS` table, and  airbyte data should include `TRADING_BOOKS` & `WEIGHTS_TABLE`. **NEW NOTE**: You'll have four sources after this step for each of the following: survey (whatever name you defined for it - we din't impose any names), stock_by_day, fx_by_day, csv source (whatever name you defined for it - we didn't impose any names for this either). 
+**NEW NOTE**: We'll accept both 3 sources and 4 sources. Some of you have decided to combine all airbyte data into a single source. That is acceptable configuration.
 
 :outbox_tray: To get credit for this question:
 - In `p4.ipynb`, create a new markdown cell to identify Q19 (feel free to copy paste the format from this README file).
