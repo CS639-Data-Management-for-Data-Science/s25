@@ -15,6 +15,7 @@
 - [4/02 10:11 PM] Fixing Q19 to remove "second" source. You'll need to add multiple sources for the STOCK_DB tables.
 - [4/02 12:08 PM] Adding more clarifications to Q21.
 - [4/02 10:43 PM] Clarifying transform_survey versus survey_transformed in Q9.
+- [4/02 10:46 PM] Clarifying how to handle null values in Q25.
 
 
 ## :telescope: Overview
@@ -321,7 +322,14 @@ In this question, you should SQL query to calculate the total profit by desk. Yo
 
 #### Q25: Compute profit rate by desk (1 point)
 
-In this question, you are required to write an SQL query to calculate the total profit rate for each desk. The profit rate is defined as the difference between total sell money and total buy money, divided by the total buy money. Your query should aggregate the data by desk and handle potential division by zero errors.
+In this question, you are required to write an SQL query to calculate the total profit rate for each desk. The profit rate is defined as the difference between total sell money and total buy money, divided by the total buy money. Your query should aggregate the data by desk and handle potential division by zero errors. **NEW NOTE**: Division by zero errors should be handled by replacing 0 with NULL.
+
+<details>
+  <summary>
+    Hint:
+  </summary>
+  Explore [NULLIF function](https://docs.snowflake.com/en/sql-reference/functions/nullif). 
+</details>
 
 Your SQL query's output should look like this:
 
