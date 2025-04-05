@@ -58,7 +58,7 @@ We will use the web version of Airbyte for this project. You need to register an
 
 :outbox_tray: To get credit for this question include the screenshot of `Settings > Workspace > Members` in your submitted report. The example screenshot is as follows:
 
-![Airbyte homepage](./images/Airbyte_homepage.png?)
+![Airbyte homepage](./images/Airbyte_homepage.png)
 
 #### Q2: Register Snowflake Account (0.5 points)
 
@@ -69,7 +69,7 @@ Snowflake is a cloud-based data platform that provides scalable storage, high-pe
 - Make sure to name the resultant columns as `account_name`, `region`, `user_name`, and `snowflake_version`.
 - After executing the query, make sure to click on your account details and provide a screenshot that shows your account information, your Snowflake SQL query and the query's output. The example screenshot is as follows:
 
-![Snowflake account details query](./images/Snowflake_account.png)
+![Snowflake account details query](./images/Snowflake_account.png?)
 
 #### Q3: Install DBT using Miniconda (0.5 points)
 
