@@ -32,7 +32,7 @@
 4. Submit the CSV generated to the competition.
 
 ---
-## Helper Utilities. Read the Fn names atleast so that you are not re-writing code(Refer to the helper.py)
+## Helper Utilities. Read the Function names at least so that you are not re-writing code(Refer to the helper.py)
 
 * **make_submission**: Helps you convert your predictions to competition submission ready files.
 * **rmsle**: Implementation of the metric used to evaluate your score on the leaderboard.
