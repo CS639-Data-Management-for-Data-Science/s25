@@ -146,8 +146,6 @@ In the process of data analysis, it is common to use your private data that are 
 
 ![Airbyte sources](./images/Airbyte_sources.png)
 
-**Note**: Your screenshot will include 3 sources unlike this example screenshot. We'll be updating this screenshot sometime soon.
-
 #### Q7: Connect Airbyte to Snowflake to load `trading_books` and `weights_table` (0.5 points)
 
 Set up another Airbyte connection to Snowflake. The relevant documentation should pop up directly in Airbyte. Just in case, you can find the documentation [here](https://docs.airbyte.com/integrations/destinations/snowflake?_gl=1*6fqg41*_gcl_aw*R0NMLjE3Mjk1MjI4MTEuQ2owS0NRanc5OWU0QmhEaUFSSXNBSVNFN1BfYWZuTEtHN3BlUWxlbmZXOW14Q0otaXRwWG0zV0xsM1pjeGpjQWt6bE9sQS1oNTFZODE5a2FBc3lIRUFMd193Y0I.*_gcl_au*NzUxMzA5NTcyLjE3MjkwMDUxMzUuMzk0OTIyMjM4LjE3MzAzMTIyMDEuMTczMDMxMjcyMQ..). You need to set `Trade_id` in `trading_books` and `Region` in `weights_table` as the primary keys.
@@ -155,7 +153,6 @@ Set up another Airbyte connection to Snowflake. The relevant documentation shoul
 :outbox_tray: To get credit for this question, you are required to include the screenshot of the page `Destinations` in Airbyte WebUI in your submitted report, the connection should be healthy. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
 ![Airbyte destination](./images/Airbyte_destinations.png?)
-**Note**: Your screenshot will include 2 (**new note**: this should be 2 and not 3) destinations unlike this example screenshot. We'll be updating this screenshot sometime soon.
 
 #### Q8: Data Preview on Snowflake (0.5 points)
 
