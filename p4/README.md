@@ -134,7 +134,7 @@ Configure an Airbyte connection with this google sheet source: [https://docs.goo
 
 :outbox_tray: To get credit for this question include the screenshot of your Airbyte `Connections` page in your submitted report. The example screenshot is as follows:
 
-![Airbyte connections](./images/Airbyte_google_sheet.png?)
+![Airbyte connections](./images/Airbyte_google_sheet.png)
 
 #### Q6: Airbyte configuration for `trading_books.csv` and `weights_table.csv` files (0.5 points)
 
@@ -144,7 +144,7 @@ In the process of data analysis, it is common to use your private data that are 
 
 :outbox_tray: To get credit for this question, you are required to include the screenshot of your `Sources` section in the Airbyte in the report. The sources should contain two extractions of `Files`. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
-![Airbyte sources](./images/Airbyte_sources.png)
+![Airbyte sources](./images/Airbyte_sources.png?)
 
 **Note**: Your screenshot will include 3 sources unlike this example screenshot. We'll be updating this screenshot sometime soon.
 
