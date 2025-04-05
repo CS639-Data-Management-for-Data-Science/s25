@@ -152,7 +152,7 @@ Set up another Airbyte connection to Snowflake. The relevant documentation shoul
 
 :outbox_tray: To get credit for this question, you are required to include the screenshot of the page `Destinations` in Airbyte WebUI in your submitted report, the connection should be healthy. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
-![Airbyte destination](./images/Airbyte_destinations.png?)
+![Airbyte destination](./images/Airbyte_destinations.png)
 
 #### Q8: Data Preview on Snowflake (0.5 points)
 
