@@ -144,7 +144,7 @@ In the process of data analysis, it is common to use your private data that are 
 
 :outbox_tray: To get credit for this question, you are required to include the screenshot of your `Sources` section in the Airbyte in the report. The sources should contain two extractions of `Files`. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
-![Airbyte sources](./images/Airbyte_sources.png?)
+![Airbyte sources](./images/Airbyte_sources.png)
 
 **Note**: Your screenshot will include 3 sources unlike this example screenshot. We'll be updating this screenshot sometime soon.
 
@@ -154,7 +154,7 @@ Set up another Airbyte connection to Snowflake. The relevant documentation shoul
 
 :outbox_tray: To get credit for this question, you are required to include the screenshot of the page `Destinations` in Airbyte WebUI in your submitted report, the connection should be healthy. You should also clearly show the `e-mail` and `name` of your account in the screenshot. The example screenshot is as follows:
 
-![Airbyte destination](./images/Airbyte_destinations.png)
+![Airbyte destination](./images/Airbyte_destinations.png?)
 **Note**: Your screenshot will include 2 (**new note**: this should be 2 and not 3) destinations unlike this example screenshot. We'll be updating this screenshot sometime soon.
 
 #### Q8: Data Preview on Snowflake (0.5 points)
