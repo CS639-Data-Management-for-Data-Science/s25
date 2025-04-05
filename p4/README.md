@@ -58,7 +58,7 @@ We will use the web version of Airbyte for this project. You need to register an
 
 :outbox_tray: To get credit for this question include the screenshot of `Settings > Workspace > Members` in your submitted report. The example screenshot is as follows:
 
-![Airbyte homepage](./images/Airbyte_homepage.png)
+![Airbyte homepage](./images/Airbyte_homepage.png?)
 
 #### Q2: Register Snowflake Account (0.5 points)
 
