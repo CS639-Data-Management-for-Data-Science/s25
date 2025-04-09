@@ -11,6 +11,7 @@
 # Clarification/Fixes
 
 1. You can submit your plots separately if your notebook keeps dying on you.
+2. You can try competing in Kaggle even if you only finish Section 2. That should be totally fine.
 
 ---
 
