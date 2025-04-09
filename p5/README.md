@@ -28,7 +28,7 @@
 ## Setup
 
 1. Create a Kaggle account *with your wisc email*, if you don't have one already. Signup here: https://www.kaggle.com/.
-2. Join the Kaggle competition: https://www.kaggle.com/t/8aca849f667809c7fb568e2845e7f44c.
+2. Join the Kaggle competition: [https://www.kaggle.com/t/8aca849f667809c7fb568e2845e7f44c](https://www.kaggle.com/t/9727942d265a48bdb9f5e317b065dc5d).
 3. Go to the *Code* Tab and create a new notebook:
 
 <img src="assets/create_nb.png" width="auto" height="400">
