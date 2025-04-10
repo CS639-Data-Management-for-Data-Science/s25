@@ -33,7 +33,7 @@
 
 <img src="assets/create_nb.png" width="auto" height="400">
 
-4. Download the [starter notebook](starter.ipynb) provided and then import it into the notebook you just created on Kaggle.
+4. Download the [starter notebook](starter-s25.ipynb) provided and then import it into the notebook you just created on Kaggle.
 5. Go to the ```+ Add Input``` button and add the competition data by selecting "Competition Dataset" and "Your Work":
 
 <img src="assets/add_input.png" width="auto" height="400">
