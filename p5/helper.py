@@ -129,15 +129,26 @@ def preprocess_test_train(merged_df, one_hot_encoder, stores):
     train = d[d.date < "2017-08-01"]
     test = d[d.date >= "2017-08-01"]
     test = test.drop(["sales"], axis=1)
-    
+
+    # After one-hot encoding is applied to both datasets
     train = pd.get_dummies(train, columns=train.select_dtypes(['object']).columns)
     train = pd.get_dummies(train, columns=train.select_dtypes(['category']).columns)
+                                                               
+    test = pd.get_dummies(test, columns=test.select_dtypes(['object']).columns)
+    test = pd.get_dummies(test, columns=test.select_dtypes(['category']).columns)
+                                                            
+    # Add missing columns to test (set to 0)
+    missing_cols = set(train.columns) - set(test.columns) - {'sales'}
+    for col in missing_cols:
+        test[col] = 0
+    # Ensure test has the same column order as train (except ‘sales’)
+    train_cols = [col for col in train.columns if col != 'sales']
+    test = test[train_cols]
+
     for col in train.columns:
         if pd.api.types.is_numeric_dtype(train[col]):
             train[col] = train[col].astype('float32')
-    
-    test = pd.get_dummies(test, columns=test.select_dtypes(['object']).columns)
-    test = pd.get_dummies(test, columns=test.select_dtypes(['category']).columns)
+
     for col in test.columns:
         if pd.api.types.is_numeric_dtype(test[col]):
             test[col] = test[col].astype('float32')
@@ -182,5 +193,3 @@ def preprocess_test_train(merged_df, one_hot_encoder, stores):
     test = test.rename(columns = lambda x:re.sub('[^A-Za-z0-9_]+', '', x))
 
     return train, test
-    
-    
