@@ -12,6 +12,7 @@
 
 1. You can submit your plots separately if your notebook keeps dying on you.
 2. You can try competing in Kaggle even if you only finish Section 2. That should be totally fine.
+3. helper.py is updated to ensure consistent one-hot encoded columns between train and test sets especially for Question 7.
 
 ---
 
