@@ -14,7 +14,7 @@
 2. You can try competing in Kaggle even if you only finish Section 2. That should be totally fine.
 3. Added clarification to q5
 4. Updated Submission Requirements
-5. updated the helper.py script to ensure that both the test and train datasets have consistent columns, especially for Question 7.
+5. Updated the ```helper.py``` script to ensure that both the test and train datasets have consistent columns, especially for Question 7.
 
 ---
 
