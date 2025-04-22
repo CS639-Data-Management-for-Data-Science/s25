@@ -15,6 +15,7 @@
 3. Added clarification to q5
 4. Updated Submission Requirements
 5. Updated the ```helper.py``` script to ensure that both the test and train datasets have consistent columns, especially for Question 7.
+6. Dropping Q15 and Q16.
 
 ---
 
