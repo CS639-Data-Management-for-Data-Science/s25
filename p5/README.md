@@ -202,11 +202,11 @@ Comparison Summary Table
 **Q14. Make a submission using an XGBoost model.**
 
 
-**Q15. Use optuna for automatic hyperparameter optimization for your models in questions 10, 11 and 12  to achieve a lower RMSLE.**
+<s>**Q15. Use optuna for automatic hyperparameter optimization for your models in questions 10, 11 and 12  to achieve a lower RMSLE.**
 
 * Recommendation: Try 10 trials for each method.
 
-**Q16. Which out of the three Catboost vs LightGBM vs XGBoost provides the best score? Why do you think this model is more suited to this dataset/problem?**
+**Q16. Which out of the three Catboost vs LightGBM vs XGBoost provides the best score? Why do you think this model is more suited to this dataset/problem?**</s>
 
 #### [OPTIONAL] Does competition get the blood flowing for ya? 🤠 Then climb the ranks! Potential to earn extra credit*
 
