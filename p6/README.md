@@ -20,7 +20,7 @@ Before starting, please review the [general project directions](../projects.md).
 
 ## :pushpin: Corrections/Clarifications
 
-N/A
+- 4/25: Added a note about `wandb` for Q2.2.
 
 ## :hammer_and_wrench: Section 0: Setup
 
@@ -226,7 +226,7 @@ In this section, you will fine-tune your quantized `Llama-3.2-1B-Instruct` model
             optim="paged_adamw_8bit"
         )
         ```
-    [Optional] In case you would like to by-pass the wandb prompt thrown by `SFTTrainer`, add argument `report_to="none"` in `TrainingArguments`.
+    [Note] The program will prompt you to supply a [Weights & Biases](https://wandb.ai/home) (`wandb`) API key to track metrics such as loss during your training run. `wandb` is an incredibly useful tool for analyzing your training runs, so make an account and play around with the graphs it gives you!
     * It is **OK if some of the epochs are auto-skipped by `SFTTrainer`** during fine-tuning. This is related to `gradient_accumulation_steps=4` setting.
 
 ### Q2.3: Test the model after fine-tuning.
