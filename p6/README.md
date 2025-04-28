@@ -94,7 +94,7 @@ This will prompt you to enter your HuggingFace API token.
 1. The dataset of lecture transcripts (1.txt, 2.txt, etc.) is provided as a ZIP file. Download and extract the files into your Colab or Kaggle environment using `wget` and `unzip`.
 
 ```
-!wget https://github.com/CS639-Data-Management-for-Data-Science/s25/main/p6/transcripts.zip
+!wget https://github.com/CS639-Data-Management-for-Data-Science/s25/raw/main/p6/transcripts.zip
 !unzip transcripts.zip -d transcripts/
 ```
 
