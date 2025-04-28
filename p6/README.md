@@ -43,7 +43,7 @@ This project **requires** the use of a GPU, and both Google Colab and Kaggle pro
 
 #### For Kaggle:
 1. Sign-in to [Kaggle]( https://www.kaggle.com/) with your "wisc.edu" ID.
-2. On the tab-bar, select on **Code**, and create a new notebook and name it `p7.ipynb`.
+2. On the tab-bar, select on **Code**, and create a new notebook and name it `p6.ipynb`.
 3. To enable GPU: **Settings → Accelerator → GPU P100**
 4. While you have free access to GPUs, there are usage limits you should be aware of:
     * You have maximum 30 hours/week of GPU access.
