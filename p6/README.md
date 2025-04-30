@@ -21,12 +21,15 @@ Before starting, please review the [general project directions](../projects.md).
 ## :pushpin: Corrections/Clarifications
 
 - 4/25: Added a note about `wandb` for Q2.2.
+- 4/30: Added submission clarifications and details for setting up Elasticsearch.
 
 ## :hammer_and_wrench: Section 0: Setup
 
 ### Step 1: Google Colab or Kaggle
 
-This project **requires** the use of a GPU, and both Google Colab and Kaggle provide free access to GPUs (e.g., NVIDIA Tesla T4). However, GPU resources are **not** guaranteed on Google Colab (it's based on availability). So feel free to use Google Colab if you manage to secure resources, otherwise please use Kaggle.
+This project requires you to submit **two notebook files**. **Both Section 1 and Section 2 require the use of a GPU**. **Google Colab** and **Kaggle** both provide free access to GPUs (e.g., **NVIDIA Tesla T4**). However, GPU resources on **Google Colab** are **not guaranteed**, as they depend on availability. Feel free to use **Google Colab** if you can secure resources; otherwise, please use **Kaggle**. 
+
+The **third Section** of the project requires running **Elasticsearch** locally.
 
 
 #### For Google Colab:
@@ -250,6 +253,15 @@ Unlike fine-tuned models that have static knowledge, RAG provides real-time, con
 
 ![ETL + RAG Pipeline](assets/p6_flow_chart.png)
 
+---
+
+### :hammer_and_wrench: Setting Up Elasticsearch
+
+This section requires you to run **Elasticsearch** locally.
+
+Refer to the [P3's guidelines](https://github.com/CS639-Data-Management-for-Data-Science/s25/tree/main/p3#hammer_and_wrench-setting-up-elasticsearch-using-docker) to set up Elasticsearch with Docker and configure Jupyter and the Python Elasticsearch Client.  
+Please create a new notebook in Jupyter and name it `p6_part3.ipynb`.
+ 
 ### Q3.1: Load Class Transcripts into Elasticsearch
 
 To build an end-to-end pipeline, you must load your lecture transcripts into Elasticsearch [look here for more info](https://haystack.deepset.ai/integrations/elasticsearch-document-store):
@@ -313,6 +325,7 @@ document_store = ElasticsearchDocumentStore(hosts="<url Elastic Cloud provides>"
                 st.session_state.messages.append({"role": "assistant", "content": response})
                 st.chat_message("assistant").write(response)
             ```
+- Take a screenshot of your Streamlit interface as `q3.png`.
 
 **Tips**:
 - Before you begin this section, reset all variables and clear memory using:
@@ -349,11 +362,16 @@ Some helpful resources:
 
 ## :outbox_tray: Submission
 
+- If you used **Google Colab** for the first two parts of the project, you are required to submit a **PDF** file of the notebook (`p6.pdf`). Otherwise, submit the **ipynb** file (`p6.ipynb`).
+- Additionally, submit your solution for part 3 as `p6_part3.ipynb`.
+- `q3.png` is your screenshot of Streamlit from Q3.
+
 - The structure of the required files for your submissions is as follows:
 ```
 p6-<your_team_name>
 |--- README.md (list names and e-mail IDs of team members at the top)
-|--- p6.ipynb
+|--- p6.pdf (or p6.ipynb if you didn't use Google Colab)
+|--- p6_part3.ipynb
 |--- q3.png
 ```
 - **If you have more than 1 member in your team**: please include a markdown cell, titled "Contributions", at the *beginning* or *end* of `p6.ipynb` that lists the contributions of each team member. For e.g.:  
