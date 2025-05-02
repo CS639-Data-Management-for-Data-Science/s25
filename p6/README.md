@@ -22,6 +22,7 @@ Before starting, please review the [general project directions](../projects.md).
 
 - 4/25: Added a note about `wandb` for Q2.2.
 - 4/30: Added submission clarifications and details for setting up Elasticsearch.
+- 5/2:  Added a note allowing `q3.pdf` instead of screenshots.
 
 ## :hammer_and_wrench: Section 0: Setup
 
@@ -325,7 +326,7 @@ document_store = ElasticsearchDocumentStore(hosts="<url Elastic Cloud provides>"
                 st.session_state.messages.append({"role": "assistant", "content": response})
                 st.chat_message("assistant").write(response)
             ```
-- Take a screenshot of your Streamlit interface as `q3.png`.
+- Take a screenshot of your Streamlit interface as `q3.png` (or make a pdf as `q3.pdf`).
 
 **Tips**:
 - Before you begin this section, reset all variables and clear memory using:
@@ -364,7 +365,7 @@ Some helpful resources:
 
 - If you used **Google Colab** for the first two parts of the project, you are required to submit a **PDF** file of the notebook (`p6.pdf`). Otherwise, submit the **ipynb** file (`p6.ipynb`).
 - Additionally, submit your solution for part 3 as `p6_part3.ipynb`.
-- `q3.png` is your screenshot of Streamlit from Q3.
+- `q3.png` is your screenshot of Streamlit from Q3 (or `q3.pdf`).
 
 - The structure of the required files for your submissions is as follows:
 ```
