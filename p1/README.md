@@ -266,8 +266,8 @@ conn.execute(text("""
 
 **Requirements:** 
 * **IMPORTANT NOTE**: You may **NOT** use a regular join to answer this question. Instead, you **MUST** use `RIGHT JOIN`.
-* Your result should include album title `AlbumTitle`, and artist name `ArtistName`.
-* Your results should be ordered by ascending order of `AlbumTitle` and ascending order of `ArtistName`.
+* Your result should include artist name `ArtistName` and album title `AlbumTitle` in that order.
+* Your results should be ordered by ascending order of `ArtistName` and ascending order of `AlbumTitle`.
 
 ## Section 3: Grouping and windowing (11 questions)
 
