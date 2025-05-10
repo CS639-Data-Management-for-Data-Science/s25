@@ -6,7 +6,7 @@
 - [2/14 12:30pm] Please complete this Github Classroom form (same link from Canvas announcement): https://forms.gle/dSxGuMnGRTd4791L6
 - [2/14 12:30pm] Added github repo file hierarchy for project submission
 
-## Parter policy for this assignment
+## Partner policy for this assignment
 
 We do accept partner work on this project. If you are in a team (max two people) to finish this assignment, only one of the team members should submit their assignment. **The submitted repo should have a README file that write ALL the team members' names right at the top of the file**.
 
