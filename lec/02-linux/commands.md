@@ -1,20 +1,22 @@
-# Linux demo commands
+# Linux Shell commands (updated for Spring 2026 with CDIS VM directions)
 
 ## SSH
 - `ssh-keygen` (enables you to create SSH key)
 - `cat ~/.ssh/id_rsa.pub` (copy public key)
-- `ssh <USERNAME>@<External IP>`
+- `ssh NETID@cs639-NETID.cs.wisc.edu`
+- `vim ~/.ssh/authorized_keys` --- paste the public key and save it
 - How to exit ssh session? exit / Ctrl + D
 
 ## History search: 
-- up / down array
+- up / down arrow
+- `history`
 - Ctrl+R
 
-## git commands
+## Basic Linux commands
 
-- `git clone <REPO URL>`
-- `cd <REPO DIRECTORY>`
-- `git pull` (execute this at the beginning of every lecture)
+- `pwd` 
+- `ls`
+- `clear`
 
 ## apt commands
 
@@ -22,16 +24,16 @@
 - `sudo apt-get update`
 - `sudo apt-get install emacs-nox`
 
-## Download `spotify.zip`
-- `wget https://ms.sites.cs.wisc.edu/cs639/data/spotify.zip` # download a file using URL
-- `unzip spotify.zip` --- won't work without installing the required package
-
 ## Basic Linux commands
 
-- `pwd` 
-- `ls` 
-- `touch example.txt` 
+- `touch example.txt`
+- `touch temp.txt` 
+- `rm temp.txt` 
 - `<vim / emacs / nano> example.txt` # feel free to use any editor, including UI-based editors like Visual Studio Code
+
+## Download `spotify.zip`
+- `wget https://ms.sites.cs.wisc.edu/cs574/data/spotify.zip` # download a file using URL
+- `unzip spotify.zip` --- won't work without installing the required package
 - `mv <SOURCE> <DEST>` # move `spotify_dataset.csv` to `spotify.csv` using this command
 - `cp <SOURCE> <DEST>` 
 
@@ -44,16 +46,23 @@
 - `head spotify.csv`
 - `tail spotify.csv`
 - `head -n 20 spotify.csv`
+- `tail -n 20 spotify.csv`
 - `tail -f spotify.csv` # follow flag
 - `Ctrl+C`: kill signal
 - `mkdir data`
+- `mkdir temp`
+- `rmdir temp`
 - `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ...
 - `su` # switch user
 - `sudo su` # to get around root permission to switch into root
-- `chmod <WHO><+/-><WHAT>`
-- `chmod o-r secret.txt` # remove read permission for other users
 - `echo $PATH` # environment variable contents
+  
+## git commands
+
+- `git clone <REPO URL>`
+- `cd <REPO DIRECTORY>`
+- `git pull` (execute this at the beginning of every lecture)
 
 ## Shebang line
 - `#! <PATH TO EXECUTABLE>`
