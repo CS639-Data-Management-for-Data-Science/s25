@@ -166,7 +166,7 @@ with open('answers/q1.json', 'w') as f:
 #### Q3 Add a new, index-able field named ``wiki`` (type: text) to the mapping from Q2. Bulk upload all the text files. Save this new dynamic mapping result in ``q3.json``. [0.6 Points]
 ---
 
-## 💎 Section 2: Madison and UW-M Trivia!
+## 💎 Section 2: Madison and UW Trivia!
 
 **IMPORTANT NOTE:** Continue saving each question's result into ``q<N>.json`` file.
 
