@@ -18,18 +18,18 @@
 - `ls`
 - `clear`
 
-## apt commands
-
-- `apt install emacs-nox` --- won't work because you don't have root permission
-- `sudo apt-get update`
-- `sudo apt-get install emacs-nox`
-
 ## Basic Linux commands
 
 - `touch example.txt`
 - `touch temp.txt` 
 - `rm temp.txt` 
 - `<vim / emacs / nano> example.txt` # feel free to use any editor, including UI-based editors like Visual Studio Code
+
+## apt commands
+
+- `apt install emacs-nox` --- won't work because you don't have root permission
+- `sudo apt-get update`
+- `sudo apt-get install emacs-nox`
 
 ## Download `spotify.zip`
 - `wget https://ms.sites.cs.wisc.edu/cs574/data/spotify.zip` # download a file using URL
