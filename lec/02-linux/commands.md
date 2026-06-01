@@ -59,16 +59,56 @@
 - `mkdir temp`
 - `rmdir temp`
 - `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ... # Absolute and relative paths
+
+## Permissions:
+- `cd ..` # from home directory
+- `touch secret.txt`
 - `su` # switch user
 - `sudo su` # to get around root permission to switch into root
+- `vim secret.txt` # secret message
+- `cat secret.txt`
+- `ls -l`
+- `Ctrl + D`
+- `cat secret.txt`
+- `sudo su`
+- `chmod o-r secret.txt` #u/g/o +/- r/w/x permissions
+- `Ctrl + D`
+- `cat secret.txt`
+
+## Programs
+- `python3`
+- `vim count.py`
+  ```
+  from pathlib import Path
+  count = 0
+
+  with open(Path("data") / "stations.txt") as f:
+    for line in f:
+      count += 1
+
+  print(count)
+  ```
+- `python3 count.py`
+- `count.py`
+- `./count.py`
+- `ls -l`
+- `chmod a+x count.py`
+- `ls -l`
+
+## Shebang line
+- `which <EXECUTABLE>` # finds path to the executable `which python3`, `which bash`, etc.,
+- `#! <PATH TO EXECUTABLE>`
+- `vim hello.py` # print("hello world!") along with shebang line
+- `chmod a+x hello.py`
+- `mv hello.py hello`
+- `./hello`
+- `hello`
 - `echo $PATH` # environment variable contents
-  
+- `sudo mv hello /usr/local/bin`
+    
 ## git commands
 
 - `git clone <REPO URL>`
 - `cd <REPO DIRECTORY>`
 - `git pull` (execute this at the beginning of every lecture)
 
-## Shebang line
-- `#! <PATH TO EXECUTABLE>`
-- `which <EXECUTABLE>` # finds path to the executable `which python3`, `which bash`, etc.,
