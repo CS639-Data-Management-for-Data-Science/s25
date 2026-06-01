@@ -43,12 +43,13 @@
 - `scp <SOURCE PATH on your laptop> <USERNAME>@<IP>:~/<DESTINATION PATH>`
 
 ## Basic Linux commands
-- `cat spotify.csv` 
-- `head spotify.csv`
-- `tail spotify.csv`
-- `head -n 20 spotify.csv`
-- `tail -n 20 spotify.csv`
-- `tail -f spotify.csv` # follow flag
+- `cat stations.txt`
+- `head stations.txt`
+- `head --help`
+- `tail stations.txt`
+- `head -n 20 stations.txt`
+- `tail -n 20 stations.txt`
+- `tail -f stations.txt` # follow flag
 - `Ctrl+C`: kill signal
 - `mkdir data`
 - `mkdir temp`
