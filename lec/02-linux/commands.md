@@ -58,7 +58,7 @@
 - `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `mkdir temp`
 - `rmdir temp`
-- `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ...
+- `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ... # Absolute and relative paths
 - `su` # switch user
 - `sudo su` # to get around root permission to switch into root
 - `echo $PATH` # environment variable contents
