@@ -30,6 +30,7 @@
 - `apt install emacs-nox` --- won't work because you don't have root permission
 - `sudo apt-get update`
 - `sudo apt-get install emacs-nox`
+- `sudo apt-get install -y emacs-nox`
 
 ## Download `spotify.zip`
 - `wget https://ms.sites.cs.wisc.edu/cs574/data/spotify.zip` # download a file using URL
