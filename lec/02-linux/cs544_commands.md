@@ -35,11 +35,11 @@
 ## Download `spotify.zip`
 - `wget https://ms.sites.cs.wisc.edu/cs544/data/ghcnd-stations.txt` # download a file using URL
 - `unzip spotify.zip` --- won't work without installing the required package
-- `mv <SOURCE> <DEST>` # move `spotify_dataset.csv` to `spotify.csv` using this command
+- `mv <SOURCE> <DEST>` # move `ghcnd-stations.txt` to `stations.txt` using this command
 - `cp <SOURCE> <DEST>` 
 
 ## Remote copy
-- `scp <USERNAME>@<IP>:~/spotify.csv .` --- won't work unless you are in your laptop's terminal session; that is you cannot use scp from inside your VM's SSH session
+- `scp <USERNAME>@<IP>:~/stations.txt .` --- won't work unless you are in your laptop's terminal session; that is you cannot use scp from inside your VM's SSH session
 - `scp <SOURCE PATH on your laptop> <USERNAME>@<IP>:~/<DESTINATION PATH>`
 
 ## Basic Linux commands
