@@ -51,11 +51,14 @@
 - `tail -n 20 stations.txt`
 - `tail -f stations.txt` # follow flag
 - `Ctrl+C`: kill signal
+
+## Directory commands:
 - `mkdir data`
+- `man ls`
+- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `mkdir temp`
 - `rmdir temp`
-- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
-- `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ...
+- `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ... # Absolute and relative paths
 - `su` # switch user
 - `sudo su` # to get around root permission to switch into root
 - `echo $PATH` # environment variable contents
