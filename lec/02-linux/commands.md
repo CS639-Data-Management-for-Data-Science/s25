@@ -45,15 +45,19 @@
 ## Basic Linux commands
 - `cat spotify.csv` 
 - `head spotify.csv`
+- `head --help`
 - `tail spotify.csv`
 - `head -n 20 spotify.csv`
 - `tail -n 20 spotify.csv`
 - `tail -f spotify.csv` # follow flag
 - `Ctrl+C`: kill signal
+
+## Directory commands:
 - `mkdir data`
+- `man ls`
+- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `mkdir temp`
 - `rmdir temp`
-- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ...
 - `su` # switch user
 - `sudo su` # to get around root permission to switch into root
