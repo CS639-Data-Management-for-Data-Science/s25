@@ -33,7 +33,7 @@
 - `sudo apt-get install -y emacs-nox`
 
 ## Download `spotify.zip`
-- `wget https://ms.sites.cs.wisc.edu/cs574/data/spotify.zip` # download a file using URL
+- `wget https://ms.sites.cs.wisc.edu/cs544/data/ghcnd-stations.txt` # download a file using URL
 - `unzip spotify.zip` --- won't work without installing the required package
 - `mv <SOURCE> <DEST>` # move `spotify_dataset.csv` to `spotify.csv` using this command
 - `cp <SOURCE> <DEST>` 
