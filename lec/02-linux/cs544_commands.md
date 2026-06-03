@@ -21,9 +21,9 @@
 ## Basic Linux commands
 
 - `touch example.txt`
-- `touch temp.txt` 
-- `rm temp.txt` 
+- `rm example.txt` 
 - `<vim / emacs / nano> example.txt` # feel free to use any editor, including UI-based editors like Visual Studio Code
+- `cat example.txt`
 
 ## apt commands
 
