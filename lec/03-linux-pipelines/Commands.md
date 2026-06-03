@@ -32,11 +32,13 @@ import time
   time.sleep(1)
 ```
 
+- `python3 count.py &`
 - `ps`
 - `ps a` # other users not just me
 - `ps ax` # not associated with the terminal
 - `ps ax | grep python3`
 - `kill <PID>` # Restart the program
+- `python3 count.py &`
 - `pkill python3`
 - `htop`
 - `time `
