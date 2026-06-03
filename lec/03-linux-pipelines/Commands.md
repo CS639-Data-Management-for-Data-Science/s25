@@ -38,6 +38,7 @@ import time
 - `ps ax` # not associated with the terminal
 - `ps ax | grep python3`
 - `kill <PID>` # Restart the program
+- `kill -9 <PID>` # immediately kills without a graceful exit
 - `python3 count.py &`
 - `pkill python3`
 - `htop`
