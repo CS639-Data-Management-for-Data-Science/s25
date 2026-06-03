@@ -59,4 +59,5 @@ import time
 - `du`
 - `du -sh`
 - `du -sh .`
+- `du -sh ./*`
 - `ss -tpln` # tcp # process
