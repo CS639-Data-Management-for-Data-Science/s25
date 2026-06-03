@@ -24,7 +24,9 @@ cat data/spotify.csv | grep "^dance pop"` > pop.csv
 cat data/spotify.csv | grep "^dance pop"` >> pop.csv
 ```
 
-## count.py
+## Processes
+
+count.py
 
 ```
 import time
@@ -41,6 +43,9 @@ import time
 - `kill -9 <PID>` # immediately kills without a graceful exit
 - `python3 count.py &`
 - `pkill python3`
+
+## Resource utilization commands
+
 - `htop`
 - `time `
 - `df `
