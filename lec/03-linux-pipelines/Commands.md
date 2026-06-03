@@ -1,7 +1,7 @@
 # Linux Pipelines and Redirections
 
 ## Pipelines
-- `wc` # word count
+- `wc` # word count # type "hello world\n"
 - `cat data/spotify.csv | wc`
 - `cat data/spotify.csv | grep "pop"`
 - `cat data/spotify.csv | grep "pop" | grep -v "uk pop"`
@@ -13,6 +13,8 @@
 - `cat data/spotify.csv | grep "^ pop"` > pop.csv
 - `cat data/spotify.csv | grep "^dance pop"` > pop.csv
 - `cat data/spotify.csv | grep "^dance pop"` >> pop.csv
+- `head pop.csv`
+- `tail pop.csv`
 
 ## make_pop.sh
 ```
