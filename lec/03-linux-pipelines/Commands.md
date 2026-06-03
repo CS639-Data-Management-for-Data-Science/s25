@@ -47,11 +47,12 @@ import time
 ## Resource utilization commands
 
 - `htop`
-- `time `
+- `time find` # real: wall clock time # user (our program) & sys: CPU time userspace and system time 
 - `df `
 - `df .`
 - `df . -h`
 - `du`
 - `du -sh`
 - `du -sh .`
+- `du -sh ./*`
 - `ss -tpln` # tcp # process
