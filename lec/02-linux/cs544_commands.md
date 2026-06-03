@@ -55,13 +55,12 @@
 ## Directory commands:
 - `mkdir data`
 - `man ls`
-- `ls -lah`
+- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 - `mkdir temp`
 - `rmdir temp`
 - `mv *.txt data`
 - `ls -l data/`
 - `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ... # Absolute and relative paths
-- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
   
 ## Permissions:
 - `cd ..` # from home directory
