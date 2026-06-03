@@ -61,3 +61,4 @@ import time
 - `du -sh .`
 - `du -sh ./*`
 - `ss -tpln` # tcp # process
+- `sudo ss -tpln` # tcp # process
