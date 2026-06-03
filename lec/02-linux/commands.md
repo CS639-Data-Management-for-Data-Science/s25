@@ -21,10 +21,10 @@
 ## Basic Linux commands
 
 - `touch example.txt`
-- `touch temp.txt` 
-- `rm temp.txt` 
+- `rm example.txt` 
 - `<vim / emacs / nano> example.txt` # feel free to use any editor, including UI-based editors like Visual Studio Code
-
+- `cat example.txt`
+- 
 ## apt commands
 
 - `apt install emacs-nox` --- won't work because you don't have root permission
@@ -55,10 +55,13 @@
 ## Directory commands:
 - `mkdir data`
 - `man ls`
-- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
+- `ls -lah`
 - `mkdir temp`
 - `rmdir temp`
+- `mv *.txt data`
+- `ls -l data/`
 - `cd <DESTINATION>` # `cd ..`, `cd ~`, `cd data`, ... # Absolute and relative paths
+- `ls -lah` # Permissions USER | GROUP | OTHERS; rwx: READ WRITE EXECUTE
 
 ## Permissions:
 - `cd ..` # from home directory
