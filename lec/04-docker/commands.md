@@ -83,7 +83,7 @@ RUN apt-get update && \
 - `docker run -it demo bash`
 - `python3`
 - ``pip3 install pandas==2.3.3`
-- `pip3 install pandas==2.3.3 --break-system packages`
+- `pip3 install pandas==2.3.3 --break-system-packages`
 
 ```
 vim Dockerfile
