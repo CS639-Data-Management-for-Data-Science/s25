@@ -84,23 +84,22 @@ RUN apt-get update && \
 - `python3`
 - ``pip3 install pandas==2.3.3`
 - `pip3 install pandas==2.3.3 --break-system-packages`
-
+- `vim Dockerfile`
 ```
-vim Dockerfile
 FROM ubuntu
 RUN apt-get update && \
     apt-get install -y unzip python3 python3-pip
 RUN pip3 install pandas==2.3.3 --break-system packages
 ```
+- `vim myapp.py`
 ```
-vim myapp.py
 import pandas as pd
-mySeries = pd.Series([1,2,3])
-print(mySeries.sum())
+s = pd.Series([1, 2, 3])
+print("Total: " + s.sum())
 ```
 - `python3 myapp.py`
+- `vim Dockerfile`
 ```
-vim Dockerfile
 FROM ubuntu
 RUN apt-get update && \
     apt-get install -y unzip python3 python3-pip
