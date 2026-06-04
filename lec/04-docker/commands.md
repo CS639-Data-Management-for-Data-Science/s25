@@ -95,7 +95,7 @@ RUN pip3 install pandas==2.3.3 --break-system packages
 ```
 import pandas as pd
 s = pd.Series([1, 2, 3])
-print("Total: " + s.sum())
+print("Total: ", s.sum())
 ```
 - `python3 myapp.py`
 - `vim Dockerfile`
