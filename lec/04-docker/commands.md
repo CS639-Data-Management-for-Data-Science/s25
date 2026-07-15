@@ -1,3 +1,12 @@
+Let's take a look at the Cassandra startup script. The most important line starts a Cassandra worker. We need to pass -R to say it's OK to run as root — remember, we're root when we're inside a container. Starting Cassandra is asynchronous: the command returns immediately. We don't want our script to exit right away, because then the container would exit — so we add sleep infinity at the end to keep it running.
+
+Before starting Cassandra, the script makes a few configuration changes. First, we append two JVM options that fix the Java heap size at 128 megabytes, so that running three Cassandra workers doesn't exceed the memory limits we set in our compose file.
+
+Next, we use sed commands to do regular-expression replacements in the cassandra.yaml file. We need to make some configuration choices based on the container's hostname: the listen_address, which is what the workers use to talk to each other, and the rpc_address, which is what clients connect to.
+
+Finally, we have this notion of seeds. When a Cassandra cluster already exists and a new worker joins, the new worker can discover who else is there — we'll eventually talk about that process. But when we first start several workers together, we designate them as seeds and tell each of them about the others so they can form a ring. In this example, we run three workers, and all three are seeds, so they immediately know about each other right away.
+
+
 ## Docker commands
 
 - `docker`
